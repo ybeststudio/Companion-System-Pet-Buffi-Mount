@@ -1,0 +1,194 @@
+ADVANCED_OPTIONS_GROUP_DAMAGE_SETTINGS	Schadenseinstellungen
+ADVANCED_OPTIONS_GROUP_HIDE_ENTITIES_EFFECTS	Entitäten / Effekte ausblenden
+ADVANCED_OPTIONS_GROUP_METINSTONE_SETTINGS	Metinstein-Einstellungen
+AUTO_ALCHEMY_EXPIRED	Alchemie abgelaufen
+AUTO_ALL_NOTIFICATIONS	Alle Benachrichtigungen
+AUTO_BONUS_6_7_FINISHED	Bonus 6/7 beendet
+AUTO_BUFFILERI_GIZLE	Buffs ausblenden
+AUTO_COMPANION_EXPIRED	Begleiter abgelaufen
+AUTO_EVRIM	Evolution %d -> %d
+AUTO_GEREKEN_SEVIYE	Benötigte Stufe: %d
+AUTO_ITEM_EXPIRED	Gegenstand abgelaufen
+AUTO_MARKET_SALES	Marktverkäufe
+AUTO_MISSION_BOOK	Missionsbuch
+AUTO_NOTHING_HIDDEN	Nichts ausgeblendet
+AUTO_SA_DK	%dStd. %dMin.
+BIOLOG_SUCCESS_BOOST	Erhöht die Erfolgschance um %%%d.
+BRAVE_CAPE_TITLE	Automatischer Umhang
+BUFFI_DURATION_PERM	Permanent
+BUFFI_GRADE_GRAND_MASTER	 Grand Master
+BUFFI_GRADE_MASTER	 Master
+BUFFI_GRADE_PERFECT_MASTER	 Perfect Master
+BUFFI_INT_POWERED	Wird verstärkt durch INT
+BUFFI_INT_STAGE_1	Evolution 1 (Level 55)
+BUFFI_INT_STAGE_2	Evolution 2 (Level 75)
+BUFFI_INT_STAGE_3	Evolution 3 (Level 90)
+BUFFI_INT_STAGE_DEFAULT	Standard
+BUFFI_INT_TABLE_EVOLUTION	Evolution
+BUFFI_INT_TABLE_INTELLIGENCE	Intelligenz
+BUFFI_INT_TOOLTIP	Buffis Intelligenz wächst durch Evolution
+BUFFI_MAX_EVOLUTION_REACHED	Dein Buffi kann sich nicht weiterentwickeln.
+BUFFI_NO_SPAWN	Du hast keinen Buffi beschworen
+BUFFI_ORE_REMOVE_HINT	Zum Entfernen klicken
+BUFFI_SKILL_1_COND	Widerstand gegen Nahkampfangriffe
+BUFFI_SKILL_1_DESC	Erzeugt einen Schutzkreis.
+BUFFI_SKILL_1_NAME	Segen
+BUFFI_SKILL_1_NAME_G	Himmelswand
+BUFFI_SKILL_1_NAME_P	Segen des Drachen
+BUFFI_SKILL_1_VALUE	Widerstand gegen Nahkampfangriffe: %d%%
+BUFFI_SKILL_2_COND	Reflektiert Schaden zurück auf den Angreifer
+BUFFI_SKILL_2_DESC	erschaffe einen reflektierenden Schutzkreis
+BUFFI_SKILL_2_NAME	Reflektieren
+BUFFI_SKILL_2_NAME_G	Reflektierendes Wasser
+BUFFI_SKILL_2_NAME_P	Glasspiegel
+BUFFI_SKILL_2_VALUE	Reflektierter Nahkampfschaden: %d%%
+BUFFI_SKILL_3_COND	Erhöht die Chance auf einen kritischen Treffer
+BUFFI_SKILL_3_DESC	Verstärkt deinen Angriff oder den Angriff eines Gruppenmitglieds.
+BUFFI_SKILL_3_NAME	Hilfe des Drachen
+BUFFI_SKILL_3_NAME_G	Unterstützung des Drachen
+BUFFI_SKILL_3_NAME_P	Drachenhilfe
+BUFFI_SKILL_3_VALUE	Chance auf kritischen Treffer: %d%%
+BUFFI_SKILL_3_VALUE_TOOLTIP	Chance auf kritischen Treffer: %d%%
+BUFFI_SKILL_4_CAST_VALUE_TOOLTIP	Zaubergeschwindigkeit: %d%%
+BUFFI_SKILL_4_COND	Erhöht Bewegungsgeschwindigkeit & Zaubergeschwindigkeit
+BUFFI_SKILL_4_COND_SELF	Bonus auf Selbstanwendung
+BUFFI_SKILL_4_DESC	Laufe so schnell wie der Wind.
+BUFFI_SKILL_4_NAME	Schnelligkeit
+BUFFI_SKILL_4_NAME_G	Geschwindigkeit
+BUFFI_SKILL_4_NAME_P	Windgeschwindigkeit
+BUFFI_SKILL_4_VALUE	Bewegungsgeschwindigkeit: %d%%
+BUFFI_SKILL_4_VALUE_TOOLTIP	Bewegungsgeschwindigkeit: %d%%
+BUFFI_SKILL_5_COND	Erhöht den Angriffswert
+BUFFI_SKILL_5_COND_PARTY	Kann auf Gruppenmitglieder angewendet werden
+BUFFI_SKILL_5_DESC	Verstärke einen Partner
+BUFFI_SKILL_5_NAME	Angriff+
+BUFFI_SKILL_5_NAME_G	Angriff unterstützen
+BUFFI_SKILL_5_NAME_P	Verstärkter Angriff
+BUFFI_SKILL_5_VALUE	Angriffskraft: +%d
+BUFFI_SKILL_COND_SELF_BUFF	Buff | Bonus, wenn auf sich selbst gewirkt
+BUFFI_SUMMON_FIRST	Beschwöre zuerst dein Buffi.
+COMPANION_CONFIRM	Bestätigen
+COMPANION_COSTUME_BODY	Körper
+COMPANION_COSTUME_HAIR	Frisur
+COMPANION_COSTUME_SASH	Schulterband
+COMPANION_COSTUME_WEAPON	Waffen
+COMPANION_DAY_SHORT	T
+COMPANION_DURATION	Dauer
+COMPANION_EVOLUTION_CANNOT_FAIL	Verbesserung kann nicht fehlschlagen
+COMPANION_EVOLVE	Evolution
+COMPANION_EVOLVE_LEVEL	Dein Haustier muss für die Entwicklung Stufe %d haben.
+COMPANION_EVOLVE_MAX	Dein Haustier hat bereits die höchste Entwicklungsstufe.
+COMPANION_EVOLVE_PRICE	Entwicklungspreis: %s |Eemoji/gold|e
+COMPANION_EVOLVE_SUCCESS	Dein Haustier hat sich weiterentwickelt!
+COMPANION_EXP	Erfahrung
+COMPANION_HOUR_SHORT	Std.
+COMPANION_NO_PET	Du hast kein Pet beschworen
+COMPANION_PET_LEVEL	Level
+COMPANION_PET_NAME	Name
+COMPANION_PET_PITY	Fehlversuche vor %%100 Chance: %d / %d
+COMPANION_PET_TYPE	Typ
+COMPANION_POTION_FAIL	Die Verwendung des Elixiers ist fehlgeschlagen.
+COMPANION_POTION_MAX	Maximalwert für dieses Elixier: %%%d
+COMPANION_POTION_NO_PET	Du musst zuerst ein Haustier beschwören.
+COMPANION_POTION_SUCCESS	Der Haustierbonus beträgt jetzt %%%0.1f.
+COMPANION_REQUIREMENTS	ANFORDERUNGEN
+COMPANION_SKILLS	Fertigkeiten
+COMPANION_SKILL_SLOT_MAX	Alle Fertigkeitsplätze deines Haustiers sind bereits freigeschaltet.
+COMPANION_SKILL_SLOT_OPENED	Fertigkeitsplatz %d deines Haustiers wurde freigeschaltet.
+COMPANION_TYPE_UP_FAIL	Die Typ-Verbesserung ist fehlgeschlagen.
+COMPANION_TYPE_UP_GOLD	Du hast nicht genug Yang.
+COMPANION_TYPE_UP_ITEM	Du hast nicht die erforderlichen Materialien.
+COMPANION_TYPE_UP_MAX	Dein Haustier hat bereits den höchsten Typ.
+COMPANION_TYPE_UP_SUCCESS	Der Typ deines Haustiers wurde verbessert.
+COMPANION_UPGRADE_PRICE	Verbesserungspreis
+COMPANION_UPGRADE_TITLE	Upgrade-Typ
+COMPANION_UPGRADE_TYPE	Upgrade-Typ
+COMPANION_UPGRADE_TYPE_PRICE	Aufwertungspreis: %s |Eemoji/gold|e
+GAME_OPTION_HIDE_MOUNT	Reittier verstecken
+GAME_OPTION_HIDE_PET	Pet verstecken
+GAME_OPTION_NOTIFICATION_BATTLE_PASS	Battle Pass
+MOUNT_BONUS_AVAILABLE_FIRST	Bonus für den 1. Bonus verfügbar
+MOUNT_BONUS_AVAILABLE_SECOND	Bonus für den 2. Bonus verfügbar
+MOUNT_BONUS_AVAILABLE_THIRD	Bonus für den 3. Bonus verfügbar
+MOUNT_BONUS_HEADER	Bonusse
+MOUNT_BONUS_UNLOCK	Wird bei Entwicklung %d freigeschaltet
+MOUNT_DEFAULT_NAME_SHORT	Reittier
+MOUNT_EVOLVE_CONFIRMATION_1	Bist du sicher, dass du mit der Evolution fortfahren willst?
+MOUNT_EVOLVE_CONFIRMATION_2	Die für die Evolution verwendeten Items gehen verloren und können nicht zurückgeholt werden
+MOUNT_EVOLVE_TITLE	Reittier Evolution
+MOUNT_FEED	Füttern
+MOUNT_FEED_CONFIRMATION	Möchtest du dein Reittier füttern?
+MOUNT_FEED_NEED	Dafür wird |cffc79e65%s|r benötigt.
+MOUNT_FOOD	Futter
+MOUNT_FOOD_STATE_DYING	Verhungert am Sterben
+MOUNT_FOOD_STATE_HUNGRY	Hungrig
+MOUNT_FOOD_STATE_STARVING	Verhungert
+MOUNT_FOOD_STATE_WELL_FED	Gut gefüttert
+MOUNT_FOOD_TIME_FMT	%dStd. %dMin. %dSek.
+MOUNT_FOOD_TOOLTIP_EMPTY	Kein Futterbonus mehr vorhanden.
+MOUNT_FOOD_TOOLTIP_TO_DYING	Zeit im Kampf bis zum Verhungern am Sterben:
+MOUNT_FOOD_TOOLTIP_TO_HUNGRY	Zeit im Kampf bis zum Hungern:
+MOUNT_FOOD_TOOLTIP_TO_STARVING	Zeit im Kampf bis zum Verhungern:
+MOUNT_HORSE_SPEED_TEXT	Pferdegeschwindigkeit +%d%%
+MOUNT_MAX_LEVEL_REACHED	Dein Reittier hat die höchste Stufe erreicht.
+MOUNT_NO_SPAWN	Du hast kein Reittier beschworen
+MOUNT_RESULT_BONUS_CHANGED	Bonus %d deines Reittiers wurde geändert.
+MOUNT_RESULT_BONUS_LOCKED	Dieser Bonus-Slot wird bei Entwicklung %d freigeschaltet.
+MOUNT_RESULT_EVOLVED	Dein Reittier hat sich weiterentwickelt!
+MOUNT_RESULT_FED	Du hast dein Reittier gefüttert.
+MOUNT_RESULT_LEVEL_CAP	Dein Reittier muss sich weiterentwickeln, um fortzufahren.
+MOUNT_RESULT_LEVEL_UP	Dein Reittier hat Stufe %d erreicht.
+MOUNT_RESULT_SKILL_FAIL	Die Reittierfertigkeit konnte nicht verbessert werden.
+MOUNT_RESULT_SKILL_UNLOCKED	Fertigkeit %d deines Reittiers wurde freigeschaltet.
+MOUNT_RESULT_SKILL_UP	Die Reittierfertigkeit wurde verbessert.
+MOUNT_RUNE_BLESSING_FMT	Ankas Segen: %d / %d Fehlschläge
+MOUNT_RUNE_CHANCE_FMT	Erfolgschance: %%%d
+MOUNT_RUNE_CURRENT	Aktuelle Boni
+MOUNT_RUNE_FAILURE	Aufwertung fehlgeschlagen. Materialien und Yang wurden verbraucht; die Rune hat ihren Rang behalten.
+MOUNT_RUNE_INFORMATION	Schalte Runen frei, sobald dein Reittier Stufe 30 erreicht hat, voll entwickelt ist und vier Fertigkeiten auf Stufe 10 besitzt. Maximiere jede Rune, um die nächste freizuschalten. Nutze +, um aufzuwerten; jedes Siegel behält seine Runenränge. Boni gelten nur, während du auf dem Reittier reitest.
+MOUNT_RUNE_MAX	Maximaler Rang erreicht
+MOUNT_RUNE_NEXT	Boni des nächsten Rangs
+MOUNT_RUNE_PAGE_TITLE	Runen
+MOUNT_RUNE_PREVIOUS_MAX	Maximiere zuerst die vorherige Rune.
+MOUNT_RUNE_RANK_FMT	Stufe +%d / +%d
+MOUNT_RUNE_REQUIRE_SKILLS	Erfordert alle vier Reittier-Fertigkeiten auf Stufe 10.
+MOUNT_RUNE_SUCCESS	Rune aufgewertet. Der Segenszähler wurde zurückgesetzt.
+MOUNT_RUNE_UPGRADE_TITLE	Runen-Verbesserung
+MOUNT_SKILL_INFORMATION	Bringe dein Reittier auf Stufe 30 und Entwicklungsstufe 4/4.^Schalte die Fertigkeiten der Reihe nach frei; die vorherige Fertigkeit muss Stufe 10 haben.^Jede Freischaltung verbraucht 1 x %s.^Klicke auf einen gesperrten Slot, um ihn freizuschalten.
+MOUNT_SKILL_LEVEL	Stufe %d / %d
+MOUNT_SKILL_UNLOCK_CONFIRM_FMT	Möchtest du die Reittierfertigkeit mit 1 x %s freischalten?
+MOUNT_SKILL_UNLOCK_ORDER	Schalte die Fertigkeiten der Reihe nach frei und erreiche bei der vorherigen Fertigkeit Stufe 10.
+MOUNT_SKILL_UNLOCK_REQUIREMENTS	Dein Reittier muss Stufe 30 und Entwicklungsstufe 4/4 haben.
+MOUNT_UPGRADE_SKILL_CONFIRMATION	Fertigkeit deines Reittiers verbessern?
+ORE_NAME	Erz
+PET_AUTO_LOCKED_SKILL_TOOLTIP	Wird automatisch freigeschaltet, wenn das Pet Level 90 erreicht
+PET_BTN_EVOLVE	Entwickeln
+PET_EVOLUTION_TITLE	Entwicklung
+PET_INCUBATOR_PRICE	Brutkasten-Preis: %s |Eemoji/gold|e
+PET_INFORMATION_DURATION	Dauer
+PET_INFORMATION_TITLE	Begleiter
+PET_LOCKED_SKILL_TOOLTIP	Kann freigeschaltet werden, wenn das Pet Level 105 erreicht hat und ein Pet-Freischalter verwendet wird.
+PET_MSG_CANNOT_SUMMON_NOW	Du kannst dein Pet nicht rufen, während du handelst.
+PET_MSG_LEVEL_TOO_HIGH	Das Level des Pets kann das Level des Spielers nicht übersteigen.
+PET_MSG_LIFETIME_EXTENDED	Die maximale Dauer deines Haustiers wurde auf %s Tage erhöht.
+PET_MSG_LIFETIME_MAX	Die maximale Dauer deines Haustiers darf höchstens %s Tage betragen.
+PET_MSG_LIFETIME_OVER	Die Zeit deines Haustiers %s ist abgelaufen.
+PET_POTION_REQUIRED_TYPE	Zur Verwendung dieses Elixiers ist Haustier-Typ %d erforderlich
+PET_SEAL_TIME_DHM	%dT %dStd. %dMin.
+PET_SEAL_TOOLTIP_ATTACK	Angreifen
+PET_SEAL_TOOLTIP_ELEMENT	Elementarkraft
+PET_SEAL_TOOLTIP_HP	TP
+PET_SEAL_TOOLTIP_TIME	Verbleibende Zeit: %s
+SUPPORT_DURATION_BUTTON	Dauer
+SUPPORT_SKILL_AMOUNT_DESC_110	Bewegungsgeschwindigkeit: %s
+SUPPORT_SKILL_AMOUNT_DESC_110_B	Zaubergeschwindigkeit: %s
+SUPPORT_SKILL_AMOUNT_DESC_111	Angriffskraft: +%s
+SUPPORT_SKILL_AMOUNT_DESC_94	Widerstand gegen Nahkampfangriffe: %s
+SUPPORT_SKILL_AMOUNT_DESC_95	Reflektierter Nahkampfschaden: %s
+SUPPORT_SKILL_AMOUNT_DESC_96	Kritische Trefferchance: %s
+SUPPORT_TITLE_EVOLVE	Buffi Evolution
+SUPPORT_TITLE_SKILL	Fertigkeiten
+TASKBAR_WIKI	Wiki
+TOOLTIP_BUFFI_UNEQUIP	Wenn du das Buffi manuell ablegst, werden die verliehenen Fertigkeitseffekte entfernt.
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Shop durchsuchen
+TOOLTIP_SHORTCUT_WIKI	Wikipedia öffnen

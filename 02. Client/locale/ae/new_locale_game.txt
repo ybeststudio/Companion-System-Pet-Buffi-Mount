@@ -1,0 +1,194 @@
+ADVANCED_OPTIONS_GROUP_DAMAGE_SETTINGS	ÅÚÏÇÏÇÊ ÇבÖÑÑ
+ADVANCED_OPTIONS_GROUP_HIDE_ENTITIES_EFFECTS	ÅÎÝÇÁ Çב‗םÇהÇÊ / ÇבÊÃËםÑÇÊ
+ADVANCED_OPTIONS_GROUP_METINSTONE_SETTINGS	ÅÚÏÇÏÇÊ ÍÌÑ ÇבדםÊה
+AUTO_ALCHEMY_EXPIRED	ÇהÊוÊ ÕבÇÍםÉ Çב‗םדםÇÁ
+AUTO_ALL_NOTIFICATIONS	‗ב ÇבÅÔÚÇÑÇÊ
+AUTO_BONUS_6_7_FINISHED	Ç‗Êדב ÇבÈזהÕ 6/7
+AUTO_BUFFILERI_GIZLE	ÅÎÝÇÁ ÇבÊÚÒםÒÇÊ
+AUTO_COMPANION_EXPIRED	ÇהÊוÊ ÕבÇÍםÉ ÇבÑÝםÞ
+AUTO_EVRIM	ÇבÊØזÑ %d -> %d
+AUTO_GEREKEN_SEVIYE	ÇבדÓÊזל ÇבדØבזÈ: %d
+AUTO_ITEM_EXPIRED	ÇהÊוÊ ÕבÇÍםÉ ÇבÚהÕÑ
+AUTO_MARKET_SALES	דÈםÚÇÊ ÇבÓזÞ
+AUTO_MISSION_BOOK	‗ÊÇÈ ÇבדוÇד
+AUTO_NOTHING_HIDDEN	בÇ ÔםÁ דÎÝם
+AUTO_SA_DK	%dÓ %dÏ
+BIOLOG_SUCCESS_BOOST	םÒםÏ ÝÑÕÉ ÇבהÌÇÍ ÈדÞÏÇÑ %%%d.
+BRAVE_CAPE_TITLE	ÇבÑÏÇÁ ÇבÊבÞÇÆם
+BUFFI_DURATION_PERM	ÏÇÆד
+BUFFI_GRADE_GRAND_MASTER	 Grand Master
+BUFFI_GRADE_MASTER	 Master
+BUFFI_GRADE_PERFECT_MASTER	 Perfect Master
+BUFFI_INT_POWERED	דÏÚזד ÈÜ INT
+BUFFI_INT_STAGE_1	ÇבÊØזÑ 1 (ÇבדÓÊזל 55)
+BUFFI_INT_STAGE_2	ÇבÊØזÑ 2 (ÇבדÓÊזל 75)
+BUFFI_INT_STAGE_3	ÇבÊØזÑ 3 (ÇבדÓÊזל 90)
+BUFFI_INT_STAGE_DEFAULT	ÇÝÊÑÇÖם
+BUFFI_INT_TABLE_EVOLUTION	ÇבÊØזÑ
+BUFFI_INT_TABLE_INTELLIGENCE	ÇבÐ‗ÇÁ
+BUFFI_INT_TOOLTIP	ÓםÒÏÇÏ Ð‗ÇÁ Buffi דÚ ÊØזÑו
+BUFFI_MAX_EVOLUTION_REACHED	בÇ םד‗ה בÜ Buffi ÇבÎÇÕ È‗ ÇבÊØזÑ Ã‗ËÑ.
+BUFFI_NO_SPAWN	בםÓ בÏם‗ Buffi הÔØ
+BUFFI_ORE_REMOVE_HINT	ÇהÞÑ בבÅÒÇבÉ
+BUFFI_SKILL_1_COND	דÞÇזדÉ וÌדÇÊ ÇבÞÊÇב ÇבÞÑםÈ
+BUFFI_SKILL_1_DESC	םהÔÆ ÏÇÆÑÉ זÇÞםÉ.
+BUFFI_SKILL_1_NAME	ÇבÈÑ‗É
+BUFFI_SKILL_1_NAME_G	ÇבÌהÉ
+BUFFI_SKILL_1_NAME_P	ÇבÊהםה
+BUFFI_SKILL_1_VALUE	דÞÇזדÉ וÌדÇÊ ÇבÞÊÇב ÇבÞÑםÈ: %d%%
+BUFFI_SKILL_2_COND	םÚ‗Ó ÇבÖÑÑ Åבל ÇבדוÇÌד
+BUFFI_SKILL_2_DESC	םהÔÆ ÏÇÆÑÉ ÚÇ‗ÓÉ זÇÞםÉ.
+BUFFI_SKILL_2_NAME	ÇבÇהÚ‗ÇÓ
+BUFFI_SKILL_2_NAME_G	ÇבדÇÁ ÇבÚÇ‗Ó
+BUFFI_SKILL_2_NAME_P	ÇבדÑÂÉ ÇבÈבזÑםÉ
+BUFFI_SKILL_2_VALUE	ÖÑÑ ÇבÞÊÇב ÇבÞÑםÈ ÇבדהÚ‗Ó: %d%%
+BUFFI_SKILL_3_COND	םÒםÏ ÝÑÕÉ ÇבÖÑÈÉ ÇבÍÑÌÉ
+BUFFI_SKILL_3_DESC	םÚÒÒ וÌזד‗ Ãז וÌזד ÃÍÏ ÃÚÖÇÁ ÇבדÌדזÚÉ.
+BUFFI_SKILL_3_NAME	דÓÇÚÏÉ ÇבÊהםה
+BUFFI_SKILL_3_NAME_G	ÏÚד ÇבÊהםה
+BUFFI_SKILL_3_NAME_P	ÞזÉ ÇבÊהםה
+BUFFI_SKILL_3_VALUE	ÝÑÕÉ ÇבÖÑÈÉ ÇבÍÑÌÉ: %d%%
+BUFFI_SKILL_3_VALUE_TOOLTIP	ÝÑÕÉ ÇבÖÑÈÉ ÇבÍÑÌÉ: %d%%
+BUFFI_SKILL_4_CAST_VALUE_TOOLTIP	ÓÑÚÉ ÇבÓÍÑ: %d%%
+BUFFI_SKILL_4_COND	םÒםÏ ÓÑÚÉ ÇבÍÑ‗É זÇבÓÍÑ
+BUFFI_SKILL_4_COND_SELF	ד‗ÇÝÃÉ ÚהÏ ÇÓÊÎÏÇדוÇ Úבל הÝÓ‗
+BUFFI_SKILL_4_DESC	ÇÑ‗Ö ÈÓÑÚÉ ÇבÑםÇÍ.
+BUFFI_SKILL_4_NAME	ÇבÓÑÚÉ
+BUFFI_SKILL_4_NAME_G	ÇבÑÔÇÞÉ
+BUFFI_SKILL_4_NAME_P	ÓÑÚÉ ÇבÑםÇÍ
+BUFFI_SKILL_4_VALUE	ÓÑÚÉ ÇבÍÑ‗É: %d%%
+BUFFI_SKILL_4_VALUE_TOOLTIP	ÓÑÚÉ ÇבÍÑ‗É: %d%%
+BUFFI_SKILL_5_COND	םÒםÏ ÞםדÉ ÇבוÌזד
+BUFFI_SKILL_5_COND_PARTY	םד‗ה ÇÓÊÎÏÇדוÇ Úבל ÃÚÖÇÁ ÇבדÌדזÚÉ
+BUFFI_SKILL_5_DESC	ÊÚÒםÒ ÑÝםÞ.
+BUFFI_SKILL_5_NAME	ÒםÇÏÉ ÇבוÌזד
+BUFFI_SKILL_5_NAME_G	וÌזד ÇבÏÚד
+BUFFI_SKILL_5_NAME_P	וÌזד דÚÒÒ
+BUFFI_SKILL_5_VALUE	ÞזÉ ÇבוÌזד: +%d
+BUFFI_SKILL_COND_SELF_BUFF	ÊÚÒםÒ | ד‗ÇÝÃÉ ÚהÏ ÇÓÊÎÏÇדו Úבל הÝÓ‗
+BUFFI_SUMMON_FIRST	ÇÓÊÏÚ Buffi ÇבÎÇÕ È‗ ÃזבÇנ.
+COMPANION_CONFIRM	ÊÃ‗םÏ
+COMPANION_COSTUME_BODY	ÇבÌÓד
+COMPANION_COSTUME_HAIR	ÊÓÑםÍÉ ÇבÔÚÑ
+COMPANION_COSTUME_SASH	ÇבזÔÇÍ
+COMPANION_COSTUME_WEAPON	ÇבÓבÇÍ
+COMPANION_DAY_SHORT	ם
+COMPANION_DURATION	ÇבדÏÉ
+COMPANION_EVOLUTION_CANNOT_FAIL	בÇ םד‗ה Ãה םÝÔב ÇבÊÍÓםה
+COMPANION_EVOLVE	ÇבÊØזÑ
+COMPANION_EVOLVE_LEVEL	םÌÈ Ãה ם‗זה דÓÊזל ÇבÍםזÇה ÇבÃבםÝ %d בבÊØזÑ.
+COMPANION_EVOLVE_MAX	ÍםזÇה‗ ÇבÃבםÝ Ýם ÃÚבל דÑÍבÉ ÊØזÑ ÈÇבÝÚב.
+COMPANION_EVOLVE_PRICE	ÓÚÑ ÇבÊØזÑ: %s |Eemoji/gold|e
+COMPANION_EVOLVE_SUCCESS	ÊØזÑ ÍםזÇה‗ ÇבÃבםÝ!
+COMPANION_EXP	EXP
+COMPANION_HOUR_SHORT	Ó
+COMPANION_NO_PET	בÇ םזÌÏ ÍםזÇה ÃבםÝ דÓÊÏÚל
+COMPANION_PET_LEVEL	ÇבדÓÊזל
+COMPANION_PET_NAME	ÇבÇÓד
+COMPANION_PET_PITY	ÇבÅÎÝÇÞÇÊ ÞÈב ÝÑÕÉ %%100: %d / %d
+COMPANION_PET_TYPE	ÇבהזÚ
+COMPANION_POTION_FAIL	ÝÔב ÇÓÊÎÏÇד ÇבÅ‗ÓםÑ.
+COMPANION_POTION_MAX	ÇבÍÏ ÇבÃÞÕל בוÐÇ ÇבÅ‗ÓםÑ: %%%d
+COMPANION_POTION_NO_PET	םÌÈ Ãה ÊÓÊÏÚם ÍםזÇהÇנ ÃבםÝÇנ ÃזבÇנ.
+COMPANION_POTION_SUCCESS	ÃÕÈÍÊ ד‗ÇÝÃÉ ÇבÍםזÇה ÇבÃבםÝ %%%0.1f.
+COMPANION_REQUIREMENTS	ÇבדÊØבÈÇÊ
+COMPANION_SKILLS	ÇבדוÇÑÇÊ
+COMPANION_SKILL_SLOT_MAX	ÌדםÚ ÎÇהÇÊ דוÇÑÇÊ ÍםזÇה‗ ÇבÃבםÝ דÝÊזÍÉ ÈÇבÝÚב.
+COMPANION_SKILL_SLOT_OPENED	Êד ÝÊÍ ÎÇהÉ ÇבדוÇÑÉ %d בÍםזÇה‗ ÇבÃבםÝ.
+COMPANION_TYPE_UP_FAIL	ÝÔבÊ ÊÑÞםÉ ÇבהזÚ.
+COMPANION_TYPE_UP_GOLD	בםÓ בÏם‗ Yang ‗ÇÝע.
+COMPANION_TYPE_UP_ITEM	בÇ Êדב‗ ÇבדזÇÏ ÇבדØבזÈÉ.
+COMPANION_TYPE_UP_MAX	ÍםזÇה‗ ÇבÃבםÝ Ýם ÃÚבל הזÚ ÈÇבÝÚב.
+COMPANION_TYPE_UP_SUCCESS	ÊדÊ ÊÑÞםÉ הזÚ ÍםזÇה‗ ÇבÃבםÝ.
+COMPANION_UPGRADE_PRICE	ÓÚÑ ÇבÊØזםÑ
+COMPANION_UPGRADE_TITLE	הזÚ ÇבÊØזםÑ
+COMPANION_UPGRADE_TYPE	הזÚ ÇבÊÑÞםÉ
+COMPANION_UPGRADE_TYPE_PRICE	ÓÚÑ ÇבÊÑÞםÉ: %s |Eemoji/gold|e
+GAME_OPTION_HIDE_MOUNT	ÅÎÝÇÁ ÇבדØÇםÇ
+GAME_OPTION_HIDE_PET	ÅÎÝÇÁ ÇבÍםזÇהÇÊ ÇבÃבםÝÉ
+GAME_OPTION_NOTIFICATION_BATTLE_PASS	Battle Pass
+MOUNT_BONUS_AVAILABLE_FIRST	דÊÇÍ ‗ד‗ÇÝÃÉ Ãזבל
+MOUNT_BONUS_AVAILABLE_SECOND	דÊÇÍ ‗ד‗ÇÝÃÉ ËÇהםÉ
+MOUNT_BONUS_AVAILABLE_THIRD	דÊÇÍ ‗ד‗ÇÝÃÉ ËÇבËÉ
+MOUNT_BONUS_HEADER	Çבד‗ÇÝÃÉ
+MOUNT_BONUS_UNLOCK	םץÝÊÍ ÚהÏ ÈבזÛ ÇבÊØזÑ %d
+MOUNT_DEFAULT_NAME_SHORT	Mount
+MOUNT_EVOLVE_CONFIRMATION_1	וב ÃהÊ דÊÃ‗Ï דה דÊÇÈÚÉ ÇבÊØזÑ¿
+MOUNT_EVOLVE_CONFIRMATION_2	ÓÊÎÊÝם ÇבÚהÇÕÑ ÇבדÓÊÎÏדÉ Ýם ÇבÊØזÑ זבÇ םד‗ה ÇÓÊÑÏÇÏוÇ
+MOUNT_EVOLVE_TITLE	ÊØזÑ ÇבדØםÉ
+MOUNT_FEED	ÅØÚÇד
+MOUNT_FEED_CONFIRMATION	וב ÊÑםÏ ÅØÚÇד דØםÊ‗¿
+MOUNT_FEED_NEED	םÊØבÈ Å‗דÇב וÐÇ |cffc79e65%s|r.
+MOUNT_FOOD	ÇבØÚÇד
+MOUNT_FOOD_STATE_DYING	ÊדזÊ ÌזÚÇנ
+MOUNT_FOOD_STATE_HUNGRY	ÌÇÆÚÉ
+MOUNT_FOOD_STATE_STARVING	ÌÇÆÚÉ ÌÏÇנ
+MOUNT_FOOD_STATE_WELL_FED	ÔÈÚÇהÉ
+MOUNT_FOOD_TIME_FMT	%d Ó %d Ï %d Ë
+MOUNT_FOOD_TOOLTIP_EMPTY	בד םÊÈÞ Ãם ד‗ÇÝÃÉ דה ÇבØÚÇד.
+MOUNT_FOOD_TOOLTIP_TO_DYING	ÇבזÞÊ ÇבÐם ÓםדÖם Ýם ÇבÞÊÇב ÞÈב ÇבדזÊ ÌזÚÇנ:
+MOUNT_FOOD_TOOLTIP_TO_HUNGRY	ÇבזÞÊ ÇבÐם ÓםדÖם Ýם ÇבÞÊÇב ÞÈב ÇבÌזÚ:
+MOUNT_FOOD_TOOLTIP_TO_STARVING	ÇבזÞÊ ÇבÐם ÓםדÖם Ýם ÇבÞÊÇב ÞÈב ÇבÌזÚ ÇבÔÏםÏ:
+MOUNT_HORSE_SPEED_TEXT	ÓÑÚÉ ÇבÍÕÇה +%d%%
+MOUNT_MAX_LEVEL_REACHED	דØםÊ‗ Ýם ÃÚבל דÓÊזל.
+MOUNT_NO_SPAWN	בםÓ בÏם‗ דØםÉ הÔØÉ
+MOUNT_RESULT_BONUS_CHANGED	ÊÛםÑ ÇבÓÍÑ %d בדØםÊ‗.
+MOUNT_RESULT_BONUS_LOCKED	ÊץÝÊÍ ÎÇהÉ ÇבÓÍÑ וÐו ÚהÏ ÇבÊØזÑ %d.
+MOUNT_RESULT_EVOLVED	ÊØזÑÊ דØםÊ‗!
+MOUNT_RESULT_FED	בÞÏ ÃØÚדÊ דØםÊ‗.
+MOUNT_RESULT_LEVEL_CAP	םÌÈ Ãה ÊÊØזÑ דØםÊ‗ בבדÊÇÈÚÉ.
+MOUNT_RESULT_LEVEL_UP	ÈבÛÊ דØםÊ‗ ÇבדÓÊזל %d.
+MOUNT_RESULT_SKILL_FAIL	ÊÚÐÑÊ ÊÑÞםÉ דוÇÑÉ ÇבדØםÉ.
+MOUNT_RESULT_SKILL_UNLOCKED	Êד ÝÊÍ ÇבדוÇÑÉ %d בדØםÊ‗.
+MOUNT_RESULT_SKILL_UP	ÊדÊ ÊÑÞםÉ דוÇÑÉ ÇבדØםÉ.
+MOUNT_RUNE_BLESSING_FMT	ÈÑ‗É Anka: %d / %d ÅÎÝÇÞÇÊ
+MOUNT_RUNE_CHANCE_FMT	ÝÑÕÉ ÇבהÌÇÍ: %%%d
+MOUNT_RUNE_CURRENT	Çבד‗ÇÝÂÊ ÇבÍÇבםÉ
+MOUNT_RUNE_FAILURE	ÝÔבÊ ÇבÊÑÞםÉ. Êד ÇÓÊובÇ‗ ÇבדזÇÏ זYang÷ זÍÇÝÙ ÇבÑזה Úבל דÓÊזÇו.
+MOUNT_RUNE_INFORMATION	םד‗ה‗ ÝÊÍ ÇבÑזהÇÊ ÚהÏדÇ ÊÈבÛ דØםÊ‗ ÇבדÓÊזל 30 זÊÊØזÑ ÈÇב‗Çדב זÊדב‗ ÃÑÈÚ דוÇÑÇÊ ÈÇבדÓÊזל 10. ÇÑÝÚ ‗ב Ñזה Åבל ÃÞÕל דÓÊזל בÝÊÍ ÇבÊÇבם. םד‗ה‗ ÇבÊÑÞםÉ ÈÇÓÊÎÏÇד דÝÊÇÍ +÷ ‗ב ÎÊד םÍÇÝÙ Úבל דÓÊזל ÇבÑזה. Çבד‗ÇÝÂÊ ÓÇÑםÉ ÝÞØ ÃËהÇÁ Ñ‗זÈ ÇבדØםÉ.
+MOUNT_RUNE_MAX	Êד ÈבזÛ ÃÞÕל דÓÊזל
+MOUNT_RUNE_NEXT	ד‗ÇÝÂÊ ÇבדÓÊזל ÇבÊÇבם
+MOUNT_RUNE_PAGE_TITLE	ÇבÑזהÇÊ
+MOUNT_RUNE_PREVIOUS_MAX	ÇÑÝÚ ÇבÑזה ÇבÓÇÈÞ Åבל ÃÞÕל דÓÊזל ÃזבÇנ.
+MOUNT_RUNE_RANK_FMT	ÇבדÓÊזל +%d / +%d
+MOUNT_RUNE_REQUIRE_SKILLS	םÌÈ Ãה Ê‗זה ÌדםÚ דוÇÑÇÊ ÇבדØםÉ ÇבÃÑÈÚ ÈÇבדÓÊזל 10.
+MOUNT_RUNE_SUCCESS	ÊדÊ ÊÑÞםÉ ÇבÑזה. ÃץÚםÏ ÖÈØ ÚÏÇÏ ÈÑ‗É Anka.
+MOUNT_RUNE_UPGRADE_TITLE	ÊÑÞםÉ ÇבÑזה
+MOUNT_SKILL_INFORMATION	ÇÑÝÚ דØםÊ‗ Åבל ÇבדÓÊזל 30 זדÑÍבÉ ÇבÊØזÑ 4/4.^ÇÝÊÍ ÇבדוÇÑÇÊ ÈÇבÊÑÊםÈ÷ םÌÈ Ãה Ê‗זה ÇבדוÇÑÉ ÇבÓÇÈÞÉ ÈÇבדÓÊזל 10.^םÓÊוב‗ ‗ב ÝÊÍ 1 x %s.^ÇהÞÑ Úבל ÎÇהÉ דÞÝבÉ בבÝÊÍ.
+MOUNT_SKILL_LEVEL	ÇבדÓÊזל %d / %d
+MOUNT_SKILL_UNLOCK_CONFIRM_FMT	וב ÊÑםÏ ÝÊÍ דוÇÑÉ ÇבדØםÉ ÈÇÓÊÎÏÇד 1 %s¿
+MOUNT_SKILL_UNLOCK_ORDER	ÇÝÊÍ ÇבדוÇÑÇÊ ÈÇבÊÑÊםÈ זÇÕב Åבל ÇבדÓÊזל 10 Ýם ÇבדוÇÑÉ ÇבÓÇÈÞÉ.
+MOUNT_SKILL_UNLOCK_REQUIREMENTS	םÌÈ Ãה ם‗זה דÓÊזל דØםÊ‗ 30 זדÓÊזל ÊØזÑוÇ 4/4.
+MOUNT_UPGRADE_SKILL_CONFIRMATION	וב ÊÑםÏ ÊÑÞםÉ דוÇÑÉ דØםÊ‗¿
+ORE_NAME	ÎÇד
+PET_AUTO_LOCKED_SKILL_TOOLTIP	םץÝÊÍ ÊבÞÇÆםÇנ ÚהÏדÇ םÈבÛ ÇבÍםזÇה ÇבÃבםÝ ÇבדÓÊזל 90
+PET_BTN_EVOLVE	ÇבÊØזÑ
+PET_EVOLUTION_TITLE	ÇבÊØזÑ
+PET_INCUBATOR_PRICE	ÓÚÑ ÇבÍÇÖהÉ: %s |Eemoji/gold|e
+PET_INFORMATION_DURATION	ÇבדÏÉ
+PET_INFORMATION_TITLE	ÇבÑÝםÞ
+PET_LOCKED_SKILL_TOOLTIP	םד‗ה ÝÊÍו ÈÝÇÊÍ דוÇÑÇÊ ÇבÍםזÇה ÇבÃבםÝ ÚהÏדÇ םÈבÛ ÇבÍםזÇה ÇבדÓÊזל 105
+PET_MSG_CANNOT_SUMMON_NOW	בÇ םד‗ה‗ ÇÓÊÏÚÇÁ ÍםזÇה‗ ÇבÃבםÝ ÃËהÇÁ ÇבÊÏÇזב.
+PET_MSG_LEVEL_TOO_HIGH	בÇ םד‗ה Ãה ם‗זה דÓÊזל ÍםזÇה‗ ÇבÃבםÝ ÃÚבל דה דÓÊזל ÇבבÇÚÈ.
+PET_MSG_LIFETIME_EXTENDED	ÇÑÊÝÚÊ ÃÞÕל דÏÉ בÍםזÇה‗ ÇבÃבםÝ Åבל %s םזדÇנ.
+PET_MSG_LIFETIME_MAX	בÇ םד‗ה Ãה ÊÊÌÇזÒ ÃÞÕל דÏÉ בÍםזÇה‗ ÇבÃבםÝ %s םזדÇנ.
+PET_MSG_LIFETIME_OVER	ÇהÊוÊ דÏÉ ÍםזÇה‗ ÇבÃבםÝ %s.
+PET_POTION_REQUIRED_TYPE	םÊØבÈ ÇÓÊÎÏÇד וÐÇ ÇבÅ‗ÓםÑ הזÚ ÇבÍםזÇה ÇבÃבםÝ %d
+PET_SEAL_TIME_DHM	%d ם %d Ó %d Ï
+PET_SEAL_TOOLTIP_ATTACK	ÇבוÌזד
+PET_SEAL_TOOLTIP_ELEMENT	Elemental Power
+PET_SEAL_TOOLTIP_HP	HP
+PET_SEAL_TOOLTIP_TIME	ÇבזÞÊ ÇבדÊÈÞם : %s
+SUPPORT_DURATION_BUTTON	ÇבדÏÉ
+SUPPORT_SKILL_AMOUNT_DESC_110	ÓÑÚÉ ÇבÍÑ‗É: %s
+SUPPORT_SKILL_AMOUNT_DESC_110_B	ÓÑÚÉ ÇבÓÍÑ: %s
+SUPPORT_SKILL_AMOUNT_DESC_111	ÞזÉ ÇבוÌזד: +%s
+SUPPORT_SKILL_AMOUNT_DESC_94	דÞÇזדÉ וÌדÇÊ ÇבÞÊÇב ÇבÞÑםÈ: %s
+SUPPORT_SKILL_AMOUNT_DESC_95	ÖÑÑ ÇבÞÊÇב ÇבÞÑםÈ ÇבדהÚ‗Ó: %s
+SUPPORT_SKILL_AMOUNT_DESC_96	ÝÑÕÉ ÇבÖÑÈÉ ÇבÍÑÌÉ: %s
+SUPPORT_TITLE_EVOLVE	ÊØזÑ Buffi
+SUPPORT_TITLE_SKILL	ÇבדוÇÑÇÊ
+TASKBAR_WIKI	Wiki
+TOOLTIP_BUFFI_UNEQUIP	ÅÒÇבÉ Buffi םÏזםÇנ ÊÒםב ÊÃËםÑÇÊ ÇבדוÇÑÇÊ ÇבÊם םדהÍוÇ.
+TOOLTIP_SHORTCUT_SHOP_SEARCH	ÈÍË ÇבדÊÌÑ
+TOOLTIP_SHORTCUT_WIKI	ÝÊÍ Çבזם‗ם

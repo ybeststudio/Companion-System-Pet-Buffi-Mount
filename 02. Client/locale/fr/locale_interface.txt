@@ -1,0 +1,2 @@
+PET_INFORMATION_TITLE	Familier
+TASKBAR_PET_INFO	Infos sur le familier

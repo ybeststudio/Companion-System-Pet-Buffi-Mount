@@ -1,0 +1,194 @@
+ADVANCED_OPTIONS_GROUP_DAMAGE_SETTINGS	Sebzés beállításai
+ADVANCED_OPTIONS_GROUP_HIDE_ENTITIES_EFFECTS	Entitások / effektek elrejtése
+ADVANCED_OPTIONS_GROUP_METINSTONE_SETTINGS	Metinkõ beállításai
+AUTO_ALCHEMY_EXPIRED	Alkímia lejárt
+AUTO_ALL_NOTIFICATIONS	Összes értesítés
+AUTO_BONUS_6_7_FINISHED	6/7. bónusz kész
+AUTO_BUFFILERI_GIZLE	Buffok elrejtése
+AUTO_COMPANION_EXPIRED	A társ lejárt
+AUTO_EVRIM	Evolúció %d -> %d
+AUTO_GEREKEN_SEVIYE	Szükséges szint: %d
+AUTO_ITEM_EXPIRED	A tárgy lejárt
+AUTO_MARKET_SALES	Piaci eladások
+AUTO_MISSION_BOOK	Küldetéskönyv
+AUTO_NOTHING_HIDDEN	Nincs semmi elrejtve
+AUTO_SA_DK	%dó %dp
+BIOLOG_SUCCESS_BOOST	%%%d-kal növeli a sikerességi esélyt.
+BRAVE_CAPE_TITLE	Automata Cape
+BUFFI_DURATION_PERM	Állandó
+BUFFI_GRADE_GRAND_MASTER	 Grand Master
+BUFFI_GRADE_MASTER	 Master
+BUFFI_GRADE_PERFECT_MASTER	 Perfect Master
+BUFFI_INT_POWERED	INT által erõsítendõ
+BUFFI_INT_STAGE_1	1. evolúció (55. szint)
+BUFFI_INT_STAGE_2	2. evolúció (75. szint)
+BUFFI_INT_STAGE_3	3. evolúció (90. szint)
+BUFFI_INT_STAGE_DEFAULT	Alapértelmezett
+BUFFI_INT_TABLE_EVOLUTION	Evolúció
+BUFFI_INT_TABLE_INTELLIGENCE	Intelligencia
+BUFFI_INT_TOOLTIP	A Buffi intelligenciája az evolúció során nõ
+BUFFI_MAX_EVOLUTION_REACHED	A Buffid tovább nem fejlõdhet.
+BUFFI_NO_SPAWN	Nincs megidézve egy buff sem
+BUFFI_ORE_REMOVE_HINT	Kattints az eltávolításhoz
+BUFFI_SKILL_1_COND	Közelharci támadás elleneállás
+BUFFI_SKILL_1_DESC	Védd magad vagy társad védelmi körrel.
+BUFFI_SKILL_1_NAME	Áldás
+BUFFI_SKILL_1_NAME_G	Áldás
+BUFFI_SKILL_1_NAME_P	Sárkány
+BUFFI_SKILL_1_VALUE	Ellenállás a közelharci támadások ellen: %d%%
+BUFFI_SKILL_2_COND	Visszaveri a sebzést a támadóra
+BUFFI_SKILL_2_DESC	Védd magad vagy társad egy visszatükrözõ körrel.
+BUFFI_SKILL_2_NAME	Visszaverés
+BUFFI_SKILL_2_NAME_G	Visszaverõ víz
+BUFFI_SKILL_2_NAME_P	Kristálytükör
+BUFFI_SKILL_2_VALUE	Visszavert közelharci sebzés: %d%%
+BUFFI_SKILL_3_COND	Megnöveli a kritikus csapás esélyét
+BUFFI_SKILL_3_DESC	Megerõsíti a te vagy egy csapattag támadását.
+BUFFI_SKILL_3_NAME	Sárkány segítsége
+BUFFI_SKILL_3_NAME_G	Sárkány segítsége
+BUFFI_SKILL_3_NAME_P	Dragon Aid
+BUFFI_SKILL_3_VALUE	Kritikus találat esélye: %d%%
+BUFFI_SKILL_3_VALUE_TOOLTIP	Kritikus találat esélye: %d%%
+BUFFI_SKILL_4_CAST_VALUE_TOOLTIP	Varázslási sebesség: %d%%
+BUFFI_SKILL_4_COND	Megnöveli a mozgási sebességet & varázs sebességet
+BUFFI_SKILL_4_COND_SELF	Bónusz, ha magadra használod
+BUFFI_SKILL_4_DESC	Légy olyan gyors akár a szél.
+BUFFI_SKILL_4_NAME	Gyorsaság
+BUFFI_SKILL_4_NAME_G	Gyorsaság
+BUFFI_SKILL_4_NAME_P	Szél gyorsaság
+BUFFI_SKILL_4_VALUE	Mozgási sebesség: %d%%
+BUFFI_SKILL_4_VALUE_TOOLTIP	Mozgási sebesség: %d%%
+BUFFI_SKILL_5_COND	Megnöveli a támadó értéket
+BUFFI_SKILL_5_COND_PARTY	Csoporttagokon is használható
+BUFFI_SKILL_5_DESC	Erõsítsd a társad.
+BUFFI_SKILL_5_NAME	Támadás+
+BUFFI_SKILL_5_NAME_G	Támogató támadás
+BUFFI_SKILL_5_NAME_P	Megnövelt támadás
+BUFFI_SKILL_5_VALUE	Támadóerõ: +%d
+BUFFI_SKILL_COND_SELF_BUFF	Buff|Bónusz amikor magadra rakod.
+BUFFI_SUMMON_FIRST	Elõbb idézd meg a Buffidat.
+COMPANION_CONFIRM	Megerõsítés
+COMPANION_COSTUME_BODY	Test
+COMPANION_COSTUME_HAIR	Frizura
+COMPANION_COSTUME_SASH	Vállszalag
+COMPANION_COSTUME_WEAPON	Fegyver
+COMPANION_DAY_SHORT	n
+COMPANION_DURATION	Idõtartam
+COMPANION_EVOLUTION_CANNOT_FAIL	A fejlesztés nem tud kudarcot vallani
+COMPANION_EVOLVE	Evolúció
+COMPANION_EVOLVE_LEVEL	Az evolúcióhoz a petednek el kell érnie a(z) %d. szintet.
+COMPANION_EVOLVE_MAX	A peted már a legmagasabb evolúciós szinten van.
+COMPANION_EVOLVE_PRICE	Fejlõdés ára: %s |Eemoji/gold|e
+COMPANION_EVOLVE_SUCCESS	A peted fejlõdött!
+COMPANION_EXP	Tapasztalat
+COMPANION_HOUR_SHORT	ó
+COMPANION_NO_PET	Nincs házi kedvenced
+COMPANION_PET_LEVEL	Szint
+COMPANION_PET_NAME	Név
+COMPANION_PET_PITY	Sikertelenség a %%100 esély elõtt: %d / %d
+COMPANION_PET_TYPE	Írja be
+COMPANION_POTION_FAIL	Az ital használata sikertelen.
+COMPANION_POTION_MAX	Ennek az italnak a maximális értéke: %%%d
+COMPANION_POTION_NO_PET	Elõbb idézz meg egy petet.
+COMPANION_POTION_SUCCESS	A pet bónusza %%%0.1f lett.
+COMPANION_REQUIREMENTS	Követelmények
+COMPANION_SKILLS	Készségek
+COMPANION_SKILL_SLOT_MAX	A peted összes képességhelye már nyitva van.
+COMPANION_SKILL_SLOT_OPENED	A peted %d. képességhelye megnyílt.
+COMPANION_TYPE_UP_FAIL	A típusfejlesztés sikertelen.
+COMPANION_TYPE_UP_GOLD	Nincs elég Yangod.
+COMPANION_TYPE_UP_ITEM	Nincsenek meg a szükséges anyagok.
+COMPANION_TYPE_UP_MAX	A peted már a legmagasabb típusú.
+COMPANION_TYPE_UP_SUCCESS	A peted típusa fejlõdött.
+COMPANION_UPGRADE_PRICE	Fejlesztés ára
+COMPANION_UPGRADE_TITLE	Fejlesztés típusa
+COMPANION_UPGRADE_TYPE	Frissítés típusa
+COMPANION_UPGRADE_TYPE_PRICE	Fejlesztés ára: %s |Eemoji/gold|e
+GAME_OPTION_HIDE_MOUNT	Hide Mount
+GAME_OPTION_HIDE_PET	Kisállat elrejtése
+GAME_OPTION_NOTIFICATION_BATTLE_PASS	Battle Pass
+MOUNT_BONUS_AVAILABLE_FIRST	Elsõ bónuszként használható
+MOUNT_BONUS_AVAILABLE_SECOND	Második bónuszként használható
+MOUNT_BONUS_AVAILABLE_THIRD	Harmadik bónuszként használható
+MOUNT_BONUS_HEADER	Bónuszok
+MOUNT_BONUS_UNLOCK	%d. evolúció elérésekor nyílik meg
+MOUNT_DEFAULT_NAME_SHORT	Hátas
+MOUNT_EVOLVE_CONFIRMATION_1	Biztos, hogy folytatni szeretné az evolúciót?
+MOUNT_EVOLVE_CONFIRMATION_2	Az evolúcióhoz használt elemek elvesznek, és nem állíthatók vissza
+MOUNT_EVOLVE_TITLE	Hátas fejlõdése
+MOUNT_FEED	Takarmány
+MOUNT_FEED_CONFIRMATION	Meg akarod etetni a lovádat?
+MOUNT_FEED_NEED	Ennek teljesítéséhez szükséges: |cffc79e65%s|r.
+MOUNT_FOOD	Élelmiszer
+MOUNT_FOOD_STATE_DYING	Éhen hal
+MOUNT_FOOD_STATE_HUNGRY	Éhes
+MOUNT_FOOD_STATE_STARVING	Nagyon éhes
+MOUNT_FOOD_STATE_WELL_FED	Tele
+MOUNT_FOOD_TIME_FMT	%dó %dp %dmp
+MOUNT_FOOD_TOOLTIP_EMPTY	Nincs több étel bónusz.
+MOUNT_FOOD_TOOLTIP_TO_DYING	Harcban töltött idõ az éhhalálig:
+MOUNT_FOOD_TOOLTIP_TO_HUNGRY	Harcban töltött idõ az éhezésig:
+MOUNT_FOOD_TOOLTIP_TO_STARVING	Harcban töltött idõ a nagy éhezésig:
+MOUNT_HORSE_SPEED_TEXT	Ló sebessége +%d%%
+MOUNT_MAX_LEVEL_REACHED	A hátasod a legmagasabb szinten van.
+MOUNT_NO_SPAWN	Nincs megidézve egy mount sem
+MOUNT_RESULT_BONUS_CHANGED	A hátasod %d. bûvölése megváltozott.
+MOUNT_RESULT_BONUS_LOCKED	Ez a bûvölés hely a(z) %d. evolúciónál nyílik meg.
+MOUNT_RESULT_EVOLVED	A hátasod fejlõdött!
+MOUNT_RESULT_FED	Megetetted a hátasodat.
+MOUNT_RESULT_LEVEL_CAP	A hátasodnak fejlõdnie kell a továbblépéshez.
+MOUNT_RESULT_LEVEL_UP	A hátasod elérte a(z) %d. szintet.
+MOUNT_RESULT_SKILL_FAIL	A hátas képességét nem sikerült fejleszteni.
+MOUNT_RESULT_SKILL_UNLOCKED	A hátasod %d. képessége feloldva.
+MOUNT_RESULT_SKILL_UP	A hátas képessége fejlesztve.
+MOUNT_RUNE_BLESSING_FMT	Anka Áldása: %d / %d sikertelenség
+MOUNT_RUNE_CHANCE_FMT	Sikerességi esély: %%%d
+MOUNT_RUNE_CURRENT	Jelenlegi bónuszok
+MOUNT_RUNE_FAILURE	A fejlesztés sikertelen. Az anyagok és a Yang elhasználódtak; a rúna megtartotta a szintjét.
+MOUNT_RUNE_INFORMATION	Amikor a hátasod szintje eléri a 30-at, teljesen kifejlõdik, és négy 10. szintû képessége van, megnyithatod a rúnákat. Az egyes rúnák maximális szintre emelésével nyitod meg a következõt. A + gombbal fejleszthetsz; minden pecsét megtartja a rúna szintjét. A bónuszok csak hátason ülve érvényesek.
+MOUNT_RUNE_MAX	Elérted a maximális szintet
+MOUNT_RUNE_NEXT	Következõ szint bónuszai
+MOUNT_RUNE_PAGE_TITLE	Rúnák
+MOUNT_RUNE_PREVIOUS_MAX	Elõbb emeld maximális szintre az elõzõ rúnát.
+MOUNT_RUNE_RANK_FMT	Szint +%d / +%d
+MOUNT_RUNE_REQUIRE_SKILLS	Mind a négy hátas képességnek 10. szintûnek kell lennie.
+MOUNT_RUNE_SUCCESS	A rúna fejlesztve. Az Anka Áldása számláló nullázva.
+MOUNT_RUNE_UPGRADE_TITLE	Rúna fejlesztés
+MOUNT_SKILL_INFORMATION	Fejleszd a hátasodat 30. szintre és 4/4 evolúciós fokra.^A képességeket sorrendben nyisd meg; az elõzõnek 10. szintûnek kell lennie.^Minden feloldás 1 x %s tárgyat használ el.^A megnyitáshoz kattints egy zárolt helyre.
+MOUNT_SKILL_LEVEL	Szint %d / %d
+MOUNT_SKILL_UNLOCK_CONFIRM_FMT	Elhasználsz 1 db %s tárgyat a hátas képességének feloldásához?
+MOUNT_SKILL_UNLOCK_ORDER	A képességeket sorrendben nyisd meg, és az elõzõt vidd 10. szintre.
+MOUNT_SKILL_UNLOCK_REQUIREMENTS	A hátasod szintje 30, evolúciós foka 4/4 kell legyen.
+MOUNT_UPGRADE_SKILL_CONFIRMATION	Fejleszti a mount képességeit?
+ORE_NAME	Érc
+PET_AUTO_LOCKED_SKILL_TOOLTIP	Automatikusan megnyílik, amikor a pet eléri a 90. szintet
+PET_BTN_EVOLVE	Fejlõdik
+PET_EVOLUTION_TITLE	Evolúció
+PET_INCUBATOR_PRICE	Keltetõ ára: %s |Eemoji/gold|e
+PET_INFORMATION_DURATION	Idõtartam
+PET_INFORMATION_TITLE	Társ
+PET_LOCKED_SKILL_TOOLTIP	A 105. szint elérésekor a pet Pet feloldóval nyitható meg
+PET_MSG_CANNOT_SUMMON_NOW	Nem idézheted meg házikedvenced kereskedés közben.
+PET_MSG_LEVEL_TOO_HIGH	A házikedvenc szintje nem lehet magasabb a játékosénál.
+PET_MSG_LIFETIME_EXTENDED	A peted maximális ideje %s napra nõtt.
+PET_MSG_LIFETIME_MAX	A peted maximális ideje legfeljebb %s nap lehet.
+PET_MSG_LIFETIME_OVER	A(z) %s nevû peted ideje lejárt.
+PET_POTION_REQUIRED_TYPE	Az ital használatához %d. típusú Pet szükséges
+PET_SEAL_TIME_DHM	%dn %dó %dp
+PET_SEAL_TOOLTIP_ATTACK	Támad
+PET_SEAL_TOOLTIP_ELEMENT	Elemental Power
+PET_SEAL_TOOLTIP_HP	TP
+PET_SEAL_TOOLTIP_TIME	Hátralévõ idõ: %s
+SUPPORT_DURATION_BUTTON	Idõtartam
+SUPPORT_SKILL_AMOUNT_DESC_110	Mozgási sebesség: %s
+SUPPORT_SKILL_AMOUNT_DESC_110_B	Öntési sebesség: %s
+SUPPORT_SKILL_AMOUNT_DESC_111	Támadó teljesítmény: +%s
+SUPPORT_SKILL_AMOUNT_DESC_94	Közelharci támadásokkal szembeni ellenállás: %s
+SUPPORT_SKILL_AMOUNT_DESC_95	Visszavert közelharci sebzés: %s
+SUPPORT_SKILL_AMOUNT_DESC_96	Kritikus találati esély: %s
+SUPPORT_TITLE_EVOLVE	Buffi fejlõdése
+SUPPORT_TITLE_SKILL	Készségek
+TASKBAR_WIKI	Wiki
+TOOLTIP_BUFFI_UNEQUIP	A Buffi kézi levétele megszünteti az általa adott képességhatásokat.
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Keresés az üzletben
+TOOLTIP_SHORTCUT_WIKI	Nyissa meg a Wikipédiát

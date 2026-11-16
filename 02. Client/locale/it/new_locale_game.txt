@@ -1,0 +1,194 @@
+ADVANCED_OPTIONS_GROUP_DAMAGE_SETTINGS	Impostazioni danni
+ADVANCED_OPTIONS_GROUP_HIDE_ENTITIES_EFFECTS	Nascondi entità / effetti
+ADVANCED_OPTIONS_GROUP_METINSTONE_SETTINGS	Impostazioni Pietra Metin
+AUTO_ALCHEMY_EXPIRED	Alchimia scaduta
+AUTO_ALL_NOTIFICATIONS	Tutte le notifiche
+AUTO_BONUS_6_7_FINISHED	Bonus 6/7 terminato
+AUTO_BUFFILERI_GIZLE	Nascondi i buff
+AUTO_COMPANION_EXPIRED	Compagno scaduto
+AUTO_EVRIM	Evoluzione %d -> %d
+AUTO_GEREKEN_SEVIYE	Livello richiesto: %d
+AUTO_ITEM_EXPIRED	Oggetto scaduto
+AUTO_MARKET_SALES	Vendite del mercato
+AUTO_MISSION_BOOK	Libro delle missioni
+AUTO_NOTHING_HIDDEN	Niente nascosto
+AUTO_SA_DK	%dh %dmin
+BIOLOG_SUCCESS_BOOST	Aumenta la probabilità di successo del %%%d.
+BRAVE_CAPE_TITLE	Mantello automatico
+BUFFI_DURATION_PERM	Permanente
+BUFFI_GRADE_GRAND_MASTER	 Grand Master
+BUFFI_GRADE_MASTER	 Master
+BUFFI_GRADE_PERFECT_MASTER	 Perfect Master
+BUFFI_INT_POWERED	influenzata da Intelligenza
+BUFFI_INT_STAGE_1	Evoluzione 1 (Livello 55)
+BUFFI_INT_STAGE_2	Evoluzione 2 (Livello 75)
+BUFFI_INT_STAGE_3	Evoluzione 3 (Livello 90)
+BUFFI_INT_STAGE_DEFAULT	Predefinito
+BUFFI_INT_TABLE_EVOLUTION	Evoluzione
+BUFFI_INT_TABLE_INTELLIGENCE	Intelligenza
+BUFFI_INT_TOOLTIP	L'Intelligenza di Buffi crescerà attraverso l'evoluzione
+BUFFI_MAX_EVOLUTION_REACHED	Il tuo Buffi non può evolversi ulteriormente.
+BUFFI_NO_SPAWN	Non hai evocato nessun buffi
+BUFFI_ORE_REMOVE_HINT	Clicca per rimuovere
+BUFFI_SKILL_1_COND	Resistenza all'attacco corpo a corpo
+BUFFI_SKILL_1_DESC	Crea un cerchio protettivo.
+BUFFI_SKILL_1_NAME	Benedizione
+BUFFI_SKILL_1_NAME_G	Cielo
+BUFFI_SKILL_1_NAME_P	Drago
+BUFFI_SKILL_1_VALUE	Resistenza agli attacchi corpo a corpo: %d%%
+BUFFI_SKILL_2_COND	Riflette il danno dell'attaccante
+BUFFI_SKILL_2_DESC	Crea un cerchio protettivo riflettente.
+BUFFI_SKILL_2_NAME	Riflesso
+BUFFI_SKILL_2_NAME_G	Acqua Riflettente
+BUFFI_SKILL_2_NAME_P	Specchio di Cristallo
+BUFFI_SKILL_2_VALUE	Danno corpo a corpo riflesso: %d%%
+BUFFI_SKILL_3_COND	Aumenta probabilità di colpo critico
+BUFFI_SKILL_3_DESC	Rafforza l'attacco di te o di un membro del gruppo.
+BUFFI_SKILL_3_NAME	Aiuto del Drago
+BUFFI_SKILL_3_NAME_G	Supporto del Drago
+BUFFI_SKILL_3_NAME_P	Aiuto del drago
+BUFFI_SKILL_3_VALUE	Probabilità di colpo critico: %d%%
+BUFFI_SKILL_3_VALUE_TOOLTIP	Probabilità di colpo critico: %d%%
+BUFFI_SKILL_4_CAST_VALUE_TOOLTIP	Velocità magica: %d%%
+BUFFI_SKILL_4_COND	Incrementa velocità di movimento e velocità della magia
+BUFFI_SKILL_4_COND_SELF	Bonus se lanciato su se stessi
+BUFFI_SKILL_4_DESC	Corri veloce come il vento.
+BUFFI_SKILL_4_NAME	Agilità
+BUFFI_SKILL_4_NAME_G	Celerità
+BUFFI_SKILL_4_NAME_P	Velocità del Vento
+BUFFI_SKILL_4_VALUE	Velocità di movimento: %d%%
+BUFFI_SKILL_4_VALUE_TOOLTIP	Velocità di movimento: %d%%
+BUFFI_SKILL_5_COND	Incrementa il valore d'attacco
+BUFFI_SKILL_5_COND_PARTY	Può essere usato sui membri del gruppo
+BUFFI_SKILL_5_DESC	Rafforza un alleato.
+BUFFI_SKILL_5_NAME	Aumento Attacco
+BUFFI_SKILL_5_NAME_G	Attacco di Supporto
+BUFFI_SKILL_5_NAME_P	Attacco Potenziato
+BUFFI_SKILL_5_VALUE	Potenza d'attacco: +%d
+BUFFI_SKILL_COND_SELF_BUFF	Buff | Bonus se lanciato su se stessi
+BUFFI_SUMMON_FIRST	Prima evoca il tuo Buffi.
+COMPANION_CONFIRM	Conferma
+COMPANION_COSTUME_BODY	Corpo
+COMPANION_COSTUME_HAIR	Acconciatura
+COMPANION_COSTUME_SASH	Stola
+COMPANION_COSTUME_WEAPON	Armi
+COMPANION_DAY_SHORT	g
+COMPANION_DURATION	Durata
+COMPANION_EVOLUTION_CANNOT_FAIL	Il miglioramento non può fallire
+COMPANION_EVOLVE	Evoluzione
+COMPANION_EVOLVE_LEVEL	Per evolvere, il tuo pet deve essere al livello %d.
+COMPANION_EVOLVE_MAX	Il tuo pet è già allo stadio evolutivo massimo.
+COMPANION_EVOLVE_PRICE	Costo evoluzione: %s |Eemoji/gold|e
+COMPANION_EVOLVE_SUCCESS	Il tuo pet si è evoluto!
+COMPANION_EXP	Esperienza
+COMPANION_HOUR_SHORT	h
+COMPANION_NO_PET	Non hai evocato alcun animale domestico
+COMPANION_PET_LEVEL	Livello
+COMPANION_PET_NAME	Nome
+COMPANION_PET_PITY	Fallimenti prima del 100%%: %d / %d
+COMPANION_PET_TYPE	Tipo
+COMPANION_POTION_FAIL	Impossibile usare la pozione.
+COMPANION_POTION_MAX	Valore massimo per questa pozione: %%%d
+COMPANION_POTION_NO_PET	Devi prima evocare un pet.
+COMPANION_POTION_SUCCESS	Il bonus del pet è ora %%%0.1f.
+COMPANION_REQUIREMENTS	REQUISITI
+COMPANION_SKILLS	Abilità
+COMPANION_SKILL_SLOT_MAX	Tutti gli slot abilità del pet sono già aperti.
+COMPANION_SKILL_SLOT_OPENED	Lo slot abilità %d del pet è stato aperto.
+COMPANION_TYPE_UP_FAIL	Potenziamento del tipo fallito.
+COMPANION_TYPE_UP_GOLD	Non hai abbastanza Yang.
+COMPANION_TYPE_UP_ITEM	Non possiedi i materiali necessari.
+COMPANION_TYPE_UP_MAX	Il tuo pet è già del tipo massimo.
+COMPANION_TYPE_UP_SUCCESS	Il tipo del pet è stato potenziato.
+COMPANION_UPGRADE_PRICE	Costo sviluppo
+COMPANION_UPGRADE_TITLE	Tipo di potenziamento
+COMPANION_UPGRADE_TYPE	Tipo di aggiornamento
+COMPANION_UPGRADE_TYPE_PRICE	Costo potenziamento: %s |Eemoji/gold|e
+GAME_OPTION_HIDE_MOUNT	Nascondi supporto
+GAME_OPTION_HIDE_PET	Nascondi animale domestico
+GAME_OPTION_NOTIFICATION_BATTLE_PASS	Passaggio di battaglia
+MOUNT_BONUS_AVAILABLE_FIRST	Bonus disponibile per il 1° bonus
+MOUNT_BONUS_AVAILABLE_SECOND	Bonus disponibile per il 2° bonus
+MOUNT_BONUS_AVAILABLE_THIRD	Bonus disponibile per il 3° bonus
+MOUNT_BONUS_HEADER	Bonus
+MOUNT_BONUS_UNLOCK	Si sblocca all'evoluzione %d
+MOUNT_DEFAULT_NAME_SHORT	Cavalcatura
+MOUNT_EVOLVE_CONFIRMATION_1	Sei sicuro di voler procedere con l'evoluzione?
+MOUNT_EVOLVE_CONFIRMATION_2	Gli oggetti utilizzati per l'evoluzione andranno persi e non potranno essere recuperati
+MOUNT_EVOLVE_TITLE	Evoluzione della cavalcatura
+MOUNT_FEED	Foraggio
+MOUNT_FEED_CONFIRMATION	Vuoi nutrire la tua cavalcatura?
+MOUNT_FEED_NEED	Per completarlo serve |cffc79e65%s|r.
+MOUNT_FOOD	Cibo
+MOUNT_FOOD_STATE_DYING	Morente di Fame
+MOUNT_FOOD_STATE_HUNGRY	Affamato
+MOUNT_FOOD_STATE_STARVING	Affamato
+MOUNT_FOOD_STATE_WELL_FED	Ben Nutrito
+MOUNT_FOOD_TIME_FMT	%dh %dmin %ds
+MOUNT_FOOD_TOOLTIP_EMPTY	Nessun bonus alimentare rimasto.
+MOUNT_FOOD_TOOLTIP_TO_DYING	Tempo in combattimento prima di morire di fame:
+MOUNT_FOOD_TOOLTIP_TO_HUNGRY	Tempo in combattimento prima di diventare affamato:
+MOUNT_FOOD_TOOLTIP_TO_STARVING	Tempo in combattimento prima di diventare molto affamato:
+MOUNT_HORSE_SPEED_TEXT	Velocità cavallo +%d%%
+MOUNT_MAX_LEVEL_REACHED	La tua cavalcatura è al livello massimo.
+MOUNT_NO_SPAWN	Non hai alcuna cavalcatura evocata
+MOUNT_RESULT_BONUS_CHANGED	L'incantesimo %d della cavalcatura è cambiato.
+MOUNT_RESULT_BONUS_LOCKED	Questo slot incantesimo si sblocca all'evoluzione %d.
+MOUNT_RESULT_EVOLVED	La tua cavalcatura si è evoluta!
+MOUNT_RESULT_FED	Hai nutrito la tua cavalcatura.
+MOUNT_RESULT_LEVEL_CAP	La tua cavalcatura deve evolversi per continuare.
+MOUNT_RESULT_LEVEL_UP	La tua cavalcatura ha raggiunto il livello %d.
+MOUNT_RESULT_SKILL_FAIL	Impossibile potenziare l'abilità della cavalcatura.
+MOUNT_RESULT_SKILL_UNLOCKED	L'abilità %d della cavalcatura è stata sbloccata.
+MOUNT_RESULT_SKILL_UP	Abilità della cavalcatura potenziata.
+MOUNT_RUNE_BLESSING_FMT	Benedizione di Anka: %d / %d fallimenti
+MOUNT_RUNE_CHANCE_FMT	Probabilità di successo: %%%d
+MOUNT_RUNE_CURRENT	Bonus attuali
+MOUNT_RUNE_FAILURE	Miglioramento fallito. Materiali e yang sono stati consumati; la runa ha mantenuto il suo grado.
+MOUNT_RUNE_INFORMATION	Sblocca le rune quando la tua cavalcatura è al livello 30, completamente evoluta e possiede quattro abilità di livello 10. Porta al massimo ogni runa per sbloccare la successiva. Usa + per potenziare; ogni sigillo mantiene i suoi gradi runici. I bonus si applicano solo mentre sei in sella alla cavalcatura.
+MOUNT_RUNE_MAX	Grado massimo raggiunto
+MOUNT_RUNE_NEXT	Bonus prossimo grado
+MOUNT_RUNE_PAGE_TITLE	Rune
+MOUNT_RUNE_PREVIOUS_MAX	Porta prima al massimo la runa precedente.
+MOUNT_RUNE_RANK_FMT	Livello +%d / +%d
+MOUNT_RUNE_REQUIRE_SKILLS	Richiede tutte e quattro le abilità della cavalcatura al livello 10.
+MOUNT_RUNE_SUCCESS	Runa migliorata. Il suo contatore Benedizione è stato azzerato.
+MOUNT_RUNE_UPGRADE_TITLE	Miglioramento Runa
+MOUNT_SKILL_INFORMATION	Porta la cavalcatura al livello 30 e allo stadio di evoluzione 4/4.^Sblocca le abilità in ordine; l'abilità precedente deve essere al livello 10.^Ogni sblocco consuma 1 x %s.^Clicca su uno slot bloccato per sbloccarlo.
+MOUNT_SKILL_LEVEL	Livello %d / %d
+MOUNT_SKILL_UNLOCK_CONFIRM_FMT	Vuoi sbloccare l'abilità della cavalcatura usando 1 %s?
+MOUNT_SKILL_UNLOCK_ORDER	Sblocca le abilità in ordine e raggiungi il livello 10 nell'abilità precedente.
+MOUNT_SKILL_UNLOCK_REQUIREMENTS	La tua cavalcatura deve essere al livello 30 e all'evoluzione 4/4.
+MOUNT_UPGRADE_SKILL_CONFIRMATION	Migliora l'abilità della tua cavalcatura?
+ORE_NAME	Minerale
+PET_AUTO_LOCKED_SKILL_TOOLTIP	Verrà sbloccata automaticamente quando il pet raggiunge il livello 90
+PET_BTN_EVOLVE	Evolvi
+PET_EVOLUTION_TITLE	Evoluzione
+PET_INCUBATOR_PRICE	Prezzo incubatrice: %s |Eemoji/gold|e
+PET_INFORMATION_DURATION	Durata
+PET_INFORMATION_TITLE	Compagno
+PET_LOCKED_SKILL_TOOLTIP	Può essere sbloccata quando il pet raggiunge il livello 105 usando uno Sblocca Pet
+PET_MSG_CANNOT_SUMMON_NOW	Non puoi chiamare il tuo pet mentre stai commerciando.
+PET_MSG_LEVEL_TOO_HIGH	Il livello del pet non può essere più alto di quello del giocatore.
+PET_MSG_LIFETIME_EXTENDED	La durata massima del tuo pet è salita a %s giorni.
+PET_MSG_LIFETIME_MAX	La durata massima del pet può essere al massimo di %s giorni.
+PET_MSG_LIFETIME_OVER	La durata del pet %s è scaduta.
+PET_POTION_REQUIRED_TYPE	Per usare questa pozione serve il Tipo di Pet %d
+PET_SEAL_TIME_DHM	%dg %dh %dmin
+PET_SEAL_TOOLTIP_ATTACK	Attacca
+PET_SEAL_TOOLTIP_ELEMENT	Elemental Power
+PET_SEAL_TOOLTIP_HP	HP
+PET_SEAL_TOOLTIP_TIME	Tempo rimasto : %s
+SUPPORT_DURATION_BUTTON	Durata
+SUPPORT_SKILL_AMOUNT_DESC_110	Velocità di movimento: %s
+SUPPORT_SKILL_AMOUNT_DESC_110_B	Velocità di lancio: %s
+SUPPORT_SKILL_AMOUNT_DESC_111	Potenza d'attacco: +%s
+SUPPORT_SKILL_AMOUNT_DESC_94	Resistenza agli attacchi corpo a corpo: %s
+SUPPORT_SKILL_AMOUNT_DESC_95	Danno corpo a corpo riflesso: %s
+SUPPORT_SKILL_AMOUNT_DESC_96	Probabilità di colpo critico: %s
+SUPPORT_TITLE_EVOLVE	Evoluzione di Buffi
+SUPPORT_TITLE_SKILL	abilità
+TASKBAR_WIKI	Wiki
+TOOLTIP_BUFFI_UNEQUIP	Rimuovere manualmente il Buffi annulla gli effetti delle abilità che ti conferisce.
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Cerca negozio
+TOOLTIP_SHORTCUT_WIKI	ApriWikipedia

@@ -1,0 +1,2 @@
+PET_INFORMATION_TITLE	Insotitor
+TASKBAR_PET_INFO	Info Insotitor

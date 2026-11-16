@@ -1,0 +1,2 @@
+PET_INFORMATION_TITLE	Zwierzak
+TASKBAR_PET_INFO	Zwierzak: info

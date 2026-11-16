@@ -1,0 +1,194 @@
+ADVANCED_OPTIONS_GROUP_DAMAGE_SETTINGS	Damage Settings
+ADVANCED_OPTIONS_GROUP_HIDE_ENTITIES_EFFECTS	Hide Entities / Effects
+ADVANCED_OPTIONS_GROUP_METINSTONE_SETTINGS	Metin Stone Settings
+AUTO_ALCHEMY_EXPIRED	Alchemy Expired
+AUTO_ALL_NOTIFICATIONS	All Notifications
+AUTO_BONUS_6_7_FINISHED	Bonus 6/7 Finished
+AUTO_BUFFILERI_GIZLE	Hide buffs
+AUTO_COMPANION_EXPIRED	Companion Expired
+AUTO_EVRIM	Evolution %d -> %d
+AUTO_GEREKEN_SEVIYE	Required level: %d
+AUTO_ITEM_EXPIRED	Item Expired
+AUTO_MARKET_SALES	Market Sales
+AUTO_MISSION_BOOK	Mission Book
+AUTO_NOTHING_HIDDEN	Nothing hidden
+AUTO_SA_DK	%dh %dm
+BIOLOG_SUCCESS_BOOST	Increases success chance by %%%d.
+BRAVE_CAPE_TITLE	Automatic Cape
+BUFFI_DURATION_PERM	Permanent
+BUFFI_GRADE_GRAND_MASTER	 Grand Master
+BUFFI_GRADE_MASTER	 Master
+BUFFI_GRADE_PERFECT_MASTER	 Perfect Master
+BUFFI_INT_POWERED	Strengthened by INT
+BUFFI_INT_STAGE_1	Evolution 1 (Level 55)
+BUFFI_INT_STAGE_2	Evolution 2 (Level 75)
+BUFFI_INT_STAGE_3	Evolution 3 (Level 90)
+BUFFI_INT_STAGE_DEFAULT	Default
+BUFFI_INT_TABLE_EVOLUTION	Evolution
+BUFFI_INT_TABLE_INTELLIGENCE	Intelligence
+BUFFI_INT_TOOLTIP	Buffi's Intelligence will grow through evolution
+BUFFI_MAX_EVOLUTION_REACHED	Your Buffi cannot evolve any further.
+BUFFI_NO_SPAWN	You don't have any buffi summoned
+BUFFI_ORE_REMOVE_HINT	Click to remove
+BUFFI_SKILL_1_COND	Resistance to melee attack
+BUFFI_SKILL_1_DESC	Creates a protective circle.
+BUFFI_SKILL_1_NAME	Blessing
+BUFFI_SKILL_1_NAME_G	Heaven
+BUFFI_SKILL_1_NAME_P	Dragon
+BUFFI_SKILL_1_VALUE	Resistance to melee attacks: %d%%
+BUFFI_SKILL_2_COND	Reflects damage back at the attacker
+BUFFI_SKILL_2_DESC	Creates a protective reflecting circle.
+BUFFI_SKILL_2_NAME	Reflect
+BUFFI_SKILL_2_NAME_G	Reflecting Water
+BUFFI_SKILL_2_NAME_P	Crystal Mirror
+BUFFI_SKILL_2_VALUE	Reflected melee damage: %d%%
+BUFFI_SKILL_3_COND	Increases chance of critical hit
+BUFFI_SKILL_3_DESC	Strengthens you or a group member's attack.
+BUFFI_SKILL_3_NAME	Dragon's Aid
+BUFFI_SKILL_3_NAME_G	Dragon's Support
+BUFFI_SKILL_3_NAME_P	Dragon Aid
+BUFFI_SKILL_3_VALUE	Critical hit chance: %d%%
+BUFFI_SKILL_3_VALUE_TOOLTIP	Critical Hit Chance: %d%%
+BUFFI_SKILL_4_CAST_VALUE_TOOLTIP	Cast Speed: %d%%
+BUFFI_SKILL_4_COND	Increases movement & casting speed
+BUFFI_SKILL_4_COND_SELF	Bonus when cast on self
+BUFFI_SKILL_4_DESC	Run as fast as the wind.
+BUFFI_SKILL_4_NAME	Swiftness
+BUFFI_SKILL_4_NAME_G	Quickness
+BUFFI_SKILL_4_NAME_P	Speed of Wind
+BUFFI_SKILL_4_VALUE	Movement speed: %d%%
+BUFFI_SKILL_4_VALUE_TOOLTIP	Movement Speed: %d%%
+BUFFI_SKILL_5_COND	Increases attack value
+BUFFI_SKILL_5_COND_PARTY	Can be used on group members
+BUFFI_SKILL_5_DESC	Strengthen a partner.
+BUFFI_SKILL_5_NAME	Attack Up
+BUFFI_SKILL_5_NAME_G	Support Attack
+BUFFI_SKILL_5_NAME_P	Strengthened Attack
+BUFFI_SKILL_5_VALUE	Attack Power: +%d
+BUFFI_SKILL_COND_SELF_BUFF	Buff | Bonus when cast on self
+BUFFI_SUMMON_FIRST	Summon your Buffi first.
+COMPANION_CONFIRM	Confirm
+COMPANION_COSTUME_BODY	Body
+COMPANION_COSTUME_HAIR	Hair
+COMPANION_COSTUME_SASH	Sash
+COMPANION_COSTUME_WEAPON	Weapon
+COMPANION_DAY_SHORT	d
+COMPANION_DURATION	Duration
+COMPANION_EVOLUTION_CANNOT_FAIL	Improvement cannot fail
+COMPANION_EVOLVE	Evolution
+COMPANION_EVOLVE_LEVEL	Your pet must be level %d to evolve.
+COMPANION_EVOLVE_MAX	Your pet is already at the highest evolution stage.
+COMPANION_EVOLVE_PRICE	Evolution Price: %s |Eemoji/gold|e
+COMPANION_EVOLVE_SUCCESS	Your pet has evolved!
+COMPANION_EXP	Experience
+COMPANION_HOUR_SHORT	h
+COMPANION_NO_PET	You don't have any pet summoned
+COMPANION_PET_LEVEL	Level
+COMPANION_PET_NAME	Name
+COMPANION_PET_PITY	Failures before %%100 chance: %d / %d
+COMPANION_PET_TYPE	Type
+COMPANION_POTION_FAIL	The potion could not be used.
+COMPANION_POTION_MAX	Maximum value for this potion: %%%d
+COMPANION_POTION_NO_PET	You must summon a pet first.
+COMPANION_POTION_SUCCESS	Pet bonus is now %%%0.1f.
+COMPANION_REQUIREMENTS	REQUIREMENTS
+COMPANION_SKILLS	Skills
+COMPANION_SKILL_SLOT_MAX	All of your pet's skill slots are already open.
+COMPANION_SKILL_SLOT_OPENED	Skill slot %d of your pet has been opened.
+COMPANION_TYPE_UP_FAIL	Type upgrade failed.
+COMPANION_TYPE_UP_GOLD	You do not have enough Yang.
+COMPANION_TYPE_UP_ITEM	You do not have the required materials.
+COMPANION_TYPE_UP_MAX	Your pet is already at the highest type.
+COMPANION_TYPE_UP_SUCCESS	Your pet's type has been upgraded.
+COMPANION_UPGRADE_PRICE	Upgrade Price
+COMPANION_UPGRADE_TITLE	Upgrade Type
+COMPANION_UPGRADE_TYPE	Upgrade Type
+COMPANION_UPGRADE_TYPE_PRICE	Upgrade Price: %s |Eemoji/gold|e
+GAME_OPTION_HIDE_MOUNT	Hide Mount
+GAME_OPTION_HIDE_PET	Hide Pet
+GAME_OPTION_NOTIFICATION_BATTLE_PASS	Battle Pass
+MOUNT_BONUS_AVAILABLE_FIRST	Bonus available for the 1st bonus
+MOUNT_BONUS_AVAILABLE_SECOND	Bonus available for the 2nd bonus
+MOUNT_BONUS_AVAILABLE_THIRD	Bonus available for the 3rd bonus
+MOUNT_BONUS_HEADER	Bonuses
+MOUNT_BONUS_UNLOCK	Unlocks at Evolution %d
+MOUNT_DEFAULT_NAME_SHORT	Mount
+MOUNT_EVOLVE_CONFIRMATION_1	Are you sure you want to proceed with the evolution?
+MOUNT_EVOLVE_CONFIRMATION_2	The items used for the evolution will be lost and cannot be recovered
+MOUNT_EVOLVE_TITLE	Mount Evolution
+MOUNT_FEED	Feed
+MOUNT_FEED_CONFIRMATION	Do you want to feed your mount?
+MOUNT_FEED_NEED	|cffc79e65%s|r is required to complete this.
+MOUNT_FOOD	Food
+MOUNT_FOOD_STATE_DYING	Dying of hunger
+MOUNT_FOOD_STATE_HUNGRY	Hungry
+MOUNT_FOOD_STATE_STARVING	Starving
+MOUNT_FOOD_STATE_WELL_FED	Well Fed
+MOUNT_FOOD_TIME_FMT	%dhrs %dmin %dsec
+MOUNT_FOOD_TOOLTIP_EMPTY	No food bonus remaining.
+MOUNT_FOOD_TOOLTIP_TO_DYING	Time in combat before dying of hunger:
+MOUNT_FOOD_TOOLTIP_TO_HUNGRY	Time in combat before getting hungry:
+MOUNT_FOOD_TOOLTIP_TO_STARVING	Time in combat before starving:
+MOUNT_HORSE_SPEED_TEXT	Horse Speed +%d%%
+MOUNT_MAX_LEVEL_REACHED	Your mount is at the maximum level.
+MOUNT_NO_SPAWN	You don't have any mount summoned
+MOUNT_RESULT_BONUS_CHANGED	Bonus %d of your mount has changed.
+MOUNT_RESULT_BONUS_LOCKED	This bonus slot unlocks at evolution %d.
+MOUNT_RESULT_EVOLVED	Your mount has evolved!
+MOUNT_RESULT_FED	You fed your mount.
+MOUNT_RESULT_LEVEL_CAP	Your mount must evolve to continue.
+MOUNT_RESULT_LEVEL_UP	Your mount reached level %d.
+MOUNT_RESULT_SKILL_FAIL	The mount skill could not be upgraded.
+MOUNT_RESULT_SKILL_UNLOCKED	Skill %d of your mount has been unlocked.
+MOUNT_RESULT_SKILL_UP	The mount skill has been upgraded.
+MOUNT_RUNE_BLESSING_FMT	Anka's Blessing: %d / %d failures
+MOUNT_RUNE_CHANCE_FMT	Success chance: %%%d
+MOUNT_RUNE_CURRENT	Current bonuses
+MOUNT_RUNE_FAILURE	Upgrade failed. Materials and yang were consumed; the rune kept its rank.
+MOUNT_RUNE_INFORMATION	Unlock runes once your mount is level 30, fully evolved and has four level-10 skills. Max out each rune to unlock the next. Use + to upgrade; each seal keeps its rune ranks. Bonuses apply only while you are riding the mount.
+MOUNT_RUNE_MAX	Maximum rank reached
+MOUNT_RUNE_NEXT	Next rank bonuses
+MOUNT_RUNE_PAGE_TITLE	Runes
+MOUNT_RUNE_PREVIOUS_MAX	Max out the previous rune first.
+MOUNT_RUNE_RANK_FMT	Level +%d / +%d
+MOUNT_RUNE_REQUIRE_SKILLS	Requires all four mount skills at level 10.
+MOUNT_RUNE_SUCCESS	Rune upgraded. Its Blessing counter has been reset.
+MOUNT_RUNE_UPGRADE_TITLE	Rune Upgrade
+MOUNT_SKILL_INFORMATION	Bring your mount to level 30 and evolution stage 4/4.^Unlock the skills in order; the previous skill must be at level 10.^Each unlock consumes 1 x %s.^Click a locked slot to unlock it.
+MOUNT_SKILL_LEVEL	Level %d / %d
+MOUNT_SKILL_UNLOCK_CONFIRM_FMT	Do you want to unlock the mount skill using 1 %s?
+MOUNT_SKILL_UNLOCK_ORDER	Unlock skills in order and reach level 10 in the previous skill.
+MOUNT_SKILL_UNLOCK_REQUIREMENTS	Your mount must be level 30 and evolution 4/4.
+MOUNT_UPGRADE_SKILL_CONFIRMATION	Upgrade your mount's skill?
+ORE_NAME	Ore
+PET_AUTO_LOCKED_SKILL_TOOLTIP	Will be automatically unlocked when the pet reaches level 90
+PET_BTN_EVOLVE	Evolve
+PET_EVOLUTION_TITLE	Evolution
+PET_INCUBATOR_PRICE	Incubator price: %s |Eemoji/gold|e
+PET_INFORMATION_DURATION	Duration
+PET_INFORMATION_TITLE	Companion
+PET_LOCKED_SKILL_TOOLTIP	Can be unlocked when the pet reaches level 105 using a Pet Unlocker
+PET_MSG_CANNOT_SUMMON_NOW	You cannot summon your pet whilst trading.
+PET_MSG_LEVEL_TOO_HIGH	The pet's level cannot be higher than the player's.
+PET_MSG_LIFETIME_EXTENDED	Your pet's maximum lifetime is now %s days.
+PET_MSG_LIFETIME_MAX	Your pet's maximum lifetime can be at most %s days.
+PET_MSG_LIFETIME_OVER	The lifetime of the pet %s has expired.
+PET_POTION_REQUIRED_TYPE	Pet Type %d is required to use this potion
+PET_SEAL_TIME_DHM	%dd %dh %dm
+PET_SEAL_TOOLTIP_ATTACK	Attack
+PET_SEAL_TOOLTIP_ELEMENT	Elemental Power
+PET_SEAL_TOOLTIP_HP	HP
+PET_SEAL_TOOLTIP_TIME	Time Left : %s
+SUPPORT_DURATION_BUTTON	Duration
+SUPPORT_SKILL_AMOUNT_DESC_110	Movement speed: %s
+SUPPORT_SKILL_AMOUNT_DESC_110_B	Casting Speed: %s
+SUPPORT_SKILL_AMOUNT_DESC_111	Attack Power: +%s
+SUPPORT_SKILL_AMOUNT_DESC_94	Resistance to melee attacks: %s
+SUPPORT_SKILL_AMOUNT_DESC_95	Reflected melee damage: %s
+SUPPORT_SKILL_AMOUNT_DESC_96	Critical Hit Chance: %s
+SUPPORT_TITLE_EVOLVE	Buffi Evolution
+SUPPORT_TITLE_SKILL	Skills
+TASKBAR_WIKI	Wiki
+TOOLTIP_BUFFI_UNEQUIP	Manually unequipping Buffi removes the skill effects it grants.
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Search Shop
+TOOLTIP_SHORTCUT_WIKI	Open Wikipedia

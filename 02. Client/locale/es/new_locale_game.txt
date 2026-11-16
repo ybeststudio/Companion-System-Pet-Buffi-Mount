@@ -1,0 +1,194 @@
+ADVANCED_OPTIONS_GROUP_DAMAGE_SETTINGS	Ajustes de daño
+ADVANCED_OPTIONS_GROUP_HIDE_ENTITIES_EFFECTS	Ocultar entidades / efectos
+ADVANCED_OPTIONS_GROUP_METINSTONE_SETTINGS	Ajustes de Piedra Metin
+AUTO_ALCHEMY_EXPIRED	Alquimia expirada
+AUTO_ALL_NOTIFICATIONS	Todas las notificaciones
+AUTO_BONUS_6_7_FINISHED	Bonus 6/7 terminado
+AUTO_BUFFILERI_GIZLE	Ocultar buffs
+AUTO_COMPANION_EXPIRED	Compañero expirado
+AUTO_EVRIM	Evolución %d -> %d
+AUTO_GEREKEN_SEVIYE	Nivel requerido: %d
+AUTO_ITEM_EXPIRED	Objeto expirado
+AUTO_MARKET_SALES	Ventas del mercado
+AUTO_MISSION_BOOK	Libro de misiones
+AUTO_NOTHING_HIDDEN	Nada oculto
+AUTO_SA_DK	%dh %dmin
+BIOLOG_SUCCESS_BOOST	Aumenta la probabilidad de éxito en %%%d.
+BRAVE_CAPE_TITLE	Capa Automática
+BUFFI_DURATION_PERM	Permanente
+BUFFI_GRADE_GRAND_MASTER	 Gran Maestro
+BUFFI_GRADE_MASTER	 Maestro
+BUFFI_GRADE_PERFECT_MASTER	 Maestro Perfecto
+BUFFI_INT_POWERED	Potenciado por INT
+BUFFI_INT_STAGE_1	Evolución 1 (Nivel 55)
+BUFFI_INT_STAGE_2	Evolución 2 (Nivel 75)
+BUFFI_INT_STAGE_3	Evolución 3 (Nivel 90)
+BUFFI_INT_STAGE_DEFAULT	Predeterminado
+BUFFI_INT_TABLE_EVOLUTION	Evolución
+BUFFI_INT_TABLE_INTELLIGENCE	Inteligencia
+BUFFI_INT_TOOLTIP	La inteligencia de Buffi aumentará con la evolución
+BUFFI_MAX_EVOLUTION_REACHED	Tu Buffi no puede evolucionar más.
+BUFFI_NO_SPAWN	No tienes ningún buffi invocado
+BUFFI_ORE_REMOVE_HINT	Haz clic para quitar
+BUFFI_SKILL_1_COND	Resistencia a ataques cuerpo a cuerpo
+BUFFI_SKILL_1_DESC	Crea un círculo protector.
+BUFFI_SKILL_1_NAME	Bendición
+BUFFI_SKILL_1_NAME_G	Cielo
+BUFFI_SKILL_1_NAME_P	Bendición del dragón
+BUFFI_SKILL_1_VALUE	Resistencia a ataques cuerpo a cuerpo: %d%%
+BUFFI_SKILL_2_COND	Refleja el daño al atacante
+BUFFI_SKILL_2_DESC	Crea un círculo protector que refleja el daño.
+BUFFI_SKILL_2_NAME	Reflectar
+BUFFI_SKILL_2_NAME_G	Agua relectante
+BUFFI_SKILL_2_NAME_P	Espejo de cristal
+BUFFI_SKILL_2_VALUE	Daño cuerpo a cuerpo reflejado: %d%%
+BUFFI_SKILL_3_COND	Aumenta la probabilidad de golpe crítico
+BUFFI_SKILL_3_DESC	Refuerza tu ataque o el de un miembro del grupo.
+BUFFI_SKILL_3_NAME	Fuerza de Dragón
+BUFFI_SKILL_3_NAME_G	Poder del dragón
+BUFFI_SKILL_3_NAME_P	Ayuda del Dragón
+BUFFI_SKILL_3_VALUE	Probabilidad de golpe crítico: %d%%
+BUFFI_SKILL_3_VALUE_TOOLTIP	Probabilidad de golpe crítico: %d%%
+BUFFI_SKILL_4_CAST_VALUE_TOOLTIP	Velocidad de hechizo: %d%%
+BUFFI_SKILL_4_COND	Aumenta la velocidad de movimiento y de lanzamiento
+BUFFI_SKILL_4_COND_SELF	Bonificación al usarla sobre ti mismo
+BUFFI_SKILL_4_DESC	Corre tan rápido como el viento.
+BUFFI_SKILL_4_NAME	Remolinos
+BUFFI_SKILL_4_NAME_G	Rapidez
+BUFFI_SKILL_4_NAME_P	Velocidad del viento
+BUFFI_SKILL_4_VALUE	Velocidad de movimiento: %d%%
+BUFFI_SKILL_4_VALUE_TOOLTIP	Velocidad de movimiento: %d%%
+BUFFI_SKILL_5_COND	Aumenta el valor de ataque
+BUFFI_SKILL_5_COND_PARTY	Se puede usar sobre miembros del grupo
+BUFFI_SKILL_5_DESC	Refuerza a un compañero.
+BUFFI_SKILL_5_NAME	Ataque
+BUFFI_SKILL_5_NAME_G	Ataque de apoyo
+BUFFI_SKILL_5_NAME_P	Ataque aumentado
+BUFFI_SKILL_5_VALUE	Poder de ataque: +%d
+BUFFI_SKILL_COND_SELF_BUFF	Mejora | Bonificación al usarla sobre ti mismo
+BUFFI_SUMMON_FIRST	Invoca primero a tu Buffi.
+COMPANION_CONFIRM	Confirmar
+COMPANION_COSTUME_BODY	Cuerpo
+COMPANION_COSTUME_HAIR	Peinado
+COMPANION_COSTUME_SASH	Banda
+COMPANION_COSTUME_WEAPON	Arma
+COMPANION_DAY_SHORT	d
+COMPANION_DURATION	Duración
+COMPANION_EVOLUTION_CANNOT_FAIL	La mejora no puede fallar
+COMPANION_EVOLVE	Evolución
+COMPANION_EVOLVE_LEVEL	Tu mascota debe ser de nivel %d para evolucionar.
+COMPANION_EVOLVE_MAX	Tu mascota ya está en la fase de evolución más alta.
+COMPANION_EVOLVE_PRICE	Precio de evolución: %s |Eemoji/gold|e
+COMPANION_EVOLVE_SUCCESS	¡Tu mascota ha evolucionado!
+COMPANION_EXP	Experiencia
+COMPANION_HOUR_SHORT	h
+COMPANION_NO_PET	No tienes ninguna mascota invocada
+COMPANION_PET_LEVEL	Nivel
+COMPANION_PET_NAME	Nombre
+COMPANION_PET_PITY	Fallos antes del %%100 de probabilidad: %d / %d
+COMPANION_PET_TYPE	Tipo
+COMPANION_POTION_FAIL	No se pudo usar la poción.
+COMPANION_POTION_MAX	Valor máximo para esta poción: %%%d
+COMPANION_POTION_NO_PET	Primero debes invocar una mascota.
+COMPANION_POTION_SUCCESS	El bono de la mascota ahora es %%%0.1f.
+COMPANION_REQUIREMENTS	REQUISITOS
+COMPANION_SKILLS	Habilidades
+COMPANION_SKILL_SLOT_MAX	Todas las ranuras de habilidad de tu mascota ya están abiertas.
+COMPANION_SKILL_SLOT_OPENED	Se ha abierto la ranura de habilidad %d de tu mascota.
+COMPANION_TYPE_UP_FAIL	La mejora de tipo ha fallado.
+COMPANION_TYPE_UP_GOLD	No tienes suficientes Yang.
+COMPANION_TYPE_UP_ITEM	No tienes los materiales necesarios.
+COMPANION_TYPE_UP_MAX	Tu mascota ya es del tipo más alto.
+COMPANION_TYPE_UP_SUCCESS	Se ha mejorado el tipo de tu mascota.
+COMPANION_UPGRADE_PRICE	Precio de mejora
+COMPANION_UPGRADE_TITLE	Tipo de mejora
+COMPANION_UPGRADE_TYPE	Mejorar Tipo
+COMPANION_UPGRADE_TYPE_PRICE	Precio de mejora: %s |Eemoji/gold|e
+GAME_OPTION_HIDE_MOUNT	Ocultar Montura
+GAME_OPTION_HIDE_PET	Ocultar Mascota
+GAME_OPTION_NOTIFICATION_BATTLE_PASS	Pase de Batalla
+MOUNT_BONUS_AVAILABLE_FIRST	Bonificación disponible para la 1.ª bonificación
+MOUNT_BONUS_AVAILABLE_SECOND	Bonificación disponible para la 2.ª bonificación
+MOUNT_BONUS_AVAILABLE_THIRD	Bonificación disponible para la 3.ª bonificación
+MOUNT_BONUS_HEADER	Bonificaciones
+MOUNT_BONUS_UNLOCK	Se desbloquea al alcanzar la evolución %d
+MOUNT_DEFAULT_NAME_SHORT	Montura
+MOUNT_EVOLVE_CONFIRMATION_1	¿Estás seguro de que deseas proceder con la evolución?
+MOUNT_EVOLVE_CONFIRMATION_2	Los objetos usados para la evolución se perderán y no podrán recuperarse
+MOUNT_EVOLVE_TITLE	Evolución de la montura
+MOUNT_FEED	Alimentar
+MOUNT_FEED_CONFIRMATION	¿Deseas alimentar a tu montura?
+MOUNT_FEED_NEED	Para completarlo se necesita |cffc79e65%s|r.
+MOUNT_FOOD	Comida
+MOUNT_FOOD_STATE_DYING	Muriéndose de hambre
+MOUNT_FOOD_STATE_HUNGRY	Hambrienta
+MOUNT_FOOD_STATE_STARVING	Muy hambrienta
+MOUNT_FOOD_STATE_WELL_FED	Bien alimentada
+MOUNT_FOOD_TIME_FMT	%dh %dmin %ds
+MOUNT_FOOD_TOOLTIP_EMPTY	No quedan bonificaciones de comida.
+MOUNT_FOOD_TOOLTIP_TO_DYING	Tiempo en combate antes de morir de hambre:
+MOUNT_FOOD_TOOLTIP_TO_HUNGRY	Tiempo en combate antes de tener hambre:
+MOUNT_FOOD_TOOLTIP_TO_STARVING	Tiempo en combate antes de pasar mucha hambre:
+MOUNT_HORSE_SPEED_TEXT	Velocidad del caballo +%d%%
+MOUNT_MAX_LEVEL_REACHED	Tu montura está en el nivel máximo.
+MOUNT_NO_SPAWN	No tienes ninguna montura invocada
+MOUNT_RESULT_BONUS_CHANGED	Se ha cambiado el encantamiento %d de tu montura.
+MOUNT_RESULT_BONUS_LOCKED	Esta ranura de encantamiento se abre en la evolución %d.
+MOUNT_RESULT_EVOLVED	¡Tu montura ha evolucionado!
+MOUNT_RESULT_FED	Has alimentado a tu montura.
+MOUNT_RESULT_LEVEL_CAP	Tu montura debe evolucionar para continuar.
+MOUNT_RESULT_LEVEL_UP	Tu montura ha alcanzado el nivel %d.
+MOUNT_RESULT_SKILL_FAIL	No se pudo mejorar la habilidad de la montura.
+MOUNT_RESULT_SKILL_UNLOCKED	Se ha desbloqueado la habilidad %d de tu montura.
+MOUNT_RESULT_SKILL_UP	Habilidad de montura mejorada.
+MOUNT_RUNE_BLESSING_FMT	Bendición de Anka: %d / %d fallos
+MOUNT_RUNE_CHANCE_FMT	Probabilidad de éxito: %%%d
+MOUNT_RUNE_CURRENT	Bonificaciones actuales
+MOUNT_RUNE_FAILURE	Mejora fallida. Se consumieron materiales y yang; la runa conservó su rango.
+MOUNT_RUNE_INFORMATION	Desbloquea runas cuando tu montura alcance el nivel 30, esté completamente evolucionada y tenga cuatro habilidades de nivel 10. Mejora al máximo cada runa para desbloquear la siguiente. Usa + para mejorar; cada sello conserva sus rangos. Las bonificaciones solo se aplican mientras montas la montura.
+MOUNT_RUNE_MAX	Rango máximo alcanzado
+MOUNT_RUNE_NEXT	Bonificaciones del siguiente rango
+MOUNT_RUNE_PAGE_TITLE	Runas
+MOUNT_RUNE_PREVIOUS_MAX	Mejora al máximo la runa anterior primero.
+MOUNT_RUNE_RANK_FMT	Nivel +%d / +%d
+MOUNT_RUNE_REQUIRE_SKILLS	Requiere las cuatro habilidades de montura al nivel 10.
+MOUNT_RUNE_SUCCESS	Runa mejorada. Su contador de Bendición se ha reiniciado.
+MOUNT_RUNE_UPGRADE_TITLE	Mejora de Runas
+MOUNT_SKILL_INFORMATION	Lleva tu montura al nivel 30 y a la fase de evolución 4/4.^Desbloquea las habilidades en orden; la habilidad anterior debe estar en el nivel 10.^Cada desbloqueo consume 1 x %s.^Haz clic en una ranura bloqueada para desbloquearla.
+MOUNT_SKILL_LEVEL	Nivel %d / %d
+MOUNT_SKILL_UNLOCK_CONFIRM_FMT	¿Quieres desbloquear la habilidad de la montura usando 1 %s?
+MOUNT_SKILL_UNLOCK_ORDER	Desbloquea habilidades en orden y alcanza el nivel 10 con la anterior.
+MOUNT_SKILL_UNLOCK_REQUIREMENTS	Tu montura debe ser de nivel 30 y evolución 4/4.
+MOUNT_UPGRADE_SKILL_CONFIRMATION	¿Mejorar la habilidad de tu montura?
+ORE_NAME	Mineral
+PET_AUTO_LOCKED_SKILL_TOOLTIP	Se desbloqueará automáticamente cuando la mascota alcance el nivel 90
+PET_BTN_EVOLVE	Evolucionar
+PET_EVOLUTION_TITLE	Evolución
+PET_INCUBATOR_PRICE	Precio de incubadora: %s |Eemoji/gold|e
+PET_INFORMATION_DURATION	Duración
+PET_INFORMATION_TITLE	Compañero
+PET_LOCKED_SKILL_TOOLTIP	Puede desbloquearse al nivel 105 de la mascota usando un Desbloqueador de Mascotas
+PET_MSG_CANNOT_SUMMON_NOW	No puedes llamar a tu mascota mientras estés comerciando.
+PET_MSG_LEVEL_TOO_HIGH	El nivel de la mascota no puede superar el nivel del jugador.
+PET_MSG_LIFETIME_EXTENDED	La duración máxima de tu mascota ha subido a %s días.
+PET_MSG_LIFETIME_MAX	La duración máxima de tu mascota no puede superar los %s días.
+PET_MSG_LIFETIME_OVER	La duración de la mascota %s ha caducado.
+PET_POTION_REQUIRED_TYPE	Para usar esta poción se necesita Tipo de mascota %d
+PET_SEAL_TIME_DHM	%dd %dh %dmin
+PET_SEAL_TOOLTIP_ATTACK	Atacar
+PET_SEAL_TOOLTIP_ELEMENT	Elemental Power
+PET_SEAL_TOOLTIP_HP	HP
+PET_SEAL_TOOLTIP_TIME	Tiempo restante : %s
+SUPPORT_DURATION_BUTTON	Duración
+SUPPORT_SKILL_AMOUNT_DESC_110	Velocidad de movimiento: %s
+SUPPORT_SKILL_AMOUNT_DESC_110_B	Velocidad de lanzamiento: %s
+SUPPORT_SKILL_AMOUNT_DESC_111	Poder de Ataque: +%s
+SUPPORT_SKILL_AMOUNT_DESC_94	Resistencia a ataques cuerpo a cuerpo: %s
+SUPPORT_SKILL_AMOUNT_DESC_95	Daño cuerpo a cuerpo reflejado: %s
+SUPPORT_SKILL_AMOUNT_DESC_96	Probabilidad de Golpe Crítico: %s
+SUPPORT_TITLE_EVOLVE	Evolución de Buffi
+SUPPORT_TITLE_SKILL	Habilidades
+TASKBAR_WIKI	Wiki
+TOOLTIP_BUFFI_UNEQUIP	Retirar a Buffi manualmente elimina los efectos de habilidad que otorga.
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Buscar Tienda
+TOOLTIP_SHORTCUT_WIKI	Abrir Wikipedia

@@ -1,0 +1,194 @@
+ADVANCED_OPTIONS_GROUP_DAMAGE_SETTINGS	Configurações de Dano
+ADVANCED_OPTIONS_GROUP_HIDE_ENTITIES_EFFECTS	Ocultar entidades / efeitos
+ADVANCED_OPTIONS_GROUP_METINSTONE_SETTINGS	Configurações de Pedra Metin
+AUTO_ALCHEMY_EXPIRED	Alquimia expirada
+AUTO_ALL_NOTIFICATIONS	Todas as notificações
+AUTO_BONUS_6_7_FINISHED	Bônus 6/7 concluído
+AUTO_BUFFILERI_GIZLE	Ocultar buffs
+AUTO_COMPANION_EXPIRED	Companheiro expirado
+AUTO_EVRIM	Evolução %d -> %d
+AUTO_GEREKEN_SEVIYE	Nível necessário: %d
+AUTO_ITEM_EXPIRED	Item expirado
+AUTO_MARKET_SALES	Vendas do mercado
+AUTO_MISSION_BOOK	Livro de missões
+AUTO_NOTHING_HIDDEN	Nada oculto
+AUTO_SA_DK	%dh %dmin
+BIOLOG_SUCCESS_BOOST	Aumenta a chance de sucesso em %%%d.
+BRAVE_CAPE_TITLE	Capa Automática
+BUFFI_DURATION_PERM	Permanente
+BUFFI_GRADE_GRAND_MASTER	 Grand Master
+BUFFI_GRADE_MASTER	 Master
+BUFFI_GRADE_PERFECT_MASTER	 Perfect Master
+BUFFI_INT_POWERED	Reforçado por INT
+BUFFI_INT_STAGE_1	Evolução 1 (Nível 55)
+BUFFI_INT_STAGE_2	Evolução 2 (Nível 75)
+BUFFI_INT_STAGE_3	Evolução 3 (Nível 90)
+BUFFI_INT_STAGE_DEFAULT	Padrão
+BUFFI_INT_TABLE_EVOLUTION	Evolução
+BUFFI_INT_TABLE_INTELLIGENCE	Inteligência
+BUFFI_INT_TOOLTIP	A Inteligência da Buffi cresce com a sua evolução
+BUFFI_MAX_EVOLUTION_REACHED	Seu Buffi não pode evoluir mais.
+BUFFI_NO_SPAWN	Não tens nenhuma Buffi invocada
+BUFFI_ORE_REMOVE_HINT	Clique para remover
+BUFFI_SKILL_1_COND	Resistência de ataque corpo a corpo:
+BUFFI_SKILL_1_DESC	Cria uma proteção em círculo.
+BUFFI_SKILL_1_NAME	Bênção - 19
+BUFFI_SKILL_1_NAME_G	Paraíso
+BUFFI_SKILL_1_NAME_P	Ataque mágico à distância | Os oponentes ficam mais lentos.
+BUFFI_SKILL_1_VALUE	Resistência a ataques corpo a corpo: %d%%
+BUFFI_SKILL_2_COND	A defesa do adversário é ignorada.
+BUFFI_SKILL_2_DESC	Cria um círculo de proteção refletora
+BUFFI_SKILL_2_NAME	Poder Reflectivo
+BUFFI_SKILL_2_NAME_G	Água Reflectora
+BUFFI_SKILL_2_NAME_P	Poder Reflectivo
+BUFFI_SKILL_2_VALUE	Dano corpo a corpo refletido: %d%%
+BUFFI_SKILL_3_COND	Aumenta a chance de críticos
+BUFFI_SKILL_3_DESC	Aumenta o ataque do teu personagem ou de um membro do grupo.
+BUFFI_SKILL_3_NAME	Ajuda do Dragão
+BUFFI_SKILL_3_NAME_G	Força Mágica
+BUFFI_SKILL_3_NAME_P	Ajuda do Dragão
+BUFFI_SKILL_3_VALUE	Chance de golpe crítico: %d%%
+BUFFI_SKILL_3_VALUE_TOOLTIP	Chance de Golpe Crítico: %d%%
+BUFFI_SKILL_4_CAST_VALUE_TOOLTIP	Velocidade de Magia: %d%%
+BUFFI_SKILL_4_COND	Aumenta a velocidade de movimento & rapidez de feitiço
+BUFFI_SKILL_4_COND_SELF	Bónus quando aplicado em si próprio
+BUFFI_SKILL_4_DESC	Corre rápido como o vento.
+BUFFI_SKILL_4_NAME	Rapidez
+BUFFI_SKILL_4_NAME_G	Veloz
+BUFFI_SKILL_4_NAME_P	Velocidade do Vento
+BUFFI_SKILL_4_VALUE	Velocidade de movimento: %d%%
+BUFFI_SKILL_4_VALUE_TOOLTIP	Velocidade de Movimento: %d%%
+BUFFI_SKILL_5_COND	Aumenta o poder de ataque
+BUFFI_SKILL_5_COND_PARTY	Pode ser usado em membros do grupo
+BUFFI_SKILL_5_DESC	Aumento do valor de Ataque
+BUFFI_SKILL_5_NAME	Energia
+BUFFI_SKILL_5_NAME_G	Energia Mística
+BUFFI_SKILL_5_NAME_P	Energia
+BUFFI_SKILL_5_VALUE	Poder de Ataque: +%d
+BUFFI_SKILL_COND_SELF_BUFF	Buff | Bónus ao usar em si mesmo
+BUFFI_SUMMON_FIRST	Invoque seu Buffi primeiro.
+COMPANION_CONFIRM	Confirmar
+COMPANION_COSTUME_BODY	Corpo
+COMPANION_COSTUME_HAIR	Penteado
+COMPANION_COSTUME_SASH	Faixa
+COMPANION_COSTUME_WEAPON	Armas
+COMPANION_DAY_SHORT	d
+COMPANION_DURATION	Duração
+COMPANION_EVOLUTION_CANNOT_FAIL	A melhoria não pode falhar
+COMPANION_EVOLVE	Evolução
+COMPANION_EVOLVE_LEVEL	Seu pet precisa estar no nível %d para evoluir.
+COMPANION_EVOLVE_MAX	Seu pet já está no estágio máximo de evolução.
+COMPANION_EVOLVE_PRICE	Preço de Evolução: %s |Eemoji/gold|e
+COMPANION_EVOLVE_SUCCESS	Seu pet evoluiu!
+COMPANION_EXP	Experiência
+COMPANION_HOUR_SHORT	h
+COMPANION_NO_PET	Não tens nenhum Pet invocado.
+COMPANION_PET_LEVEL	Nível
+COMPANION_PET_NAME	Nome
+COMPANION_PET_PITY	Falhas antes de 100%% de chance: %d / %d
+COMPANION_PET_TYPE	Tipo
+COMPANION_POTION_FAIL	O uso da poção falhou.
+COMPANION_POTION_MAX	Valor máximo para esta poção: %%%d
+COMPANION_POTION_NO_PET	Você precisa invocar um pet primeiro.
+COMPANION_POTION_SUCCESS	O bônus do pet agora é %%%0.1f.
+COMPANION_REQUIREMENTS	REQUISITOS
+COMPANION_SKILLS	Habilidades
+COMPANION_SKILL_SLOT_MAX	Todos os espaços de habilidade do seu pet já estão abertos.
+COMPANION_SKILL_SLOT_OPENED	O espaço de habilidade %d do seu pet foi aberto.
+COMPANION_TYPE_UP_FAIL	A melhoria de tipo falhou.
+COMPANION_TYPE_UP_GOLD	Você não tem Yang suficiente.
+COMPANION_TYPE_UP_ITEM	Você não possui os materiais necessários.
+COMPANION_TYPE_UP_MAX	Seu pet já está no tipo máximo.
+COMPANION_TYPE_UP_SUCCESS	O tipo do seu pet foi melhorado.
+COMPANION_UPGRADE_PRICE	Preço de Melhoria
+COMPANION_UPGRADE_TITLE	Melhorar Tipo
+COMPANION_UPGRADE_TYPE	Melhorar Tipo
+COMPANION_UPGRADE_TYPE_PRICE	Preço de Melhoria: %s |Eemoji/gold|e
+GAME_OPTION_HIDE_MOUNT	Montada
+GAME_OPTION_HIDE_PET	Pet
+GAME_OPTION_NOTIFICATION_BATTLE_PASS	Passe de Batalha
+MOUNT_BONUS_AVAILABLE_FIRST	Bónus disponível para o primeiro bónus
+MOUNT_BONUS_AVAILABLE_SECOND	Bónus disponível para o segundo bónus
+MOUNT_BONUS_AVAILABLE_THIRD	Bónus disponível para o terceiro bónus
+MOUNT_BONUS_HEADER	Bónus
+MOUNT_BONUS_UNLOCK	Desbloqueia ao Atingir a Evolução %d
+MOUNT_DEFAULT_NAME_SHORT	Montaria
+MOUNT_EVOLVE_CONFIRMATION_1	Tem certeza de que deseja prosseguir com a evolução?
+MOUNT_EVOLVE_CONFIRMATION_2	Os itens utilizados para a evolução serão perdidos e não poderão ser recuperados
+MOUNT_EVOLVE_TITLE	Evolução da Montada
+MOUNT_FEED	Alimentar
+MOUNT_FEED_CONFIRMATION	Queres alimentar a tua montada?
+MOUNT_FEED_NEED	Para concluir isto é necessário |cffc79e65%s|r.
+MOUNT_FOOD	Comida
+MOUNT_FOOD_STATE_DYING	A morrer de Fome
+MOUNT_FOOD_STATE_HUNGRY	Com Fome
+MOUNT_FOOD_STATE_STARVING	Esfomeado
+MOUNT_FOOD_STATE_WELL_FED	Bem Alimentado
+MOUNT_FOOD_TIME_FMT	%dh %dmin %ds
+MOUNT_FOOD_TOOLTIP_EMPTY	Não há mais bónus de comida.
+MOUNT_FOOD_TOOLTIP_TO_DYING	Tempo de combate antes de morrer de fome:
+MOUNT_FOOD_TOOLTIP_TO_HUNGRY	Tempo de combate antes de ficar com fome:
+MOUNT_FOOD_TOOLTIP_TO_STARVING	Tempo de combate antes de ficar esformeado:
+MOUNT_HORSE_SPEED_TEXT	Velocidade do Cavalo +%d%%
+MOUNT_MAX_LEVEL_REACHED	Sua montaria está no nível máximo.
+MOUNT_NO_SPAWN	Não tens nenhuma montada invocada
+MOUNT_RESULT_BONUS_CHANGED	O encantamento %d da sua montaria foi alterado.
+MOUNT_RESULT_BONUS_LOCKED	Este espaço de encantamento é desbloqueado na evolução %d.
+MOUNT_RESULT_EVOLVED	Sua montaria evoluiu!
+MOUNT_RESULT_FED	Você alimentou sua montaria.
+MOUNT_RESULT_LEVEL_CAP	Sua montaria precisa evoluir para continuar.
+MOUNT_RESULT_LEVEL_UP	Sua montaria alcançou o nível %d.
+MOUNT_RESULT_SKILL_FAIL	Não foi possível melhorar a habilidade da montaria.
+MOUNT_RESULT_SKILL_UNLOCKED	A habilidade %d da sua montaria foi desbloqueada.
+MOUNT_RESULT_SKILL_UP	A habilidade da montaria foi melhorada.
+MOUNT_RUNE_BLESSING_FMT	Bênção de Anka: %d / %d falhas
+MOUNT_RUNE_CHANCE_FMT	Chance de sucesso: %%%d
+MOUNT_RUNE_CURRENT	Bônus atuais
+MOUNT_RUNE_FAILURE	A melhoria falhou. Os materiais e o Yang foram gastos; a runa manteve o nível.
+MOUNT_RUNE_INFORMATION	Quando sua montaria alcançar o nível 30, estiver totalmente evoluída e tiver quatro habilidades no nível 10, você poderá desbloquear as runas. Leve cada runa ao nível máximo para desbloquear a próxima. Use o botão + para melhorar; cada selo mantém o nível da runa. Os bônus só valem enquanto você estiver montado.
+MOUNT_RUNE_MAX	Nível máximo alcançado
+MOUNT_RUNE_NEXT	Bônus do próximo nível
+MOUNT_RUNE_PAGE_TITLE	Runas
+MOUNT_RUNE_PREVIOUS_MAX	Leve primeiro a runa anterior ao nível máximo.
+MOUNT_RUNE_RANK_FMT	Nível +%d / +%d
+MOUNT_RUNE_REQUIRE_SKILLS	As quatro habilidades da montaria precisam estar no Nível 10.
+MOUNT_RUNE_SUCCESS	Runa melhorada. O contador da Bênção de Anka foi zerado.
+MOUNT_RUNE_UPGRADE_TITLE	Melhoria de Runa
+MOUNT_SKILL_INFORMATION	Leve sua montaria ao nível 30 e ao estágio de evolução 4/4.^Desbloqueie as habilidades em ordem; a anterior deve estar no nível 10.^Cada desbloqueio consome 1 x %s.^Clique em um espaço bloqueado para desbloquear.
+MOUNT_SKILL_LEVEL	Nível %d / %d
+MOUNT_SKILL_UNLOCK_CONFIRM_FMT	Deseja desbloquear a habilidade da montaria usando 1 unidade de %s?
+MOUNT_SKILL_UNLOCK_ORDER	Desbloqueie as habilidades em ordem e leve a anterior ao nível 10.
+MOUNT_SKILL_UNLOCK_REQUIREMENTS	Sua montaria deve estar no nível 30 e na evolução 4/4.
+MOUNT_UPGRADE_SKILL_CONFIRMATION	Melhorar a habilidade da sua montada?
+ORE_NAME	Minério
+PET_AUTO_LOCKED_SKILL_TOOLTIP	Será desbloqueado automaticamente quando o Pet atingir o nível 90
+PET_BTN_EVOLVE	Evoluir
+PET_EVOLUTION_TITLE	Evolução
+PET_INCUBATOR_PRICE	Preço da incubadora: %s |Eemoji/gold|e
+PET_INFORMATION_DURATION	Duração
+PET_INFORMATION_TITLE	Pet
+PET_LOCKED_SKILL_TOOLTIP	Pode ser desbloqueado quando o Pet atingir o nível 105, utilizando um Desbloqueador de Pets
+PET_MSG_CANNOT_SUMMON_NOW	Não podes invocar o teu pet enquanto negoceias.
+PET_MSG_LEVEL_TOO_HIGH	O nível do pet não pode ser superior ao do jogador.
+PET_MSG_LIFETIME_EXTENDED	A duração máxima do seu pet aumentou para %s dias.
+PET_MSG_LIFETIME_MAX	A duração máxima do seu pet pode ser de no máximo %s dias.
+PET_MSG_LIFETIME_OVER	O tempo do pet %s acabou.
+PET_POTION_REQUIRED_TYPE	O Tipo de Pet %d é necessário para usar esta poção
+PET_SEAL_TIME_DHM	%dd %dh %dmin
+PET_SEAL_TOOLTIP_ATTACK	Atacar
+PET_SEAL_TOOLTIP_ELEMENT	Forte contra Elementos
+PET_SEAL_TOOLTIP_HP	VD
+PET_SEAL_TOOLTIP_TIME	Tempo Restante : %s
+SUPPORT_DURATION_BUTTON	Duração
+SUPPORT_SKILL_AMOUNT_DESC_110	Rapidez de Movimento: %s
+SUPPORT_SKILL_AMOUNT_DESC_110_B	Rapidez de Feitiço: %s
+SUPPORT_SKILL_AMOUNT_DESC_111	Poder de Ataque: +%s
+SUPPORT_SKILL_AMOUNT_DESC_94	Resistência a ataques corpo a corpo: %s
+SUPPORT_SKILL_AMOUNT_DESC_95	Dano corpo a corpo refletido: %s
+SUPPORT_SKILL_AMOUNT_DESC_96	Chance de acerto crítico: %s
+SUPPORT_TITLE_EVOLVE	Evolução da Buffi
+SUPPORT_TITLE_SKILL	Habilidades
+TASKBAR_WIKI	Wiki
+TOOLTIP_BUFFI_UNEQUIP	Remover o Buffi manualmente remove os efeitos de habilidade que ele concede.
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Pesquisar loja
+TOOLTIP_SHORTCUT_WIKI	Abrir a Wikipédia

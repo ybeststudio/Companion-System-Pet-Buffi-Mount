@@ -1,0 +1,194 @@
+ADVANCED_OPTIONS_GROUP_DAMAGE_SETTINGS	Nastavení poškození
+ADVANCED_OPTIONS_GROUP_HIDE_ENTITIES_EFFECTS	Skrıt entity / efekty
+ADVANCED_OPTIONS_GROUP_METINSTONE_SETTINGS	Nastavení Metinovıch kamenù
+AUTO_ALCHEMY_EXPIRED	Alchymie vypršela
+AUTO_ALL_NOTIFICATIONS	Všechna oznámení
+AUTO_BONUS_6_7_FINISHED	Bonus 6/7 dokonèen
+AUTO_BUFFILERI_GIZLE	Skrıt buffy
+AUTO_COMPANION_EXPIRED	Spoleèník vypršel
+AUTO_EVRIM	Evoluce %d -> %d
+AUTO_GEREKEN_SEVIYE	Poadovaná úroveò: %d
+AUTO_ITEM_EXPIRED	Pøedmìt vypršel
+AUTO_MARKET_SALES	Prodeje na trhu
+AUTO_MISSION_BOOK	Kniha misí
+AUTO_NOTHING_HIDDEN	Nic není skryto
+AUTO_SA_DK	%dhod. %dmin
+BIOLOG_SUCCESS_BOOST	Zvyšuje šanci na úspìch o %%%d.
+BRAVE_CAPE_TITLE	Automatickı Cape
+BUFFI_DURATION_PERM	Trvalé
+BUFFI_GRADE_GRAND_MASTER	 Grand Master
+BUFFI_GRADE_MASTER	 Master
+BUFFI_GRADE_PERFECT_MASTER	 Perfect Master
+BUFFI_INT_POWERED	Strengthened by INT
+BUFFI_INT_STAGE_1	Evoluce 1 (Úroveò 55)
+BUFFI_INT_STAGE_2	Evoluce 2 (Úroveò 75)
+BUFFI_INT_STAGE_3	Evoluce 3 (Úroveò 90)
+BUFFI_INT_STAGE_DEFAULT	Vıchozí
+BUFFI_INT_TABLE_EVOLUTION	Evoluce
+BUFFI_INT_TABLE_INTELLIGENCE	Inteligence
+BUFFI_INT_TOOLTIP	Inteligence Buffi poroste s kadou evolucí
+BUFFI_MAX_EVOLUTION_REACHED	Tvùj Buffi se ji nemùe dále vyvíjet.
+BUFFI_NO_SPAWN	Nemáte pøivolané ádné buffi
+BUFFI_ORE_REMOVE_HINT	Kliknutím sundáš
+BUFFI_SKILL_1_COND	Resistance to melee attack
+BUFFI_SKILL_1_DESC	Creates a protective circle.
+BUFFI_SKILL_1_NAME	Poehnání
+BUFFI_SKILL_1_NAME_G	Heaven
+BUFFI_SKILL_1_NAME_P	Dragon
+BUFFI_SKILL_1_VALUE	Odolnost proti útokùm zblízka: %d%%
+BUFFI_SKILL_2_COND	Reflects damage back at the attacker
+BUFFI_SKILL_2_DESC	Creates a protective reflecting circle.
+BUFFI_SKILL_2_NAME	Reflect
+BUFFI_SKILL_2_NAME_G	Reflecting Water
+BUFFI_SKILL_2_NAME_P	Crystal Mirror
+BUFFI_SKILL_2_VALUE	Odraené poškození zblízka: %d%%
+BUFFI_SKILL_3_COND	Increases chance of critical hit
+BUFFI_SKILL_3_DESC	Strengthens you or a group member's attack.
+BUFFI_SKILL_3_NAME	Dragon's Aid
+BUFFI_SKILL_3_NAME_G	Dragon's Support
+BUFFI_SKILL_3_NAME_P	Draèí pomoc
+BUFFI_SKILL_3_VALUE	Šance na kritickı zásah: %d%%
+BUFFI_SKILL_3_VALUE_TOOLTIP	Šance na kritickı zásah: %d%%
+BUFFI_SKILL_4_CAST_VALUE_TOOLTIP	Rychlost kouzlení: %d%%
+BUFFI_SKILL_4_COND	Increases movement & casting speed
+BUFFI_SKILL_4_COND_SELF	Bonus when cast on self
+BUFFI_SKILL_4_DESC	Run as fast as the wind.
+BUFFI_SKILL_4_NAME	Swiftness
+BUFFI_SKILL_4_NAME_G	Quickness
+BUFFI_SKILL_4_NAME_P	Speed of Wind
+BUFFI_SKILL_4_VALUE	Rychlost pohybu: %d%%
+BUFFI_SKILL_4_VALUE_TOOLTIP	Rychlost pohybu: %d%%
+BUFFI_SKILL_5_COND	Increases attack value
+BUFFI_SKILL_5_COND_PARTY	Can be used on group members
+BUFFI_SKILL_5_DESC	Strengthen a partner.
+BUFFI_SKILL_5_NAME	Attack Up
+BUFFI_SKILL_5_NAME_G	Support Attack
+BUFFI_SKILL_5_NAME_P	Strengthened Attack
+BUFFI_SKILL_5_VALUE	Síla útoku: +%d
+BUFFI_SKILL_COND_SELF_BUFF	Buff | Bonus when cast on self
+BUFFI_SUMMON_FIRST	Nejprve pøivolej svého Buffi.
+COMPANION_CONFIRM	Potvrdit
+COMPANION_COSTUME_BODY	Tìlo
+COMPANION_COSTUME_HAIR	Úèes
+COMPANION_COSTUME_SASH	Šerpa
+COMPANION_COSTUME_WEAPON	Zbranì
+COMPANION_DAY_SHORT	d
+COMPANION_DURATION	Doba trvání
+COMPANION_EVOLUTION_CANNOT_FAIL	Zlepšení nemùe selhat
+COMPANION_EVOLVE	Evoluce
+COMPANION_EVOLVE_LEVEL	Pro evoluci musí mít tvùj mazlíèek úroveò %d.
+COMPANION_EVOLVE_MAX	Tvùj mazlíèek je ji na nejvyšším stupni evoluce.
+COMPANION_EVOLVE_PRICE	Cena vıvoje: %s |Eemoji/gold|e
+COMPANION_EVOLVE_SUCCESS	Tvùj mazlíèek se vyvinul!
+COMPANION_EXP	Zkušenosti
+COMPANION_HOUR_SHORT	h
+COMPANION_NO_PET	Nemáte pøivolané ádné domácí zvíøe
+COMPANION_PET_LEVEL	Úroveò
+COMPANION_PET_NAME	Jméno
+COMPANION_PET_PITY	Selhání pøed 100%% šancí: %d / %d
+COMPANION_PET_TYPE	Typ
+COMPANION_POTION_FAIL	Pouití lektvaru selhalo.
+COMPANION_POTION_MAX	Maximální hodnota pro tento lektvar: %%%d
+COMPANION_POTION_NO_PET	Nejprve musíš pøivolat mazlíèka.
+COMPANION_POTION_SUCCESS	Bonus mazlíèka je nyní %%%0.1f.
+COMPANION_REQUIREMENTS	POADAVKY
+COMPANION_SKILLS	Schopnosti
+COMPANION_SKILL_SLOT_MAX	Všechny sloty dovedností tvého mazlíèka jsou ji odemèeny.
+COMPANION_SKILL_SLOT_OPENED	Slot dovednosti %d tvého mazlíèka byl odemèen.
+COMPANION_TYPE_UP_FAIL	Vylepšení typu selhalo.
+COMPANION_TYPE_UP_GOLD	Nemáš dost Yang.
+COMPANION_TYPE_UP_ITEM	Nemáš potøebné materiály.
+COMPANION_TYPE_UP_MAX	Tvùj mazlíèek je ji nejvyššího typu.
+COMPANION_TYPE_UP_SUCCESS	Typ tvého mazlíèka byl vylepšen.
+COMPANION_UPGRADE_PRICE	Cena vıvoje
+COMPANION_UPGRADE_TITLE	Typ vylepšení
+COMPANION_UPGRADE_TYPE	Typ upgradu
+COMPANION_UPGRADE_TYPE_PRICE	Cena vylepšení: %s |Eemoji/gold|e
+GAME_OPTION_HIDE_MOUNT	Skrıt Mount
+GAME_OPTION_HIDE_PET	Skrıt zvíøátko
+GAME_OPTION_NOTIFICATION_BATTLE_PASS	Battle Pass
+MOUNT_BONUS_AVAILABLE_FIRST	Lze pouít jako první bonus
+MOUNT_BONUS_AVAILABLE_SECOND	Lze pouít jako druhı bonus
+MOUNT_BONUS_AVAILABLE_THIRD	Lze pouít jako tøetí bonus
+MOUNT_BONUS_HEADER	Bonusy
+MOUNT_BONUS_UNLOCK	Odemkne se pøi dosaení evoluce %d
+MOUNT_DEFAULT_NAME_SHORT	Mount
+MOUNT_EVOLVE_CONFIRMATION_1	Jste si jisti, e chcete pokraèovat ve vıvoji?
+MOUNT_EVOLVE_CONFIRMATION_2	Pøedmìty pouité pro evoluci budou ztraceny a nelze je obnovit
+MOUNT_EVOLVE_TITLE	Evoluce mounta
+MOUNT_FEED	Krmivo
+MOUNT_FEED_CONFIRMATION	Chcete krmit svého konì?
+MOUNT_FEED_NEED	K dokonèení je potøeba |cffc79e65%s|r.
+MOUNT_FOOD	Jídlo
+MOUNT_FOOD_STATE_DYING	Umírá hlady
+MOUNT_FOOD_STATE_HUNGRY	Hladovı
+MOUNT_FOOD_STATE_STARVING	Velmi hladovı
+MOUNT_FOOD_STATE_WELL_FED	Plnı
+MOUNT_FOOD_TIME_FMT	%d h %d min %d s
+MOUNT_FOOD_TOOLTIP_EMPTY	ádnı bonus z jídla nezbıvá.
+MOUNT_FOOD_TOOLTIP_TO_DYING	Doba boje, ne umøe hlady:
+MOUNT_FOOD_TOOLTIP_TO_HUNGRY	Doba boje, ne zhladoví:
+MOUNT_FOOD_TOOLTIP_TO_STARVING	Doba boje, ne bude velmi hladovı:
+MOUNT_HORSE_SPEED_TEXT	Rychlost konì +%d%%
+MOUNT_MAX_LEVEL_REACHED	Tvùj mount je na nejvyšší úrovni.
+MOUNT_NO_SPAWN	Nemáte pøivolaného ádného mounta
+MOUNT_RESULT_BONUS_CHANGED	%d. bonus tvého mounta se zmìnil.
+MOUNT_RESULT_BONUS_LOCKED	Tento slot bonusu se odemkne pøi evoluci %d.
+MOUNT_RESULT_EVOLVED	Tvùj mount se vyvinul!
+MOUNT_RESULT_FED	Nakrmil jsi svého mounta.
+MOUNT_RESULT_LEVEL_CAP	Tvùj mount se musí vyvinout, aby mohl pokraèovat.
+MOUNT_RESULT_LEVEL_UP	Tvùj mount dosáhl úrovnì %d.
+MOUNT_RESULT_SKILL_FAIL	Dovednost mounta nelze vylepšit.
+MOUNT_RESULT_SKILL_UNLOCKED	%d. dovednost tvého mounta byla odemèena.
+MOUNT_RESULT_SKILL_UP	Dovednost mounta byla vylepšena.
+MOUNT_RUNE_BLESSING_FMT	Poehnání Anka: %d / %d neúspìchù
+MOUNT_RUNE_CHANCE_FMT	Šance na úspìch: %%%d
+MOUNT_RUNE_CURRENT	Aktuální bonusy
+MOUNT_RUNE_FAILURE	Vylepšení selhalo. Materiály a Yang byly spotøebovány; runa si zachovala úroveò.
+MOUNT_RUNE_INFORMATION	Runy mùeš odemknout, kdy tvùj mount dosáhne úrovnì 30, je plnì vyvinutı a má ètyøi dovednosti na úrovni 10. Odemkneš další runu po dosaení maximální úrovnì té pøedchozí. Vylepšovat mùeš klávesou +; kadá peèe zachová úroveò runy. Bonusy platí pouze pøi jízdì na mountu.
+MOUNT_RUNE_MAX	Dosaena maximální úroveò
+MOUNT_RUNE_NEXT	Bonusy další úrovnì
+MOUNT_RUNE_PAGE_TITLE	Runy
+MOUNT_RUNE_PREVIOUS_MAX	Nejprve vylepši pøedchozí runu na maximální úroveò.
+MOUNT_RUNE_RANK_FMT	Úroveò +%d / +%d
+MOUNT_RUNE_REQUIRE_SKILLS	Všechny ètyøi dovednosti mounta musí bıt na úrovni 10.
+MOUNT_RUNE_SUCCESS	Runa vylepšena. Poèítadlo Poehnání Anka bylo vynulováno.
+MOUNT_RUNE_UPGRADE_TITLE	Vylepšení runy
+MOUNT_SKILL_INFORMATION	Vylep svého mounta na úroveò 30 a evoluci 4/4.^Odemykej dovednosti postupnì; pøedchozí musí bıt na úrovni 10.^Kadé odemèení spotøebuje 1 x %s.^Odemkni kliknutím na zamèenı slot.
+MOUNT_SKILL_LEVEL	Úroveò %d / %d
+MOUNT_SKILL_UNLOCK_CONFIRM_FMT	Chceš odemknout dovednost mounta za 1 ks %s?
+MOUNT_SKILL_UNLOCK_ORDER	Odemykej dovednosti postupnì a pøedchozí vylepši na úroveò 10.
+MOUNT_SKILL_UNLOCK_REQUIREMENTS	Tvùj mount musí mít úroveò 30 a evoluci 4/4.
+MOUNT_UPGRADE_SKILL_CONFIRMATION	Vylepšit dovednosti svého mounta?
+ORE_NAME	ruda
+PET_AUTO_LOCKED_SKILL_TOOLTIP	Odemkne se automaticky, kdy mazlíèek dosáhne úrovnì 90
+PET_BTN_EVOLVE	Vyvíjet se
+PET_EVOLUTION_TITLE	Evoluce
+PET_INCUBATOR_PRICE	Cena inkubátoru: %s |Eemoji/gold|e
+PET_INFORMATION_DURATION	Doba trvání
+PET_INFORMATION_TITLE	Spoleèník
+PET_LOCKED_SKILL_TOOLTIP	Lze odemknout Odemykaèem mazlíèka, kdy mazlíèek dosáhne úrovnì 105
+PET_MSG_CANNOT_SUMMON_NOW	Nemùeš pøivolat mazlíka kdy obchoduješ.
+PET_MSG_LEVEL_TOO_HIGH	Úroveò mazlíka nemùe bıt vyšší ne je úroveò hráèe.
+PET_MSG_LIFETIME_EXTENDED	Maximální doba tvého mazlíèka byla zvıšena na %s dní.
+PET_MSG_LIFETIME_MAX	Maximální doba tvého mazlíèka mùe bıt nejvıše %s dní.
+PET_MSG_LIFETIME_OVER	Platnost mazlíèka %s vypršela.
+PET_POTION_REQUIRED_TYPE	K pouití tohoto lektvaru je potøeba Typ mazlíèka %d
+PET_SEAL_TIME_DHM	%d d %d h %d min
+PET_SEAL_TOOLTIP_ATTACK	Útoeit
+PET_SEAL_TOOLTIP_ELEMENT	Elemental Power
+PET_SEAL_TOOLTIP_HP	ZB
+PET_SEAL_TOOLTIP_TIME	Zbıvající èas : %s
+SUPPORT_DURATION_BUTTON	Trvání
+SUPPORT_SKILL_AMOUNT_DESC_110	Rychlost pohybu: %s
+SUPPORT_SKILL_AMOUNT_DESC_110_B	Rychlost odlévání: %s
+SUPPORT_SKILL_AMOUNT_DESC_111	Síla útoku: +%s
+SUPPORT_SKILL_AMOUNT_DESC_94	Odolnost proti útokùm na blízko: %s
+SUPPORT_SKILL_AMOUNT_DESC_95	Odraené poškození zblízka: %s
+SUPPORT_SKILL_AMOUNT_DESC_96	Šance na kritickı zásah: %s
+SUPPORT_TITLE_EVOLVE	Evoluce Buffi
+SUPPORT_TITLE_SKILL	Schopnosti
+TASKBAR_WIKI	Wiki
+TOOLTIP_BUFFI_UNEQUIP	Ruèní odebrání Buffi zruší efekty dovedností, které poskytuje.
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Hledat v obchodì
+TOOLTIP_SHORTCUT_WIKI	Otevøete Wikipedii

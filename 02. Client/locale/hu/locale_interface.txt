@@ -1,0 +1,2 @@
+PET_INFORMATION_TITLE	Házikedvenc
+TASKBAR_PET_INFO	Házikedvenc infó

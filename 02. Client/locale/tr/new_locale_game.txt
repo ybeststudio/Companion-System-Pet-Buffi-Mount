@@ -1,0 +1,194 @@
+ADVANCED_OPTIONS_GROUP_DAMAGE_SETTINGS	Hasar Ayarlarý
+ADVANCED_OPTIONS_GROUP_HIDE_ENTITIES_EFFECTS	Varlýklarý / Efektleri Gizle
+ADVANCED_OPTIONS_GROUP_METINSTONE_SETTINGS	Metin Taþý Ayarlarý
+AUTO_ALCHEMY_EXPIRED	Simya Süresi Doldu
+AUTO_ALL_NOTIFICATIONS	Tüm Bildirimler
+AUTO_BONUS_6_7_FINISHED	Bonus 6/7 Bitti
+AUTO_BUFFILERI_GIZLE	Bufflarý gizle
+AUTO_COMPANION_EXPIRED	Yoldaþ Süresi Doldu
+AUTO_EVRIM	Evrim %d -> %d
+AUTO_GEREKEN_SEVIYE	Gereken seviye: %d
+AUTO_ITEM_EXPIRED	Eþya Süresi Doldu
+AUTO_MARKET_SALES	Pazar Satýþlarý
+AUTO_MISSION_BOOK	Görev Kitabý
+AUTO_NOTHING_HIDDEN	Hiçbir þey gizli deðil
+AUTO_SA_DK	%dsa. %ddk.
+BIOLOG_SUCCESS_BOOST	Baþarý þansýný %%%d artýrýr.
+BRAVE_CAPE_TITLE	Otomatik Pelerin
+BUFFI_DURATION_PERM	Kalýcý
+BUFFI_GRADE_GRAND_MASTER	 Grand Master
+BUFFI_GRADE_MASTER	 Master
+BUFFI_GRADE_PERFECT_MASTER	 Perfect Master
+BUFFI_INT_POWERED	INT tarafýndan güçlendirildi
+BUFFI_INT_STAGE_1	Evrim 1 (Seviye 55)
+BUFFI_INT_STAGE_2	Evrim 2 (Seviye 75)
+BUFFI_INT_STAGE_3	Evrim 3 (Seviye 90)
+BUFFI_INT_STAGE_DEFAULT	Varsayýlan
+BUFFI_INT_TABLE_EVOLUTION	Evrim
+BUFFI_INT_TABLE_INTELLIGENCE	Zeka
+BUFFI_INT_TOOLTIP	Buffi'nin zekasý evrim geçirdikçe artacaktýr
+BUFFI_MAX_EVOLUTION_REACHED	Buffi'niz daha fazla evrimleþemez.
+BUFFI_NO_SPAWN	Aktif buffi'niz yok
+BUFFI_ORE_REMOVE_HINT	Çýkarmak için týkla
+BUFFI_SKILL_1_COND	Yakýn dövüþ saldýrýlarýna karþý direnç
+BUFFI_SKILL_1_DESC	Koruyucu bir çember oluþturur.
+BUFFI_SKILL_1_NAME	Kutsama
+BUFFI_SKILL_1_NAME_G	Cennet
+BUFFI_SKILL_1_NAME_P	Ejderha
+BUFFI_SKILL_1_VALUE	Yakýn dövüþ saldýrýlarýna karþý direnç: %d%%
+BUFFI_SKILL_2_COND	Hasarý saldýrgana geri yansýtýr
+BUFFI_SKILL_2_DESC	Koruyucu bir yansýtýcý daire oluþturur.
+BUFFI_SKILL_2_NAME	Yansýtmak
+BUFFI_SKILL_2_NAME_G	Yansýtan Su
+BUFFI_SKILL_2_NAME_P	Kristal Ayna
+BUFFI_SKILL_2_VALUE	Yansýyan yakýn dövüþ hasarý: %d%%
+BUFFI_SKILL_3_COND	Kritik vuruþ þansýný artýrýr
+BUFFI_SKILL_3_DESC	Sizin veya bir grup üyesinin saldýrýsýný güçlendirir.
+BUFFI_SKILL_3_NAME	Ejderhanýn Yardýmý
+BUFFI_SKILL_3_NAME_G	Ejderhanýn Desteði
+BUFFI_SKILL_3_NAME_P	Ejderha Gücü
+BUFFI_SKILL_3_VALUE	Kritik vuruþ þansý: %d%%
+BUFFI_SKILL_3_VALUE_TOOLTIP	Kritik Vuruþ Þansý: %d%%
+BUFFI_SKILL_4_CAST_VALUE_TOOLTIP	Büyü Hýzý: %d%%
+BUFFI_SKILL_4_COND	Hareket ve büyü hýzýný artýrýr
+BUFFI_SKILL_4_COND_SELF	Kendine atýldýðýnda bonus
+BUFFI_SKILL_4_DESC	Rüzgar kadar hýzlý koþ.
+BUFFI_SKILL_4_NAME	Çabukluk
+BUFFI_SKILL_4_NAME_G	Çeviklik
+BUFFI_SKILL_4_NAME_P	Rüzgar Hýzý
+BUFFI_SKILL_4_VALUE	Hareket hýzý: %d%%
+BUFFI_SKILL_4_VALUE_TOOLTIP	Hareket Hýzý: %d%%
+BUFFI_SKILL_5_COND	Saldýrý deðerini artýrýr
+BUFFI_SKILL_5_COND_PARTY	Grup üyeleri üzerinde kullanýlabilir
+BUFFI_SKILL_5_DESC	Bir ortaðý güçlendirmek.
+BUFFI_SKILL_5_NAME	Saldýrý Artýþý
+BUFFI_SKILL_5_NAME_G	Destek Saldýrýsý
+BUFFI_SKILL_5_NAME_P	Güçlendirilmiþ Saldýrý
+BUFFI_SKILL_5_VALUE	Saldýrý Gücü: +%d
+BUFFI_SKILL_COND_SELF_BUFF	Buff | Kendine uygulandýðýnda bonus
+BUFFI_SUMMON_FIRST	Önce Buffi'nizi çaðýrýn.
+COMPANION_CONFIRM	Confirm
+COMPANION_COSTUME_BODY	Vücut
+COMPANION_COSTUME_HAIR	Saç
+COMPANION_COSTUME_SASH	Kuþak
+COMPANION_COSTUME_WEAPON	Silah
+COMPANION_DAY_SHORT	g
+COMPANION_DURATION	Süre
+COMPANION_EVOLUTION_CANNOT_FAIL	Ýyileþtirme baþarýsýz olamaz
+COMPANION_EVOLVE	Evrim
+COMPANION_EVOLVE_LEVEL	Evrim için petin %d. seviyede olmalý.
+COMPANION_EVOLVE_MAX	Petin zaten en yüksek evrim aþamasýnda.
+COMPANION_EVOLVE_PRICE	Geliþim Fiyatý: %s |Eemoji/gold|e
+COMPANION_EVOLVE_SUCCESS	Petin evrimleþti!
+COMPANION_EXP	EXP
+COMPANION_HOUR_SHORT	sa
+COMPANION_NO_PET	Çaðrýlan pet yok
+COMPANION_PET_LEVEL	Seviye
+COMPANION_PET_NAME	Ýsim
+COMPANION_PET_PITY	%%100 þans öncesi baþarýsýzlýk: %d / %d
+COMPANION_PET_TYPE	Tip
+COMPANION_POTION_FAIL	Ýksirin kullanýmý baþarýsýz oldu.
+COMPANION_POTION_MAX	Bu iksir için maksimum deðer: %%%d
+COMPANION_POTION_NO_PET	Önce bir pet çaðýrmalýsýn.
+COMPANION_POTION_SUCCESS	Pet bonusu %%%0.1f oldu.
+COMPANION_REQUIREMENTS	REQUIREMENTS
+COMPANION_SKILLS	Beceriler
+COMPANION_SKILL_SLOT_MAX	Petinin tüm beceri yuvalarý zaten açýk.
+COMPANION_SKILL_SLOT_OPENED	Petinin %d. beceri yuvasý açýldý.
+COMPANION_TYPE_UP_FAIL	Tip yükseltmesi baþarýsýz oldu.
+COMPANION_TYPE_UP_GOLD	Yeterli Yang'ýn yok.
+COMPANION_TYPE_UP_ITEM	Gerekli malzemelere sahip deðilsin.
+COMPANION_TYPE_UP_MAX	Petin zaten en yüksek tipte.
+COMPANION_TYPE_UP_SUCCESS	Petinin tipi yükseltildi.
+COMPANION_UPGRADE_PRICE	Geliþtirme Fiyatý
+COMPANION_UPGRADE_TITLE	Geliþtirme Türü
+COMPANION_UPGRADE_TYPE	Yükseltme Türü
+COMPANION_UPGRADE_TYPE_PRICE	Yükseltme Fiyatý: %s |Eemoji/gold|e
+GAME_OPTION_HIDE_MOUNT	Binekleri Gizle
+GAME_OPTION_HIDE_PET	Petleri Gizle
+GAME_OPTION_NOTIFICATION_BATTLE_PASS	Battle Pass
+MOUNT_BONUS_AVAILABLE_FIRST	Birinci Bonus Olarak Kullanýlabilir
+MOUNT_BONUS_AVAILABLE_SECOND	Ýkinci Bonus Olarak Kullanýlabilir
+MOUNT_BONUS_AVAILABLE_THIRD	Üçüncü Bonus Olarak Kullanýlabilir
+MOUNT_BONUS_HEADER	Bonus
+MOUNT_BONUS_UNLOCK	%d Evrime Ulaþtýðýnda Açýlýr
+MOUNT_DEFAULT_NAME_SHORT	Mount
+MOUNT_EVOLVE_CONFIRMATION_1	Geliþime devam etmek istediðinizden emin misiniz?
+MOUNT_EVOLVE_CONFIRMATION_2	Evrim için kullanýlan itemler kaybolacak ve kurtarýlamaz
+MOUNT_EVOLVE_TITLE	Binek Evrimi
+MOUNT_FEED	Besle
+MOUNT_FEED_CONFIRMATION	Bineðinizi beslemek ister misiniz?
+MOUNT_FEED_NEED	Bunun tamamlanmasý için |cffc79e65%s|r gerekir.
+MOUNT_FOOD	Yiyecek
+MOUNT_FOOD_STATE_DYING	Açlýktan Ölüyor
+MOUNT_FOOD_STATE_HUNGRY	Aç
+MOUNT_FOOD_STATE_STARVING	Çok Aç
+MOUNT_FOOD_STATE_WELL_FED	Tok
+MOUNT_FOOD_TIME_FMT	%dhrs %dmin %dsec
+MOUNT_FOOD_TOOLTIP_EMPTY	Yemek bonusu kalmadý.
+MOUNT_FOOD_TOOLTIP_TO_DYING	Açlýktan ölmeden önce savaþta geçecek süre:
+MOUNT_FOOD_TOOLTIP_TO_HUNGRY	Acýkmadan önce savaþta geçecek süre:
+MOUNT_FOOD_TOOLTIP_TO_STARVING	Çok acýkmadan önce savaþta geçecek süre:
+MOUNT_HORSE_SPEED_TEXT	At Hýzý +%d%%
+MOUNT_MAX_LEVEL_REACHED	Bineðin en yüksek seviyede.
+MOUNT_NO_SPAWN	Aktif bineðiniz yok
+MOUNT_RESULT_BONUS_CHANGED	Bineðinin %d. efsunu deðiþti.
+MOUNT_RESULT_BONUS_LOCKED	Bu efsun yuvasý %d. evrimde açýlýr.
+MOUNT_RESULT_EVOLVED	Bineðin evrimleþti!
+MOUNT_RESULT_FED	Bineðini besledin.
+MOUNT_RESULT_LEVEL_CAP	Bineðin devam etmek için evrimleþmeli.
+MOUNT_RESULT_LEVEL_UP	Bineðin %d. seviyeye ulaþtý.
+MOUNT_RESULT_SKILL_FAIL	Binek becerisi yükseltilemedi.
+MOUNT_RESULT_SKILL_UNLOCKED	Bineðinin %d. becerisi açýldý.
+MOUNT_RESULT_SKILL_UP	Binek becerisi yükseltildi.
+MOUNT_RUNE_BLESSING_FMT	Anka'nýn Kutsamasý: %d / %d baþarýsýzlýk
+MOUNT_RUNE_CHANCE_FMT	Baþarý þansý: %%%d
+MOUNT_RUNE_CURRENT	Mevcut bonuslar
+MOUNT_RUNE_FAILURE	Yükseltme baþarýsýz oldu. Malzemeler ve Yang harcandý; rün seviyesini korudu.
+MOUNT_RUNE_INFORMATION	Binek seviyeniz 30'a ulaþtýðýnda, binek tamamen evrimleþtiðinde ve dört adet seviye 10 beceriye sahip olduðunda rünleri açabilirsiniz. Her bir rünü maksimum seviyeye getirerek bir sonrakini açabilirsiniz. + tuþunu kullanarak yükseltme yapabilirsiniz; her mühür, rünün seviyesini korur. Bonuslar yalnýzca bineðe binerken geçerlidir.
+MOUNT_RUNE_MAX	Maksimum seviyeye ulaþýldý
+MOUNT_RUNE_NEXT	Sonraki seviye bonuslarý
+MOUNT_RUNE_PAGE_TITLE	Rünler
+MOUNT_RUNE_PREVIOUS_MAX	Önce önceki rünü maksimum seviyeye ulaþtýrýn.
+MOUNT_RUNE_RANK_FMT	Seviye +%d / +%d
+MOUNT_RUNE_REQUIRE_SKILLS	Dört binek becerisinin de Seviye 10 olmasý gerekir.
+MOUNT_RUNE_SUCCESS	Rün yükseltildi. Anka Kutsamasý sayacý sýfýrlandý.
+MOUNT_RUNE_UPGRADE_TITLE	Rün Yükseltme
+MOUNT_SKILL_INFORMATION	Bineðini 30. seviyeye ve 4/4 evrim aþamasýna getir.^Becerileri sýrayla aç; önceki beceri 10. seviyede olmalý.^Her kilit açma iþlemi 1 x %s tüketir.^Açmak için kilitli bir yuvaya týkla.
+MOUNT_SKILL_LEVEL	Seviye %d / %d
+MOUNT_SKILL_UNLOCK_CONFIRM_FMT	1 adet %s kullanarak binek becerisinin kilidini açmak istiyor musunuz?
+MOUNT_SKILL_UNLOCK_ORDER	Becerileri sýrasýyla açýn ve bir önceki beceride seviye 10'a ulaþýn.
+MOUNT_SKILL_UNLOCK_REQUIREMENTS	Binek seviyeniz 30 ve evrim seviyesi 4/4 olmalýdýr.
+MOUNT_UPGRADE_SKILL_CONFIRMATION	Bineðinizin becerisini yükseltmek mi istiyorsunuz?
+ORE_NAME	cevher
+PET_AUTO_LOCKED_SKILL_TOOLTIP	Pet 90. seviyeye ulaþtýðýnda otomatik olarak açýlýr
+PET_BTN_EVOLVE	Evrim
+PET_EVOLUTION_TITLE	Evrim
+PET_INCUBATOR_PRICE	Incubator price: %s |Eemoji/gold|e
+PET_INFORMATION_DURATION	Süre
+PET_INFORMATION_TITLE	Yoldaþ
+PET_LOCKED_SKILL_TOOLTIP	Pet 105. seviyeye ulaþtýðýnda Pet Kilit Açýcý kullanýlarak açýlabilir
+PET_MSG_CANNOT_SUMMON_NOW	Ticaret yaparken petini çaðýramazsýn.
+PET_MSG_LEVEL_TOO_HIGH	Petin seviyesi oyuncunun seviyesinden daha yüksek olamaz.
+PET_MSG_LIFETIME_EXTENDED	Petinin maksimum süresi %s güne çýktý.
+PET_MSG_LIFETIME_MAX	Petinin maksimum süresi en fazla %s gün olabilir.
+PET_MSG_LIFETIME_OVER	%s adlý petinin süresi doldu.
+PET_POTION_REQUIRED_TYPE	Bu iksiri kullanmak için Pet Tipi %d gereklidir
+PET_SEAL_TIME_DHM	%dg %dsa. %ddk.
+PET_SEAL_TOOLTIP_ATTACK	Saldýrý
+PET_SEAL_TOOLTIP_ELEMENT	Elemental Power
+PET_SEAL_TOOLTIP_HP	HP
+PET_SEAL_TOOLTIP_TIME	Kalan Süre : %s
+SUPPORT_DURATION_BUTTON	Süre
+SUPPORT_SKILL_AMOUNT_DESC_110	Hareket hýzý: %s
+SUPPORT_SKILL_AMOUNT_DESC_110_B	Büyü Hýzý: %s
+SUPPORT_SKILL_AMOUNT_DESC_111	Saldýrý Gücü: +%s
+SUPPORT_SKILL_AMOUNT_DESC_94	Yakýn dövüþ saldýrýlarýna karþý direnç: %s
+SUPPORT_SKILL_AMOUNT_DESC_95	Yansýyan yakýn dövüþ hasarý: %s
+SUPPORT_SKILL_AMOUNT_DESC_96	Kritik Vuruþ Þansý: %s
+SUPPORT_TITLE_EVOLVE	Buffi Evrimi
+SUPPORT_TITLE_SKILL	Beceriler
+TASKBAR_WIKI	Wiki
+TOOLTIP_BUFFI_UNEQUIP	Buffi'yi manuel olarak çýkarmak kazandýrdýðý beceri etkilerini kaldýrýr.
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Maðaza Ara
+TOOLTIP_SHORTCUT_WIKI	Wikipedia'yý aç

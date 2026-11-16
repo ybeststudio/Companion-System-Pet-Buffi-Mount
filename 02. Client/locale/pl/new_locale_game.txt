@@ -1,0 +1,194 @@
+ADVANCED_OPTIONS_GROUP_DAMAGE_SETTINGS	Ustawienia obra¿eñ
+ADVANCED_OPTIONS_GROUP_HIDE_ENTITIES_EFFECTS	Ukryj obiekty / efekty
+ADVANCED_OPTIONS_GROUP_METINSTONE_SETTINGS	Ustawienia Kamieni Metin
+AUTO_ALCHEMY_EXPIRED	Alchemia wygas³a
+AUTO_ALL_NOTIFICATIONS	Wszystkie powiadomienia
+AUTO_BONUS_6_7_FINISHED	Bonus 6/7 zakoñczony
+AUTO_BUFFILERI_GIZLE	Ukryj buffy
+AUTO_COMPANION_EXPIRED	Towarzysz wygas³
+AUTO_EVRIM	Ewolucja %d -> %d
+AUTO_GEREKEN_SEVIYE	Wymagany poziom: %d
+AUTO_ITEM_EXPIRED	Przedmiot wygas³
+AUTO_MARKET_SALES	Sprzeda¿ na rynku
+AUTO_MISSION_BOOK	Ksiêga misji
+AUTO_NOTHING_HIDDEN	Nic nie jest ukryte
+AUTO_SA_DK	%dgodz. %dmin
+BIOLOG_SUCCESS_BOOST	Zwiêksza szansê powodzenia o %%%d.
+BRAVE_CAPE_TITLE	Automatyczny Przyl¹dek
+BUFFI_DURATION_PERM	Sta³y
+BUFFI_GRADE_GRAND_MASTER	 Grand Master
+BUFFI_GRADE_MASTER	 Master
+BUFFI_GRADE_PERFECT_MASTER	 Perfect Master
+BUFFI_INT_POWERED	Wzmocnione przez INT
+BUFFI_INT_STAGE_1	Ewolucja 1 (Poziom 55)
+BUFFI_INT_STAGE_2	Ewolucja 2 (Poziom 75)
+BUFFI_INT_STAGE_3	Ewolucja 3 (Poziom 90)
+BUFFI_INT_STAGE_DEFAULT	Domyœlna
+BUFFI_INT_TABLE_EVOLUTION	Ewolucja
+BUFFI_INT_TABLE_INTELLIGENCE	Inteligencja
+BUFFI_INT_TOOLTIP	Inteligencja Buffi roœnie wraz z ewolucj¹
+BUFFI_MAX_EVOLUTION_REACHED	Twoje Buffi nie mo¿e ju¿ ewoluowaæ.
+BUFFI_NO_SPAWN	Nie masz przywo³anego ¿adnego wzmocnienia
+BUFFI_ORE_REMOVE_HINT	Kliknij, aby usun¹æ
+BUFFI_SKILL_1_COND	Odpornoœæ na atak wrêcz
+BUFFI_SKILL_1_DESC	Tworzy ochronny kr¹g.
+BUFFI_SKILL_1_NAME	B³ogos³awieñstwo
+BUFFI_SKILL_1_NAME_G	Niebiosa
+BUFFI_SKILL_1_NAME_P	Smok
+BUFFI_SKILL_1_VALUE	Odpornoœæ na ataki wrêcz: %d%%
+BUFFI_SKILL_2_COND	Odbija obra¿enia na atakuj¹cego
+BUFFI_SKILL_2_DESC	Tworzy ochronny odbijaj¹cy kr¹g.
+BUFFI_SKILL_2_NAME	Odbicie
+BUFFI_SKILL_2_NAME_G	Odbijaj¹ca Woda
+BUFFI_SKILL_2_NAME_P	Kryszta³owe Lustro
+BUFFI_SKILL_2_VALUE	Odbite obra¿enia wrêcz: %d%%
+BUFFI_SKILL_3_COND	Zwiêksza szansê na cios krytyczny
+BUFFI_SKILL_3_DESC	Wzmacnia twój lub cz³onka grupy atak.
+BUFFI_SKILL_3_NAME	Pomoc Smoka
+BUFFI_SKILL_3_NAME_G	Wsparcie Smoka
+BUFFI_SKILL_3_NAME_P	Pomoc smoka
+BUFFI_SKILL_3_VALUE	Szansa na cios krytyczny: %d%%
+BUFFI_SKILL_3_VALUE_TOOLTIP	Szansa na cios krytyczny: %d%%
+BUFFI_SKILL_4_CAST_VALUE_TOOLTIP	Szybkoœæ czarowania: %d%%
+BUFFI_SKILL_4_COND	Zwiêksza szybkoœæ poruszania i rzucania
+BUFFI_SKILL_4_COND_SELF	Bonus przy rzuceniu na siebie
+BUFFI_SKILL_4_DESC	Biegniesz szybko jak wiatr.
+BUFFI_SKILL_4_NAME	Zwinnoœæ
+BUFFI_SKILL_4_NAME_G	Szybkoœæ
+BUFFI_SKILL_4_NAME_P	Szybkoœæ Wiatru
+BUFFI_SKILL_4_VALUE	Szybkoœæ ruchu: %d%%
+BUFFI_SKILL_4_VALUE_TOOLTIP	Szybkoœæ ruchu: %d%%
+BUFFI_SKILL_5_COND	Zwiêksza wartoœæ ataku
+BUFFI_SKILL_5_COND_PARTY	Mo¿na u¿yæ na cz³onków grupy
+BUFFI_SKILL_5_DESC	Wzmacniasz partnera.
+BUFFI_SKILL_5_NAME	Zwiêkszenie Ataku
+BUFFI_SKILL_5_NAME_G	Wsparcie Ataku
+BUFFI_SKILL_5_NAME_P	Wzmacniony Atak
+BUFFI_SKILL_5_VALUE	Si³a ataku: +%d
+BUFFI_SKILL_COND_SELF_BUFF	Buff | Bonus przy rzuceniu na siebie
+BUFFI_SUMMON_FIRST	Najpierw przywo³aj swoje Buffi.
+COMPANION_CONFIRM	PotwierdŸ
+COMPANION_COSTUME_BODY	Strój
+COMPANION_COSTUME_HAIR	Fryzura
+COMPANION_COSTUME_SASH	Szarfa
+COMPANION_COSTUME_WEAPON	Broñ
+COMPANION_DAY_SHORT	d
+COMPANION_DURATION	Czas trwania
+COMPANION_EVOLUTION_CANNOT_FAIL	Gwarantowane Ulepszenie
+COMPANION_EVOLVE	Ewolucja
+COMPANION_EVOLVE_LEVEL	Aby ewoluowaæ, zwierzak musi mieæ poziom %d.
+COMPANION_EVOLVE_MAX	Twój zwierzak jest ju¿ na najwy¿szym etapie ewolucji.
+COMPANION_EVOLVE_PRICE	Cena ewolucji: %s |Eemoji/gold|e
+COMPANION_EVOLVE_SUCCESS	Twój zwierzak wyewoluowa³!
+COMPANION_EXP	Doœwiadczenie
+COMPANION_HOUR_SHORT	godz.
+COMPANION_NO_PET	Nie masz przywo³anego ¿adnego zwierzaka
+COMPANION_PET_LEVEL	Poziom
+COMPANION_PET_NAME	Nazwa
+COMPANION_PET_PITY	Niepowodzenia przed 100%% szans¹: %d / %d
+COMPANION_PET_TYPE	Typ
+COMPANION_POTION_FAIL	U¿ycie eliksiru nie powiod³o siê.
+COMPANION_POTION_MAX	Maksymalna wartoœæ dla tego eliksiru: %%%d
+COMPANION_POTION_NO_PET	Najpierw musisz przywo³aæ zwierzaka.
+COMPANION_POTION_SUCCESS	Bonus zwierzaka wynosi teraz %%%0.1f.
+COMPANION_REQUIREMENTS	WYMAGANIA
+COMPANION_SKILLS	Umiejêtnoœci
+COMPANION_SKILL_SLOT_MAX	Wszystkie miejsca na umiejêtnoœci zwierzaka s¹ ju¿ odblokowane.
+COMPANION_SKILL_SLOT_OPENED	Odblokowano %d. miejsce na umiejêtnoœæ zwierzaka.
+COMPANION_TYPE_UP_FAIL	Ulepszenie typu nie powiod³o siê.
+COMPANION_TYPE_UP_GOLD	Nie masz wystarczaj¹co Yang.
+COMPANION_TYPE_UP_ITEM	Nie masz wymaganych materia³ów.
+COMPANION_TYPE_UP_MAX	Twój zwierzak ma ju¿ najwy¿szy typ.
+COMPANION_TYPE_UP_SUCCESS	Typ zwierzaka zosta³ ulepszony.
+COMPANION_UPGRADE_PRICE	Cena ulepszenia
+COMPANION_UPGRADE_TITLE	Typ ulepszenia
+COMPANION_UPGRADE_TYPE	Ulepsz Typ
+COMPANION_UPGRADE_TYPE_PRICE	Cena ulepszenia: %s |Eemoji/gold|e
+GAME_OPTION_HIDE_MOUNT	Ukryj wierzchowca
+GAME_OPTION_HIDE_PET	Ukryj zwierzaka
+GAME_OPTION_NOTIFICATION_BATTLE_PASS	Przepustka bojowa
+MOUNT_BONUS_AVAILABLE_FIRST	Mo¿liwe bonusy przy 1-szym bonusie
+MOUNT_BONUS_AVAILABLE_SECOND	Mo¿liwe bonusy przy drugim bonusie
+MOUNT_BONUS_AVAILABLE_THIRD	Mo¿liwe bonusy przy trzecim bonusie
+MOUNT_BONUS_HEADER	Bonusy
+MOUNT_BONUS_UNLOCK	Odblokowuje siê na ewolucji %d
+MOUNT_DEFAULT_NAME_SHORT	Wierzchowiec
+MOUNT_EVOLVE_CONFIRMATION_1	Czy na pewno chcesz kontynuowaæ ewolucjê?
+MOUNT_EVOLVE_CONFIRMATION_2	Przedmioty u¿yte do ewolucji zostan¹ utracone i nie bêdzie mo¿na ich odzyskaæ
+MOUNT_EVOLVE_TITLE	Ewolucja wierzchowca
+MOUNT_FEED	Nakarm
+MOUNT_FEED_CONFIRMATION	Czy chcesz nakarmiæ swojego wierzchowca?
+MOUNT_FEED_NEED	Aby to ukoñczyæ, wymagane: |cffc79e65%s|r
+MOUNT_FOOD	G³ód
+MOUNT_FOOD_STATE_DYING	Umiera z g³odu
+MOUNT_FOOD_STATE_HUNGRY	G³odny
+MOUNT_FOOD_STATE_STARVING	G³oduj¹cy
+MOUNT_FOOD_STATE_WELL_FED	Najedzony
+MOUNT_FOOD_TIME_FMT	%d godz. %d min %d s
+MOUNT_FOOD_TOOLTIP_EMPTY	Brak bonusu za najedzenie.
+MOUNT_FOOD_TOOLTIP_TO_DYING	Czas walki do momentu œmierci z g³odu:
+MOUNT_FOOD_TOOLTIP_TO_HUNGRY	Czas walki do momentu zg³odnienia:
+MOUNT_FOOD_TOOLTIP_TO_STARVING	Czas walki do momentu g³odowania:
+MOUNT_HORSE_SPEED_TEXT	Szybkoœæ konia +%d%%
+MOUNT_MAX_LEVEL_REACHED	Twój wierzchowiec jest na najwy¿szym poziomie.
+MOUNT_NO_SPAWN	Nie masz przywo³anego ¿adnego wierzchowca
+MOUNT_RESULT_BONUS_CHANGED	Zmieniono %d. bonus twojego wierzchowca.
+MOUNT_RESULT_BONUS_LOCKED	To miejsce na bonus odblokowuje siê na ewolucji %d.
+MOUNT_RESULT_EVOLVED	Twój wierzchowiec wyewoluowa³!
+MOUNT_RESULT_FED	Nakarmi³eœ swojego wierzchowca.
+MOUNT_RESULT_LEVEL_CAP	Twój wierzchowiec musi wyewoluowaæ, aby iœæ dalej.
+MOUNT_RESULT_LEVEL_UP	Twój wierzchowiec osi¹gn¹³ poziom %d.
+MOUNT_RESULT_SKILL_FAIL	Nie uda³o siê ulepszyæ umiejêtnoœci wierzchowca.
+MOUNT_RESULT_SKILL_UNLOCKED	Odblokowano %d. umiejêtnoœæ twojego wierzchowca.
+MOUNT_RESULT_SKILL_UP	Umiejêtnoœæ wierzchowca zosta³a ulepszona.
+MOUNT_RUNE_BLESSING_FMT	B³ogos³awieñstwo Anka: %d / %d niepowodzeñ
+MOUNT_RUNE_CHANCE_FMT	Szansa powodzenia: %%%d
+MOUNT_RUNE_CURRENT	Obecne bonusy
+MOUNT_RUNE_FAILURE	Ulepszenie nie powiod³o siê. Materia³y i Yang zosta³y zu¿yte; ranga runy zosta³a zachowana.
+MOUNT_RUNE_INFORMATION	Odblokuj runy, gdy wierzchowiec ma poziom 30, pe³n¹ ewolucjê i cztery umiejêtnoœci na poziomie 10. Maksymalnie ulepsz ka¿d¹ runê, aby odblokowaæ nastêpn¹. U¿yj +, aby ulepszaæ; ka¿da pieczêæ zachowuje swoje rangi run. Bonusy dzia³aj¹ tylko podczas jazdy na wierzchowcu.
+MOUNT_RUNE_MAX	Osi¹gniêto maksymaln¹ rangê
+MOUNT_RUNE_NEXT	Bonusy nastêpnej rangi
+MOUNT_RUNE_PAGE_TITLE	Runy
+MOUNT_RUNE_PREVIOUS_MAX	Najpierw maksymalnie ulepsz poprzedni¹ runê.
+MOUNT_RUNE_RANK_FMT	Poziom +%d / +%d
+MOUNT_RUNE_REQUIRE_SKILLS	Wymaga wszystkich czterech umiejêtnoœci wierzchowca na poziomie 10.
+MOUNT_RUNE_SUCCESS	Runa ulepszona. Licznik B³ogos³awieñstwa zosta³ zresetowany.
+MOUNT_RUNE_UPGRADE_TITLE	Ulepszenie Runy
+MOUNT_SKILL_INFORMATION	DoprowadŸ wierzchowca do poziomu 30 i etapu ewolucji 4/4.^Odblokowuj umiejêtnoœci po kolei; poprzednia umiejêtnoœæ musi mieæ poziom 10.^Ka¿de odblokowanie zu¿ywa 1 x %s.^Kliknij zablokowane miejsce, aby je odblokowaæ.
+MOUNT_SKILL_LEVEL	Poziom %d / %d
+MOUNT_SKILL_UNLOCK_CONFIRM_FMT	Czy chcesz odblokowaæ umiejêtnoœæ wierzchowca, u¿ywaj¹c 1 szt. %s?
+MOUNT_SKILL_UNLOCK_ORDER	Odblokowuj umiejêtnoœci po kolei i osi¹gnij poziom 10 poprzedniej umiejêtnoœci.
+MOUNT_SKILL_UNLOCK_REQUIREMENTS	Twój wierzchowiec musi mieæ poziom 30 i etap ewolucji 4/4.
+MOUNT_UPGRADE_SKILL_CONFIRMATION	Ulepszyæ umiejêtnoœci swojego wierzchowca?
+ORE_NAME	Ruda
+PET_AUTO_LOCKED_SKILL_TOOLTIP	Zostanie automatycznie odblokowane, gdy pet osi¹gnie poziom 90
+PET_BTN_EVOLVE	Ewoluowaæ
+PET_EVOLUTION_TITLE	Ewolucja
+PET_INCUBATOR_PRICE	Cena inkubatora: %s |Eemoji/gold|e
+PET_INFORMATION_DURATION	Czas trwania
+PET_INFORMATION_TITLE	Towarzysz
+PET_LOCKED_SKILL_TOOLTIP	Mo¿e byæ odblokowane, gdy pet osi¹gnie poziom 105 za pomoc¹ Pet Unlockera
+PET_MSG_CANNOT_SUMMON_NOW	Nie mo¿esz przywo³aæ zwierzaka podczas handlowania.
+PET_MSG_LEVEL_TOO_HIGH	Poziom zwierzaka nie mo¿e byæ wy¿szy od poziomu postaci.
+PET_MSG_LIFETIME_EXTENDED	Maksymalny czas ¿ycia zwierzaka wzrós³ do %s dni.
+PET_MSG_LIFETIME_MAX	Maksymalny czas ¿ycia zwierzaka mo¿e wynosiæ najwy¿ej %s dni.
+PET_MSG_LIFETIME_OVER	Czas zwierzaka %s dobieg³ koñca.
+PET_POTION_REQUIRED_TYPE	Aby u¿yæ tego eliksiru, wymagany jest typ zwierzaka %d
+PET_SEAL_TIME_DHM	%d d %d godz. %d min
+PET_SEAL_TOOLTIP_ATTACK	Atak
+PET_SEAL_TOOLTIP_ELEMENT	Moc ¯ywio³ów
+PET_SEAL_TOOLTIP_HP	P¯
+PET_SEAL_TOOLTIP_TIME	Pozosta³y czas: %s
+SUPPORT_DURATION_BUTTON	Czas trwania
+SUPPORT_SKILL_AMOUNT_DESC_110	Szybkoœæ ruchu: %s
+SUPPORT_SKILL_AMOUNT_DESC_110_B	Szybkoœæ rzucania: %s
+SUPPORT_SKILL_AMOUNT_DESC_111	Si³a ataku: +%s
+SUPPORT_SKILL_AMOUNT_DESC_94	Odpornoœæ na ataki wrêcz: %s
+SUPPORT_SKILL_AMOUNT_DESC_95	Odbite obra¿enia w walce wrêcz: %s
+SUPPORT_SKILL_AMOUNT_DESC_96	Szansa na trafienie krytyczne: %s
+SUPPORT_TITLE_EVOLVE	Ewolucja Buffi
+SUPPORT_TITLE_SKILL	Umiejêtnoœci
+TASKBAR_WIKI	Wiki
+TOOLTIP_BUFFI_UNEQUIP	Rêczne zdjêcie Buffi usuwa efekty umiejêtnoœci, które daje.
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Wyszukaj w sklepie
+TOOLTIP_SHORTCUT_WIKI	Otwórz Wikipediê

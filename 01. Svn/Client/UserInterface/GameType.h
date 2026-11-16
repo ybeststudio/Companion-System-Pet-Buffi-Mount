@@ -1,0 +1,10 @@
+// Bul:
+	PET_SKILL_COUNT_MAX = 3,
+
+// Degistir:
+#ifdef ENABLE_GROWTH_PET_RENEWAL
+	PET_SKILL_COUNT_MAX = 6,
+#else
+	PET_SKILL_COUNT_MAX = 3,
+#endif
+

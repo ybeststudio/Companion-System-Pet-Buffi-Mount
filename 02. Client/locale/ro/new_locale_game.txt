@@ -1,0 +1,194 @@
+ADVANCED_OPTIONS_GROUP_DAMAGE_SETTINGS	Setãri daune
+ADVANCED_OPTIONS_GROUP_HIDE_ENTITIES_EFFECTS	Ascunde entitãti / efecte
+ADVANCED_OPTIONS_GROUP_METINSTONE_SETTINGS	Setãri Piatra Metin
+AUTO_ALCHEMY_EXPIRED	Alchimia a expirat
+AUTO_ALL_NOTIFICATIONS	Toate notificãrile
+AUTO_BONUS_6_7_FINISHED	Bonus 6/7 terminat
+AUTO_BUFFILERI_GIZLE	Ascunde buff-urile
+AUTO_COMPANION_EXPIRED	Companionul a expirat
+AUTO_EVRIM	Evoluþie %d -> %d
+AUTO_GEREKEN_SEVIYE	Nivel necesar: %d
+AUTO_ITEM_EXPIRED	Obiectul a expirat
+AUTO_MARKET_SALES	Vânzãri de piaþã
+AUTO_MISSION_BOOK	Cartea misiunilor
+AUTO_NOTHING_HIDDEN	Nimic ascuns
+AUTO_SA_DK	%dh %dmin
+BIOLOG_SUCCESS_BOOST	Creºte ºansa de succes cu %%%d.
+BRAVE_CAPE_TITLE	Mantie Automata
+BUFFI_DURATION_PERM	Permanent
+BUFFI_GRADE_GRAND_MASTER	 Grand Master
+BUFFI_GRADE_MASTER	 Master
+BUFFI_GRADE_PERFECT_MASTER	 Perfect Master
+BUFFI_INT_POWERED	Întãrit de INT
+BUFFI_INT_STAGE_1	Evolutie 1 (Nivel 55)
+BUFFI_INT_STAGE_2	Evolutie 2 (Nivel 75)
+BUFFI_INT_STAGE_3	Evolutie 3 (Nivel 90)
+BUFFI_INT_STAGE_DEFAULT	Implicit
+BUFFI_INT_TABLE_EVOLUTION	Evolutie
+BUFFI_INT_TABLE_INTELLIGENCE	Inteligenta
+BUFFI_INT_TOOLTIP	Inteligenta Buffi va creste prin evolutie
+BUFFI_MAX_EVOLUTION_REACHED	Buffi al tãu nu mai poate evolua.
+BUFFI_NO_SPAWN	Nu ai niciun buffi convocat
+BUFFI_ORE_REMOVE_HINT	Click pentru a scoate
+BUFFI_SKILL_1_COND	Rezistenta la atacul corporal
+BUFFI_SKILL_1_DESC	Creeaza un cerc protector.
+BUFFI_SKILL_1_NAME	Binecuvantare
+BUFFI_SKILL_1_NAME_G	Raiul
+BUFFI_SKILL_1_NAME_P	Dragon
+BUFFI_SKILL_1_VALUE	Rezistenþã la atacuri corp la corp: %d%%
+BUFFI_SKILL_2_COND	Reflecta paguba inapoi catre atacator
+BUFFI_SKILL_2_DESC	Creeaza un cerc reflectorizant protector
+BUFFI_SKILL_2_NAME	Reflexie
+BUFFI_SKILL_2_NAME_G	Apa reflectorizanta
+BUFFI_SKILL_2_NAME_P	Oglinda de cristal
+BUFFI_SKILL_2_VALUE	Daune reflectate corp la corp: %d%%
+BUFFI_SKILL_3_COND	Creste sansa de lovitura critica
+BUFFI_SKILL_3_DESC	Intareste atacul tau sau al unui membru al grupei.
+BUFFI_SKILL_3_NAME	Ajutorul dragonului
+BUFFI_SKILL_3_NAME_G	Sprijinul dragonului
+BUFFI_SKILL_3_NAME_P	Dragon Aid
+BUFFI_SKILL_3_VALUE	ªansã de loviturã criticã: %d%%
+BUFFI_SKILL_3_VALUE_TOOLTIP	ªansã de loviturã criticã: %d%%
+BUFFI_SKILL_4_CAST_VALUE_TOOLTIP	Vitezã de vrãji: %d%%
+BUFFI_SKILL_4_COND	Creste viteza de miscare si de farmec
+BUFFI_SKILL_4_COND_SELF	Bonus cand este folosit pe sine
+BUFFI_SKILL_4_DESC	Alearga la fel de repede ca vantul.
+BUFFI_SKILL_4_NAME	Viteza
+BUFFI_SKILL_4_NAME_G	Rapiditate
+BUFFI_SKILL_4_NAME_P	Viteza vantului
+BUFFI_SKILL_4_VALUE	Vitezã de miºcare: %d%%
+BUFFI_SKILL_4_VALUE_TOOLTIP	Vitezã de miºcare: %d%%
+BUFFI_SKILL_5_COND	Atacul creste
+BUFFI_SKILL_5_COND_PARTY	Poate fi folosit pe membrii grupei
+BUFFI_SKILL_5_DESC	Intareste un partener.
+BUFFI_SKILL_5_NAME	Atac marit
+BUFFI_SKILL_5_NAME_G	Atac de sprijin
+BUFFI_SKILL_5_NAME_P	Atac intarit
+BUFFI_SKILL_5_VALUE	Putere de atac: +%d
+BUFFI_SKILL_COND_SELF_BUFF	Buff | Bonus cand este folosit pe sine
+BUFFI_SUMMON_FIRST	Cheamã mai întâi Buffi.
+COMPANION_CONFIRM	Confirmã
+COMPANION_COSTUME_BODY	Corp
+COMPANION_COSTUME_HAIR	Coafurã
+COMPANION_COSTUME_SASH	Esarfã
+COMPANION_COSTUME_WEAPON	Arme
+COMPANION_DAY_SHORT	z
+COMPANION_DURATION	Duratã
+COMPANION_EVOLUTION_CANNOT_FAIL	Imbunatatirea nu poate esua
+COMPANION_EVOLVE	Evolutie
+COMPANION_EVOLVE_LEVEL	Petul trebuie sã fie la nivelul %d pentru evoluþie.
+COMPANION_EVOLVE_MAX	Petul tãu este deja la cea mai înaltã treaptã de evoluþie.
+COMPANION_EVOLVE_PRICE	Preþ evoluþie: %s |Eemoji/gold|e
+COMPANION_EVOLVE_SUCCESS	Petul tãu a evoluat!
+COMPANION_EXP	Experienta
+COMPANION_HOUR_SHORT	h
+COMPANION_NO_PET	Nu aveþi niciun animal de companie convocat
+COMPANION_PET_LEVEL	Nivel
+COMPANION_PET_NAME	Nume
+COMPANION_PET_PITY	Eºecuri înainte de %%100 ºansã: %d / %d
+COMPANION_PET_TYPE	Tip
+COMPANION_POTION_FAIL	Folosirea elixirului a eºuat.
+COMPANION_POTION_MAX	Valoare maximã pentru acest elixir: %%%d
+COMPANION_POTION_NO_PET	Trebuie mai întâi sã chemi un pet.
+COMPANION_POTION_SUCCESS	Bonusul petului a devenit %%%0.1f.
+COMPANION_REQUIREMENTS	CERINÞE
+COMPANION_SKILLS	Abilitati
+COMPANION_SKILL_SLOT_MAX	Toate sloturile de abilitãþi ale petului sunt deja deschise.
+COMPANION_SKILL_SLOT_OPENED	Slotul de abilitate %d al petului a fost deschis.
+COMPANION_TYPE_UP_FAIL	Îmbunãtãþirea tipului a eºuat.
+COMPANION_TYPE_UP_GOLD	Nu ai suficienþi Yang.
+COMPANION_TYPE_UP_ITEM	Nu ai materialele necesare.
+COMPANION_TYPE_UP_MAX	Petul tãu este deja de cel mai înalt tip.
+COMPANION_TYPE_UP_SUCCESS	Tipul petului a fost îmbunãtãþit.
+COMPANION_UPGRADE_PRICE	Preþ îmbunãtãþire
+COMPANION_UPGRADE_TITLE	Tip de îmbunãtãþire
+COMPANION_UPGRADE_TYPE	Tip de upgrade
+COMPANION_UPGRADE_TYPE_PRICE	Preþ îmbunãtãþire: %s |Eemoji/gold|e
+GAME_OPTION_HIDE_MOUNT	Ascundeþi Mount
+GAME_OPTION_HIDE_PET	Ascunde animalul de companie
+GAME_OPTION_NOTIFICATION_BATTLE_PASS	Battle Pass
+MOUNT_BONUS_AVAILABLE_FIRST	Bonus disponibil pentru primul bonus
+MOUNT_BONUS_AVAILABLE_SECOND	Bonus disponibil pentru al 2-lea bonus.
+MOUNT_BONUS_AVAILABLE_THIRD	Bonus disponibil pentru al 3-lea bonus
+MOUNT_BONUS_HEADER	Bonusuri
+MOUNT_BONUS_UNLOCK	Se deblocheazã la atingerea evoluþiei %d
+MOUNT_DEFAULT_NAME_SHORT	Monturã
+MOUNT_EVOLVE_CONFIRMATION_1	Sunteti sigur ca doriti sa continuati cu evolutia?
+MOUNT_EVOLVE_CONFIRMATION_2	Elementele folosite pentru evolutie se vor pierde si nu pot fi recuperate
+MOUNT_EVOLVE_TITLE	Evolutia monturii
+MOUNT_FEED	Hrãniþi
+MOUNT_FEED_CONFIRMATION	Vrei sa-ti hranesti mount-ul?
+MOUNT_FEED_NEED	Pentru a finaliza acest lucru este necesar |cffc79e65%s|r.
+MOUNT_FOOD	Mâncare
+MOUNT_FOOD_STATE_DYING	Mori de foame
+MOUNT_FOOD_STATE_HUNGRY	Flamand
+MOUNT_FOOD_STATE_STARVING	Infometat
+MOUNT_FOOD_STATE_WELL_FED	Bine Hranit
+MOUNT_FOOD_TIME_FMT	%dh %dmin %dsec
+MOUNT_FOOD_TOOLTIP_EMPTY	Nici un bonus de mancare ramas.
+MOUNT_FOOD_TOOLTIP_TO_DYING	Timp in lupta pana sa moara de foame:
+MOUNT_FOOD_TOOLTIP_TO_HUNGRY	Timp petrecut in lupta pana cand ti se face foame:
+MOUNT_FOOD_TOOLTIP_TO_STARVING	Timp in lupta pana la infometare:
+MOUNT_HORSE_SPEED_TEXT	Viteza calului +%d%%
+MOUNT_MAX_LEVEL_REACHED	Montura ta este la nivelul maxim.
+MOUNT_NO_SPAWN	Nu ai nici-un mount spawnat
+MOUNT_RESULT_BONUS_CHANGED	Vraja %d a monturii tale s-a schimbat.
+MOUNT_RESULT_BONUS_LOCKED	Acest slot de vrajã se deblocheazã la evoluþia %d.
+MOUNT_RESULT_EVOLVED	Montura ta a evoluat!
+MOUNT_RESULT_FED	Þi-ai hrãnit montura.
+MOUNT_RESULT_LEVEL_CAP	Montura ta trebuie sã evolueze pentru a continua.
+MOUNT_RESULT_LEVEL_UP	Montura ta a atins nivelul %d.
+MOUNT_RESULT_SKILL_FAIL	Abilitatea monturii nu a putut fi îmbunãtãþitã.
+MOUNT_RESULT_SKILL_UNLOCKED	Abilitatea %d a monturii tale a fost deblocatã.
+MOUNT_RESULT_SKILL_UP	Abilitatea monturii a fost îmbunãtãþitã.
+MOUNT_RUNE_BLESSING_FMT	Binecuvântarea Anka: %d / %d eºecuri
+MOUNT_RUNE_CHANCE_FMT	ªansã de succes: %%%d
+MOUNT_RUNE_CURRENT	Bonusuri curente
+MOUNT_RUNE_FAILURE	Imbunatatire esuata. Materialele si yangul au fost consumate; runa a pastrat rankul.
+MOUNT_RUNE_INFORMATION	Deblocheaza rune odata ce mountul tau a atins nivelul 30, este complet evoluata si are patru abilitati de nivelul 10. Maximizeaza fiecare runa pentru a o debloca pe urmatoarea. Foloseste + pentru a imbunatati; fiecare sigiliu isi pastreaza rankurile runelor. Bonusurile se aplica doar in timp ce calaresti montura.
+MOUNT_RUNE_MAX	Rank maxim atins
+MOUNT_RUNE_NEXT	Bonusurile urmatorului rank
+MOUNT_RUNE_PAGE_TITLE	Rune
+MOUNT_RUNE_PREVIOUS_MAX	Imbunatateste runa anterioara la maxim prima data.
+MOUNT_RUNE_RANK_FMT	Nivel +%d / +%d
+MOUNT_RUNE_REQUIRE_SKILLS	Necesita toate cele patru abilitati ale mountului la nivelul 10.
+MOUNT_RUNE_SUCCESS	Runa imbunatatita. Contorul sau de Binecuvantare a fost resetat.
+MOUNT_RUNE_UPGRADE_TITLE	Imbunatatire Runa
+MOUNT_SKILL_INFORMATION	Adu-þi montura la nivelul 30 ºi la treapta de evoluþie 4/4.^Deblocheazã abilitãþile pe rând; abilitatea anterioarã trebuie sã fie la nivelul 10.^Fiecare deblocare consumã 1 x %s.^Click pe un slot blocat pentru a-l debloca.
+MOUNT_SKILL_LEVEL	Nivel %d / %d
+MOUNT_SKILL_UNLOCK_CONFIRM_FMT	Vrei sã deblochezi abilitatea monturii folosind 1 buc. %s?
+MOUNT_SKILL_UNLOCK_ORDER	Deblocheazã abilitãþile pe rând ºi atinge nivelul 10 la abilitatea anterioarã.
+MOUNT_SKILL_UNLOCK_REQUIREMENTS	Montura ta trebuie sã fie la nivelul 30 ºi la evoluþia 4/4.
+MOUNT_UPGRADE_SKILL_CONFIRMATION	Vrei sa imbunatatesti abilitatea mount-ului?
+ORE_NAME	Minereu
+PET_AUTO_LOCKED_SKILL_TOOLTIP	Se va debloca automat cand petul atinge nivelul 90
+PET_BTN_EVOLVE	Evolua
+PET_EVOLUTION_TITLE	Evoluþie
+PET_INCUBATOR_PRICE	Preþ incubator: %s |Eemoji/gold|e
+PET_INFORMATION_DURATION	Duratã
+PET_INFORMATION_TITLE	Însoþitor
+PET_LOCKED_SKILL_TOOLTIP	Se poate debloca cand petul atinge nivelul 105 folosind un deblocator de pet
+PET_MSG_CANNOT_SUMMON_NOW	Nu poti chema insotitorul in timp ce faci negot.
+PET_MSG_LEVEL_TOO_HIGH	Nivelul insotitorului nu poate fi mai mare decat cel al jucatorului.
+PET_MSG_LIFETIME_EXTENDED	Durata maximã a petului a fost mãritã la %s zile.
+PET_MSG_LIFETIME_MAX	Durata maximã a petului poate fi de cel mult %s zile.
+PET_MSG_LIFETIME_OVER	Durata petului %s a expirat.
+PET_POTION_REQUIRED_TYPE	Pentru a folosi acest elixir este necesar Tipul de Pet %d
+PET_SEAL_TIME_DHM	%dz %dh %dmin
+PET_SEAL_TOOLTIP_ATTACK	Ataca
+PET_SEAL_TOOLTIP_ELEMENT	Elemental Power
+PET_SEAL_TOOLTIP_HP	PV
+PET_SEAL_TOOLTIP_TIME	Timp rãmas : %s
+SUPPORT_DURATION_BUTTON	Duratã
+SUPPORT_SKILL_AMOUNT_DESC_110	Viteza de miºcare: %s
+SUPPORT_SKILL_AMOUNT_DESC_110_B	Viteza de lansare: %s
+SUPPORT_SKILL_AMOUNT_DESC_111	Puterea de atac: +%s
+SUPPORT_SKILL_AMOUNT_DESC_94	Rezistenþã la atacurile corp la corp: %s
+SUPPORT_SKILL_AMOUNT_DESC_95	Daune la corp la corp reflectate: %s
+SUPPORT_SKILL_AMOUNT_DESC_96	ªansã de lovire criticã: %s
+SUPPORT_TITLE_EVOLVE	Evoluþia Buffi
+SUPPORT_TITLE_SKILL	Abilitati
+TASKBAR_WIKI	Wiki
+TOOLTIP_BUFFI_UNEQUIP	Scoaterea manualã a lui Buffi eliminã efectele abilitãþilor oferite.
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Cautã în magazin
+TOOLTIP_SHORTCUT_WIKI	Deschide Wikipedia

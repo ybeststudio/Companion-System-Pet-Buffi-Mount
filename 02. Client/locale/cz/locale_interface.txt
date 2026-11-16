@@ -1,0 +1,2 @@
+PET_INFORMATION_TITLE	Mazlík
+TASKBAR_PET_INFO	Info o mazlíkovi

@@ -1,0 +1,194 @@
+ADVANCED_OPTIONS_GROUP_DAMAGE_SETTINGS	Paramètres des dégâts
+ADVANCED_OPTIONS_GROUP_HIDE_ENTITIES_EFFECTS	Masquer les entités / effets
+ADVANCED_OPTIONS_GROUP_METINSTONE_SETTINGS	Paramètres des Pierres Metin
+AUTO_ALCHEMY_EXPIRED	Alchimie expirée
+AUTO_ALL_NOTIFICATIONS	Toutes les notifications
+AUTO_BONUS_6_7_FINISHED	Bonus 6/7 terminé
+AUTO_BUFFILERI_GIZLE	Masquer les buffs
+AUTO_COMPANION_EXPIRED	Compagnon expiré
+AUTO_EVRIM	Évolution %d -> %d
+AUTO_GEREKEN_SEVIYE	Niveau requis : %d
+AUTO_ITEM_EXPIRED	Objet expiré
+AUTO_MARKET_SALES	Ventes du marché
+AUTO_MISSION_BOOK	Livre de missions
+AUTO_NOTHING_HIDDEN	Rien de masqué
+AUTO_SA_DK	%dh %dmin
+BIOLOG_SUCCESS_BOOST	Augmente les chances de réussite de %%%d.
+BRAVE_CAPE_TITLE	Cape automatique
+BUFFI_DURATION_PERM	Permanent
+BUFFI_GRADE_GRAND_MASTER	 Grand Maître
+BUFFI_GRADE_MASTER	 Maître
+BUFFI_GRADE_PERFECT_MASTER	 Maître parfait
+BUFFI_INT_POWERED	Ceci est renforcé par : INT
+BUFFI_INT_STAGE_1	Évolution 1 (Niveau 55)
+BUFFI_INT_STAGE_2	Évolution 2 (Niveau 75)
+BUFFI_INT_STAGE_3	Évolution 3 (Niveau 90)
+BUFFI_INT_STAGE_DEFAULT	Par défaut
+BUFFI_INT_TABLE_EVOLUTION	Évolution
+BUFFI_INT_TABLE_INTELLIGENCE	Intelligence
+BUFFI_INT_TOOLTIP	L'Intelligence de Buffi augmente avec l'évolution
+BUFFI_MAX_EVOLUTION_REACHED	Votre Buffi ne peut plus évoluer.
+BUFFI_NO_SPAWN	Vous n'avez aucun Buffi invoqué
+BUFFI_ORE_REMOVE_HINT	Cliquez pour retirer
+BUFFI_SKILL_1_COND	Résistance aux attaques de corps à corps :
+BUFFI_SKILL_1_DESC	Vous créez un cercle protecteur.
+BUFFI_SKILL_1_NAME	Bénédiction
+BUFFI_SKILL_1_NAME_G	Paroles sacrées
+BUFFI_SKILL_1_NAME_P	Bénédiction du Dragon
+BUFFI_SKILL_1_VALUE	Résistance aux attaques au corps à corps : %d%%
+BUFFI_SKILL_2_COND	Ceci renvoie les dommages sur l'attaquant.
+BUFFI_SKILL_2_DESC	Vous créez un cercle protecteur réfléchissant.
+BUFFI_SKILL_2_NAME	Reflet
+BUFFI_SKILL_2_NAME_G	Reflet de l'eau
+BUFFI_SKILL_2_NAME_P	Miroir de cristal
+BUFFI_SKILL_2_VALUE	Dégâts au corps à corps réfléchis : %d%%
+BUFFI_SKILL_3_COND	Les chances de coup critique augmentent.
+BUFFI_SKILL_3_DESC	Vous renforcez votre attaque ou celle d'un membre de votre groupe.
+BUFFI_SKILL_3_NAME	Aide du Dragon
+BUFFI_SKILL_3_NAME_G	Soutien du Dragon
+BUFFI_SKILL_3_NAME_P	Aide du Dragon
+BUFFI_SKILL_3_VALUE	Chance de coup critique : %d%%
+BUFFI_SKILL_3_VALUE_TOOLTIP	Chance de coup critique : %d%%
+BUFFI_SKILL_4_CAST_VALUE_TOOLTIP	Vitesse d'incantation : %d%%
+BUFFI_SKILL_4_COND	La vitesse de déplacement augmente. | Le temps d'attente des compétences est réduit.
+BUFFI_SKILL_4_COND_SELF	Bonus en cas d'application à soi-même
+BUFFI_SKILL_4_DESC	Vous courez aussi vite que le vent.
+BUFFI_SKILL_4_NAME	Promptitude
+BUFFI_SKILL_4_NAME_G	Rapidité
+BUFFI_SKILL_4_NAME_P	Vitesse du vent
+BUFFI_SKILL_4_VALUE	Vitesse de déplacement : %d%%
+BUFFI_SKILL_4_VALUE_TOOLTIP	Vitesse de déplacement : %d%%
+BUFFI_SKILL_5_COND	La puissance de l'attaque augmente temporairement.
+BUFFI_SKILL_5_COND_PARTY	Applicable aux membres du groupe
+BUFFI_SKILL_5_DESC	Vous renforcez un partenaire.
+BUFFI_SKILL_5_NAME	Attaque+
+BUFFI_SKILL_5_NAME_G	Soutien d'attaque
+BUFFI_SKILL_5_NAME_P	Attaque renforcée
+BUFFI_SKILL_5_VALUE	Puissance d'attaque : +%d
+BUFFI_SKILL_COND_SELF_BUFF	Effet positif | Bonus en cas d'application à soi-même
+BUFFI_SUMMON_FIRST	Invoquez d'abord votre Buffi.
+COMPANION_CONFIRM	Confirmer
+COMPANION_COSTUME_BODY	Corps
+COMPANION_COSTUME_HAIR	Coiffure
+COMPANION_COSTUME_SASH	Étole
+COMPANION_COSTUME_WEAPON	Arme
+COMPANION_DAY_SHORT	j
+COMPANION_DURATION	Durée
+COMPANION_EVOLUTION_CANNOT_FAIL	L'amélioration ne peut pas échouer
+COMPANION_EVOLVE	Évolution
+COMPANION_EVOLVE_LEVEL	Votre familier doit être au niveau %d pour évoluer.
+COMPANION_EVOLVE_MAX	Votre familier est déjà au stade d'évolution maximal.
+COMPANION_EVOLVE_PRICE	Prix d'évolution : %s |Eemoji/gold|e
+COMPANION_EVOLVE_SUCCESS	Votre familier a évolué !
+COMPANION_EXP	Expérience
+COMPANION_HOUR_SHORT	h
+COMPANION_NO_PET	Vous n'avez aucun familier invoqué
+COMPANION_PET_LEVEL	Niveau
+COMPANION_PET_NAME	Nom
+COMPANION_PET_PITY	Échecs avant les %%100 de chance : %d / %d
+COMPANION_PET_TYPE	Type
+COMPANION_POTION_FAIL	L'utilisation de l'élixir a échoué.
+COMPANION_POTION_MAX	Valeur maximale pour cet élixir : %%%d
+COMPANION_POTION_NO_PET	Vous devez d'abord invoquer un familier.
+COMPANION_POTION_SUCCESS	Le bonus du familier est passé à %%%0.1f.
+COMPANION_REQUIREMENTS	CONDITIONS REQUISES
+COMPANION_SKILLS	Compétences
+COMPANION_SKILL_SLOT_MAX	Tous les emplacements de compétence du familier sont déjà ouverts.
+COMPANION_SKILL_SLOT_OPENED	L'emplacement de compétence %d du familier a été ouvert.
+COMPANION_TYPE_UP_FAIL	L'amélioration de type a échoué.
+COMPANION_TYPE_UP_GOLD	Vous n'avez pas assez de Yang.
+COMPANION_TYPE_UP_ITEM	Vous n'avez pas les matériaux requis.
+COMPANION_TYPE_UP_MAX	Votre familier est déjà du type maximal.
+COMPANION_TYPE_UP_SUCCESS	Le type du familier a été amélioré.
+COMPANION_UPGRADE_PRICE	Prix d'amélioration
+COMPANION_UPGRADE_TITLE	Type d'amélioration
+COMPANION_UPGRADE_TYPE	Type d'amélioration
+COMPANION_UPGRADE_TYPE_PRICE	Prix d'amélioration : %s |Eemoji/gold|e
+GAME_OPTION_HIDE_MOUNT	Masquer la monture
+GAME_OPTION_HIDE_PET	Masquer le familier
+GAME_OPTION_NOTIFICATION_BATTLE_PASS	Passe de combat
+MOUNT_BONUS_AVAILABLE_FIRST	Bonus disponible pour le 1er bonus
+MOUNT_BONUS_AVAILABLE_SECOND	Bonus disponible pour le 2e bonus
+MOUNT_BONUS_AVAILABLE_THIRD	Bonus disponible pour le 3e bonus
+MOUNT_BONUS_HEADER	Bonus
+MOUNT_BONUS_UNLOCK	Débloqué à l'évolution %d
+MOUNT_DEFAULT_NAME_SHORT	Monture
+MOUNT_EVOLVE_CONFIRMATION_1	Êtes-vous sûr de vouloir procéder à l'évolution ?
+MOUNT_EVOLVE_CONFIRMATION_2	Les objets utilisés pour l'évolution seront perdus et irrécupérables
+MOUNT_EVOLVE_TITLE	Évolution de la monture
+MOUNT_FEED	Nourrir
+MOUNT_FEED_CONFIRMATION	Voulez-vous nourrir votre monture ?
+MOUNT_FEED_NEED	Pour terminer cela, il faut |cffc79e65%s|r.
+MOUNT_FOOD	Nourriture
+MOUNT_FOOD_STATE_DYING	Meurt de faim
+MOUNT_FOOD_STATE_HUNGRY	Affamé
+MOUNT_FOOD_STATE_STARVING	À jeun
+MOUNT_FOOD_STATE_WELL_FED	Bien nourri
+MOUNT_FOOD_TIME_FMT	%dh %dmin %ds
+MOUNT_FOOD_TOOLTIP_EMPTY	Plus aucun bonus nourriture.
+MOUNT_FOOD_TOOLTIP_TO_DYING	Temps en combat avant de mourir de faim :
+MOUNT_FOOD_TOOLTIP_TO_HUNGRY	Temps en combat avant d'avoir faim :
+MOUNT_FOOD_TOOLTIP_TO_STARVING	Temps en combat avant de mourir de faim :
+MOUNT_HORSE_SPEED_TEXT	Vitesse du cheval +%d%%
+MOUNT_MAX_LEVEL_REACHED	Votre monture est au niveau maximal.
+MOUNT_NO_SPAWN	Vous n'avez aucune monture invoquée
+MOUNT_RESULT_BONUS_CHANGED	L'enchantement %d de votre monture a changé.
+MOUNT_RESULT_BONUS_LOCKED	Cet emplacement d'enchantement se débloque à l'évolution %d.
+MOUNT_RESULT_EVOLVED	Votre monture a évolué !
+MOUNT_RESULT_FED	Vous avez nourri votre monture.
+MOUNT_RESULT_LEVEL_CAP	Votre monture doit évoluer pour continuer.
+MOUNT_RESULT_LEVEL_UP	Votre monture a atteint le niveau %d.
+MOUNT_RESULT_SKILL_FAIL	Impossible d'améliorer la compétence de monture.
+MOUNT_RESULT_SKILL_UNLOCKED	La compétence %d de votre monture a été débloquée.
+MOUNT_RESULT_SKILL_UP	Compétence de monture améliorée.
+MOUNT_RUNE_BLESSING_FMT	Bénédiction de Anka : %d / %d échecs
+MOUNT_RUNE_CHANCE_FMT	Chance de réussite : %%%d
+MOUNT_RUNE_CURRENT	Bonus actuels
+MOUNT_RUNE_FAILURE	L'amélioration a échoué. Les matériaux et les Yang ont été dépensés ; la rune conserve son niveau.
+MOUNT_RUNE_INFORMATION	Vous pouvez débloquer les runes quand votre monture atteint le niveau 30, a entièrement évolué et possède quatre compétences de niveau 10. Montez chaque rune au niveau maximal pour débloquer la suivante. Utilisez la touche + pour améliorer ; chaque sceau conserve le niveau de la rune. Les bonus ne s'appliquent que lorsque vous êtes en selle.
+MOUNT_RUNE_MAX	Niveau maximal atteint
+MOUNT_RUNE_NEXT	Bonus du niveau suivant
+MOUNT_RUNE_PAGE_TITLE	Runes
+MOUNT_RUNE_PREVIOUS_MAX	Montez d'abord la rune précédente au niveau maximal.
+MOUNT_RUNE_RANK_FMT	Niveau +%d / +%d
+MOUNT_RUNE_REQUIRE_SKILLS	Les quatre compétences de monture doivent être au niveau 10.
+MOUNT_RUNE_SUCCESS	Rune améliorée. Le compteur de la Bénédiction de Anka a été réinitialisé.
+MOUNT_RUNE_UPGRADE_TITLE	Amélioration de rune
+MOUNT_SKILL_INFORMATION	Amenez votre monture au niveau 30 et à l'évolution 4/4.^Débloquez les compétences dans l'ordre ; la précédente doit être au niveau 10.^Chaque déblocage consomme 1 x %s.^Cliquez sur un emplacement verrouillé pour le débloquer.
+MOUNT_SKILL_LEVEL	Niveau %d / %d
+MOUNT_SKILL_UNLOCK_CONFIRM_FMT	Voulez-vous débloquer la compétence de monture en utilisant 1 %s ?
+MOUNT_SKILL_UNLOCK_ORDER	Débloquez les compétences dans l'ordre et atteignez le niveau 10 de la précédente.
+MOUNT_SKILL_UNLOCK_REQUIREMENTS	Votre monture doit être au niveau 30 et à l'évolution 4/4.
+MOUNT_UPGRADE_SKILL_CONFIRMATION	Améliorer la compétence de votre monture ?
+ORE_NAME	Minerai
+PET_AUTO_LOCKED_SKILL_TOOLTIP	Se débloque automatiquement quand le familier atteint le niveau 90
+PET_BTN_EVOLVE	Évoluer
+PET_EVOLUTION_TITLE	Évolution
+PET_INCUBATOR_PRICE	Prix de l'incubateur : %s |Eemoji/gold|e
+PET_INFORMATION_DURATION	Durée
+PET_INFORMATION_TITLE	Compagnon [P]
+PET_LOCKED_SKILL_TOOLTIP	Peut être débloqué avec un Déverrouilleur de familier quand le familier atteint le niveau 105
+PET_MSG_CANNOT_SUMMON_NOW	Vous ne pouvez pas appeler votre familier pendant un échange.
+PET_MSG_LEVEL_TOO_HIGH	Le niveau du familier ne peut pas dépasser celui du joueur.
+PET_MSG_LIFETIME_EXTENDED	La durée maximale du familier est passée à %s jours.
+PET_MSG_LIFETIME_MAX	La durée maximale du familier ne peut pas dépasser %s jours.
+PET_MSG_LIFETIME_OVER	La durée du familier %s est écoulée.
+PET_POTION_REQUIRED_TYPE	Le type de familier %d est requis pour utiliser cet élixir
+PET_SEAL_TIME_DHM	%dj %dh %dmin
+PET_SEAL_TOOLTIP_ATTACK	Attaquer
+PET_SEAL_TOOLTIP_ELEMENT	Elemental Power
+PET_SEAL_TOOLTIP_HP	PV
+PET_SEAL_TOOLTIP_TIME	Temps restant : %s
+SUPPORT_DURATION_BUTTON	Durée
+SUPPORT_SKILL_AMOUNT_DESC_110	Vitesse de déplacement : %s
+SUPPORT_SKILL_AMOUNT_DESC_110_B	Vitesse d'incantation : %s
+SUPPORT_SKILL_AMOUNT_DESC_111	Puissance d'attaque : +%s
+SUPPORT_SKILL_AMOUNT_DESC_94	Résistance aux attaques de mêlée : %s
+SUPPORT_SKILL_AMOUNT_DESC_95	Dégâts de mêlée renvoyés : %s
+SUPPORT_SKILL_AMOUNT_DESC_96	Chance de coup critique : %s
+SUPPORT_TITLE_EVOLVE	Évolution de Buffi
+SUPPORT_TITLE_SKILL	Compétences
+TASKBAR_WIKI	Wiki
+TOOLTIP_BUFFI_UNEQUIP	Retirer Buffi manuellement supprime les effets de compétence qu'il apporte.
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Chercher dans la boutique
+TOOLTIP_SHORTCUT_WIKI	Ouvrir Wikipedia
