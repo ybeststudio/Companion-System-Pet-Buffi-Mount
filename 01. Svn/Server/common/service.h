@@ -8,3 +8,4 @@
 		#define ENABLE_BUFFI_CHANGE_SEX				// Buffi cinsiyet degistirme tilsimi
 #define ENABLE_PET_EXP_BONUS
 #define ENABLE_GROWTH_PET_RENEWAL
+#define ENABLE_COMPANION_ATTACK_FIX					// Binek, at, evcil hayvan ve Buffi beceri / alan hasari ile vurulamaz

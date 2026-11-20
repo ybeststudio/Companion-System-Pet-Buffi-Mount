@@ -41,6 +41,7 @@ Added/            → Değişikliklerin uygulanmış hali (tam dosyalar, karşı
 - `ENABLE_BUFFI_GROWTH`
 - `ENABLE_BUFFI_CHANGE_SEX`
 - `ENABLE_PET_EXP_BONUS`
+- `ENABLE_COMPANION_ATTACK_FIX`
 - `ENABLE_GROWTH_PET_RENEWAL`
 
 Client ve game tarafında aynı isimli flagler birlikte açık olmalı; tek taraf açıkken paket / komut uyumsuzluğu olur.
@@ -67,6 +68,7 @@ Client ve game tarafında aynı isimli flagler birlikte açık olmalı; tek tara
 
 ## Notlar
 
+- `ENABLE_COMPANION_ATTACK_FIX` (sadece game): binek, çağrılan at, evcil hayvan ve Buffi hiçbir saldırı / alan becerisi ile vurulamaz. Şaman şimşek becerisiyle Şeytan Kulesi'nde bineğin / atın ölmesi hatasını giderir (`pvp.cpp`).
 - Veri dosyaları: `locale/common/config_json/mount_runes.json`
 - Locale dosyalarında yalnızca bu sisteme ait anahtarlar var; `new_locale_*` kendi eklediğimiz, `locale_game` / `locale_interface` resmi istemcide olmayan anahtarlar. Türkçe dosyalar cp1254.
 - Patch'lerde başka sistemlere ait satırlar görürsen (farklı `#ifdef`), o sistem sende yoksa yok say.
